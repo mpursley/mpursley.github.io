@@ -15,7 +15,7 @@ title: Matt Pursley's CV
 
 ### __Sony Interactive Entertainment, Playstation__ `Nov 2016 - Present`
 _SRE - Site Reliability Engineer_
-Systems and Service Monitoring and Reliability
+__Systems and Service Monitoring and Reliability__
 - Receive and respond to critical production alerts.  Take immediate action to remediate, assess customer impact, inform and escalate to relevant groups/teams.  Communicate current incident status with Executives,  SR Management, relevant teams, etc. Drive RCA (Root Cause Analysis) efforts, design and manage long term mitigation plans.
 - Monitor mission critical KPIs through live metrics, events and daily reports.  Perform further analysis and investigation into issues with KPIs.
 Technical Lead on projects to design, build and maintain systems and service metrics collection, monitoring and alerting at a global scale.
