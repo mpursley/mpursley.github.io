@@ -13,13 +13,17 @@ title: Matt Pursley's CV
 
 ## Professional Experience
 
-### __Physical Therapy Department in Hospital__ 
-`May 2016 - August 2016, August 2017`
-_Intern_
+### __Sony Interactive Entertainment, Playstation__ `May 2016 - August 2016, August 2017`
+_SRE - Site Reliability Engineer_
+- Systems and Service Monitoring and Reliability
+- Systems and Infrastructure Deployment
+- Team and Project Management
+
 - Conduct simple therapy procedures
 - Educate patients in anatomy, pathology, treatment and injury prevention   
 - Document subjective and objective measures and patients process
 - Evaluate and assess patients to restore body functions  
+
 
 ### __Phoenix Rehabilitation__ `Sep 2017 - current`
 _Intern_
