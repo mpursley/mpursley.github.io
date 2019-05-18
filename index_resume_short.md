@@ -13,7 +13,8 @@ title: Matt Pursley's CV
 
 ## Professional Experience
 
-### __Physical Therapy Department in Hospital__ `May 2016 - August 2016, August 2017`
+### __Physical Therapy Department in Hospital__ 
+`May 2016 - August 2016, August 2017`
 _Intern_
 - Conduct simple therapy procedures
 - Educate patients in anatomy, pathology, treatment and injury prevention   
