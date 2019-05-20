@@ -128,7 +128,7 @@ code {
 
 
 li:before {
-	content: "-";
+	content: "*";
 	position: relative;
 	left: -0.5em;
 }
@@ -140,7 +140,7 @@ li {
 	/*color: #777;*/
 }
 
-#webaddress {
+webaddress {
 	text-align: center;
 	position: relative;
 	font-weight: lighter;
