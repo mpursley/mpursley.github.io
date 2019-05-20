@@ -3,7 +3,7 @@ layout: cv
 title: Matt Pursley's CV
 ---
 
-# Matt _Pursley_
+# Matt ___Pursley___
 <div id="webaddress">
 <i class="fi-telephone" style="margin-left:1em"></i>
 772-226-0559
