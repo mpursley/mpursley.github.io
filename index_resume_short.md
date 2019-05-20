@@ -20,4 +20,6 @@ title: Matt Pursley's CV
   * sub item1
   * sub item2
 * Systems and Infrastructure Deployment
+  * test mobile edit
 * Team and Project Management
+  * test2 mobile edit
