@@ -128,7 +128,7 @@ code {
 
 
 li:before {
-	/*content: "*";*/
+	content: "·";
 	position: relative;
 	left: -0.5em;
 }
