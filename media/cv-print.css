@@ -102,7 +102,7 @@ h2 {
 	width: 100%;
 }
 h2:after {
-  border-bottom: 1.7px dashed #D3D3D3;
+  /*border-bottom: 1.7px dashed #D3D3D3;*/
   /* height: 0.8em; */
   margin-left: 10px;
   content: '';
