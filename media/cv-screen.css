@@ -126,6 +126,11 @@ code {
 	/*float: right;*/
 }
 
+/*li:before {
+	content: "-";
+	position: relative;
+	left: -0.5em;
+}*/
 
 li {
 	/*second line indent*/
