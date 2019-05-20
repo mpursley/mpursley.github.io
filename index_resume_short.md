@@ -5,7 +5,7 @@ title: Matt Pursley's CV
 
 # Matt *Pursley*
 <div id="webaddress">
-<i class="fi-telephone" style="margin-left:1em"></i>
+<i class="fi-telephone"></i>
 772-226-0559
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="mpursley@gmail.com">mpursley@gmail.com</a>
@@ -15,7 +15,7 @@ title: Matt Pursley's CV
 
 ### __Sony Interactive Entertainment, Playstation__
 ```Nov 2016 - Present```
-_SRE - Site Reliability Engineer_
+ - _SRE - Site Reliability Engineer_
 
 * Systems and Service Monitoring and Reliability
   * sub item1
