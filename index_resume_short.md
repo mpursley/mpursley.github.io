@@ -2,8 +2,13 @@
 layout: cv
 title: Matt Pursley's CV
 ---
-
-<img src="assets/matt pursley resume logo v2 cropped.png" width="200">  __Matt Pursley__, RHCE, PSM<br>
+<table style="width:100%">
+  <tr>
+    <th><img src="assets/matt pursley resume logo v2 cropped.png" width="200"></th>
+    <th> __Matt Pursley__, RHCE, PSM <br>Systems and Service Reliability Engineer</th> 
+    <th>Age</th>
+  </tr>
+</table>
 Systems and Service Reliability Engineer
 <div id="webaddress">
 <i class="fi-telephone"></i>
