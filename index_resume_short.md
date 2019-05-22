@@ -3,9 +3,9 @@ layout: cv
 title: Matt Pursley's CV
 ---
 
-<img src="assets/matt pursley resume logo v2.png" width="700">
 # Matt __Pursley__
 <div id="webaddress">
+<img src="assets/matt pursley resume logo v2.png" width="700">
 <i class="fi-telephone"></i>
 772-226-0559
 <i class="fi-mail" style="margin-left:1em"></i>
