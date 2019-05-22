@@ -5,8 +5,8 @@ title: Matt Pursley's CV
 
 <table style="width:40%" border="1">
   <tr>
-    <td valign="top"><img src="assets/matt pursley resume logo v2 cropped.png" width="200"></td>
-    <td valign="top">__Matt Pursley__, RHCE, PSM<br>Systems and Service Reliability Engineer</td> 
+    <td valign="center"><img src="assets/matt pursley resume logo v2 cropped.png" width="200"></td>
+    <td valign="center">__Matt Pursley__, RHCE, PSM<br>Systems and Service Reliability Engineer</td> 
   </tr>
 </table>
 
