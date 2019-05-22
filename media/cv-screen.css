@@ -8,12 +8,8 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
+
+
 blockquote, q {
 	quotes: none;
 }
@@ -79,19 +75,6 @@ code {
 	font-family: "Palatino";
 	font-style: italic;
 	/*float: right;*/
-}
-
-li:before {
-	content: "-";
-	position: relative;
-	left: -0.5em;
-}
-
-li {
-	/*second line indent*/
-	padding-left: 2.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 #webaddress {
