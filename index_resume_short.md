@@ -3,7 +3,7 @@ layout: cv
 title: Matt Pursley's CV
 ---
 
-# Matt *Pursley*
+# Matt __Pursley__
 <div id="webaddress">
 <i class="fi-telephone"></i>
 772-226-0559
