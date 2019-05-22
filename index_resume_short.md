@@ -4,7 +4,7 @@ title: Matt Pursley's CV
 ---
 
 # Matt __Pursley__
-<img src="assets/matt pursley resume logo v2.png" width="700">
+<img src="assets/matt pursley resume logo v2 cropped.png" width="700">
 <div id="webaddress">
 <i class="fi-telephone"></i>
 772-226-0559
