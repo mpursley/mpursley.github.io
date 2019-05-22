@@ -3,7 +3,9 @@ layout: cv
 title: Matt Pursley's CV
 ---
 
-<img src="assets/matt pursley resume logo v2 cropped.png" width="700">  Matt __Pursley__
+<img src="assets/matt pursley resume logo v2 cropped.png" width="700">  
+__Matt Pursley__, RHCE, PSM
+Systems and Service Reliability Engineer
 <div id="webaddress">
 <i class="fi-telephone"></i>
 772-226-0559
