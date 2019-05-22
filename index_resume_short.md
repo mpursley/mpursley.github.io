@@ -9,13 +9,9 @@ title: Matt Pursley's CV
   </tr>
 </table>
 
-<div id="webaddress">
-<i class="fi-telephone"></i>
 772-226-0559
-<i class="fi-mail" style="margin-left:1em"></i>
 <a href="mpursley@gmail.com">mpursley@gmail.com</a>
-</div>
-
+  
 
 ## Professional Experience
 
