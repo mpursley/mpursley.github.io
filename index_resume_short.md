@@ -56,6 +56,8 @@ SRE - Site Reliability Engineer
     <th>
       Scripting & Programming
     </th>
+  </tr>
+  <tr>
     <td align="right">
       <li>CentOS,  Fedora, Gentoo
       <li>MacOSX
@@ -68,4 +70,5 @@ SRE - Site Reliability Engineer
     <li>Perl
     <li>C/C++
     </td>
+  </tr>
   </tr>
