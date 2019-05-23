@@ -53,8 +53,8 @@ table {
 
 body {
 	/*font: normal normal 400;*/
-	font-size: 120%;
-	line-height: 1.5em;
+	/*font-size: 120%;*/
+	/*line-height: 1.5em;*/
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: "Helvetica",sans-serif;
 	/*font-family: "Times New Roman",serif;*/
@@ -106,6 +106,7 @@ h2 {
 	margin-bottom: 0.5em;
 	width: 100%;
 }
+
 h2:after {
   /*border-bottom: 1.7px dashed #D3D3D3;*/
   /* height: 0.8em; */
