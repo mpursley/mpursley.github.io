@@ -5,7 +5,7 @@ title: Matt Pursley's CV
 
 <center><table width="600">
   <tr>
-    <td valign="middle" align="right">
+    <td valign="middle" align="right" border="1">
       <img src="assets/matt pursley resume logo v2 cropped.png" width="300">
     </td>
     <td valign="middle" align="left">
