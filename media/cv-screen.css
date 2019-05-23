@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	/*list-style: none;*/
 }
 blockquote, q {
 	quotes: none;
@@ -137,6 +137,7 @@ li:before {
 
 li {
 	/*second line indent*/
+	content: "*";
 	padding-left: 2.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
