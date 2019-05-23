@@ -63,10 +63,10 @@ SRE - Site Reliability Engineer
   </tr>
   <tr>
     <td>
-      * CentOS,  Fedora, Gentoo
-      * MacOSX
-      * Windows
-      * AWS, GCP, VMWare ESXi
+      <li> CentOS,  Fedora, Gentoo
+      <li> MacOSX
+      <li> Windows
+      <li> AWS, GCP, VMWare ESXi
     </td>
     <td>
       <li>Shell Scripting (sh, bash, etc)
