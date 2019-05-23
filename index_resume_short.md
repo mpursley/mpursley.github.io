@@ -5,9 +5,12 @@ title: Matt Pursley's CV
 
 <center><table width="600">
   <tr>
-    <td valign="middle" align="right"><img src="assets/matt pursley resume logo v2 cropped.png" width="300"></td>
-    <td valign="middle" align="left"><b>Matt Pursley</b>, RHCE PSM<br>Systems and Service Reliability Engineer</td>
-  </tr>
+    <td valign="middle" align="right">
+      <img src="assets/matt pursley resume logo v2 cropped.png" width="300">
+    </td>
+    <td valign="middle" align="left">
+      <b>Matt Pursley</b>, RHCE PSM<br>Systems and Service Reliability Engineer
+    </td>
     <td valign="middle" align="right"> <div id="webaddress"> 
       <i class="fi-telephone"></i>772-226-055</div> 
     </td>
@@ -16,6 +19,7 @@ title: Matt Pursley's CV
       <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a> 
       </div> 
     </td>
+  </tr>
 </table>
 </center>
 
