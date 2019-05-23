@@ -58,17 +58,17 @@ SRE - Site Reliability Engineer
     </th>
   </tr>
   <tr>
-    <td align="right">
+    <td>
       <li>CentOS,  Fedora, Gentoo
       <li>MacOSX
       <li>Windows
       <li>AWS, GCP, VMWare ESXi
     </td>
     <td>
-    <li>Shell Scripting (sh, bash, etc)
-    <li>Python 
-    <li>Perl
-    <li>C/C++
+      <li>Shell Scripting (sh, bash, etc)
+      <li>Python 
+      <li>Perl
+      <li>C/C++
     </td>
   </tr>
   </tr>
