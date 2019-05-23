@@ -20,8 +20,9 @@ title: Matt Pursley's CV
 
 ## Professional Experience
 
+```Nov 2016 - Present```
 ### __Sony Interactive Entertainment, Playstation__
-```Nov 2016 - Present``` : _SRE - Site Reliability Engineer_
+_SRE - Site Reliability Engineer_
 
 * Systems and Service Monitoring and Reliability
   * sub item1
