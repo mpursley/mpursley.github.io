@@ -41,7 +41,7 @@ SRE - Site Reliability Engineer
 
 ## Education
 
-2018 • PSM (Professional Scrum Master), Scrum.org
-2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.
-1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver
+2018 • PSM (Professional Scrum Master), Scrum.org<br>
+2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.<br>
+1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver<br>
 
