@@ -12,9 +12,9 @@ title: Matt Pursley's CV
       <b>Matt Pursley</b>, RHCE PSM<br>
       Systems and Service Reliability Engineer<br>
       <div id="webaddress">
-        <i class="fi-telephone"></i>772-226-0559<br>
         <i class="fi-mail"></i> 
-        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a> 
+        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a>
+        <i class="fi-telephone"></i>772-226-0559<br>
       </div> 
     </td>
   </tr>
