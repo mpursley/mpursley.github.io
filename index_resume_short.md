@@ -49,41 +49,6 @@ SRE - Site Reliability Engineer
 
 ## SKILLS AND ABILITIES (in order of experience)
 
-* <table>
-  <tr>
-    <th align="left">
-      Systems Platforms
-    </th>
-    <th align="left">
-      Scripting & Programming
-    </th>
-    <th align="left">
-      Monitoring & Alerting
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <li> CentOS,  Fedora, Gentoo
-      <li> MacOSX
-      <li> Windows
-      <li> AWS, GCP, VMWare ESXi
-
-    <td>
-      <li>Shell Scripting (sh, bash, etc)
-      <li>Python 
-      <li>Perl
-      <li>C/C++
-
-    <td>
-      <li>Prometheus
-      <li>Grafana
-      <li>Kibana
-      <li>OpenNMS
-      <li>Atlassian (Jira, Confluence, etc.)
-</tr>
-</table>
-
-
 Systems Platforms | Scripting & Programming | Monitoring & Alerting | 2D Software | 3D Software
 ------------------|-------------------------|-----------------------|-------------|------------
 • CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)
