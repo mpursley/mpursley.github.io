@@ -49,7 +49,7 @@ SRE - Site Reliability Engineer
 
 ## SKILLS AND ABILITIES (in order of experience)
 
-<table width="800">
+* <table width="800">
   <tr>
     <th align="left">
       Systems Platforms
