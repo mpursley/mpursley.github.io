@@ -24,7 +24,7 @@ title: Matt Pursley's CV
 </table>
 </center>
 
-## Professional Experience
+## Work Experience
 
 _Nov 2016 - Present_
 ### __Sony Interactive Entertainment, Playstation__
@@ -37,3 +37,11 @@ SRE - Site Reliability Engineer
   * test mobile edit
 * Team and Project Management
   * test2 mobile edit
+  
+
+## Education
+
+2018 • PSM (Professional Scrum Master), Scrum.org
+2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.
+1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver
+
