@@ -14,7 +14,7 @@ title: Matt Pursley's CV
   </tr>
   <tr>
     <td align="right"> 
-      <div id="webaddress"><i class="fi-telephone"></i>772-226-055</div> 
+      <div id="webaddress"><i class="fi-telephone"></i>772-226-0559    </div> 
     </td>
     <td align="left"> 
       <div id="webaddress"><i class="fi-mail" style="margin-left:1em"></i> 
