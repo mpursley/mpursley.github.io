@@ -50,10 +50,10 @@ SRE - Site Reliability Engineer
 
 <table width="800">
   <tr>
-    <th>
+    <th align="left">
       Systems Platforms
     </th>
-    <th>
+    <th align="left">
       Scripting & Programming
     </th>
   </tr>
