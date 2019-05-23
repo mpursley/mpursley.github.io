@@ -53,6 +53,6 @@ Systems Platforms | Scripting & Programming | Monitoring & Alerting | 2D Softwar
 ------------------|-------------------------|-----------------------|-------------|------------
 • CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)
 • MacOSX | • Python | • Prometheus | • PhotoShop | • Maya 
-• Windows | • Perl | • Grafana | • Kibana | • Tweak RV | • NukeX
+• Windows | • Perl | • Grafana | • Kibana | • Tweak RV
 • VMWare ESXi | • C/C++ | • OpenNMS | • Tweak RV | • Houdini
 • Netbackup | • Atlassian (Jira, Confluence, etc.) | • Piranha HD | • Mental Ray
