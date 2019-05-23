@@ -3,7 +3,8 @@ layout: cv
 title: Matt Pursley's CV
 ---
 
-<center><table width="800" id="contact_table">
+<center><div id="contact_table">
+  <table width="800">
   <tr>
     <td align="right">
       <img src="assets/matt pursley resume logo v2 cropped.png" width="300">
@@ -21,7 +22,7 @@ title: Matt Pursley's CV
       </div> 
     </td>
   </tr>
-</table>
+</table></div>
 </center>
 
 ## Work Experience
