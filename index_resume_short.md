@@ -81,3 +81,11 @@ SRE - Site Reliability Engineer
       <li>OpenNMS
       <li>Atlassian (Jira, Confluence, etc.)
 
+
+Systems Platforms | Scripting & Programming | Monitoring & Alerting | 2D Software | 3D Software
+------------------|-------------------------|-----------------------|-------------|------------
+• CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)
+• MacOSX | • Python | • Prometheus | • PhotoShop | • Maya 
+• Windows | • Perl | • Grafana | • Kibana | • Tweak RV | • NukeX
+• VMWare ESXi | • C/C++ | • OpenNMS | • Tweak RV | • Houdini
+• Netbackup | • Atlassian (Jira, Confluence, etc.) | • Piranha HD | • Mental Ray
