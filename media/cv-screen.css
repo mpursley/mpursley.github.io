@@ -148,7 +148,7 @@ li {
 }
 
 #webaddress {
-	text-align: center;
+	/*text-align: center;*/
 	position: relative;
 	font-weight: lighter;
 	color: #ccc;
