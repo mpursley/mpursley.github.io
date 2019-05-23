@@ -80,6 +80,8 @@ SRE - Site Reliability Engineer
       <li>Kibana
       <li>OpenNMS
       <li>Atlassian (Jira, Confluence, etc.)
+</tr>
+</table>
 
 
 Systems Platforms | Scripting & Programming | Monitoring & Alerting | 2D Software | 3D Software
