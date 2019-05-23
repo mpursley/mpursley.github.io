@@ -67,19 +67,17 @@ SRE - Site Reliability Engineer
       <li> MacOSX
       <li> Windows
       <li> AWS, GCP, VMWare ESXi
-    </td>
+
     <td>
       <li>Shell Scripting (sh, bash, etc)
       <li>Python 
       <li>Perl
       <li>C/C++
-    </td>
+
     <td>
       <li>Prometheus
       <li>Grafana
       <li>Kibana
       <li>OpenNMS
       <li>Atlassian (Jira, Confluence, etc.)
-    </td>
-  </tr>
-  </table>
+
