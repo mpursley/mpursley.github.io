@@ -57,6 +57,10 @@ table {
 	/*font-size: 120%;*/
 }
 
+th {
+	text-align: left;
+}
+
 /* end of reset */
 
 body {
