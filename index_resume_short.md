@@ -11,10 +11,12 @@ title: Matt Pursley's CV
     <td valign="middle" align="left">
       <b>Matt Pursley</b>, RHCE PSM<br>Systems and Service Reliability Engineer
     </td>
+  </tr>
+  <tr>
     <td valign="middle" align="right"> <div id="webaddress"> 
       <i class="fi-telephone"></i>772-226-055</div> 
     </td>
-    <td valign="middle" align="right"> <div id="webaddress"> 
+    <td valign="middle" align="left"> <div id="webaddress"> 
       <i class="fi-mail" style="margin-left:1em"></i> 
       <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a> 
       </div> 
