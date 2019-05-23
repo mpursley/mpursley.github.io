@@ -51,8 +51,8 @@ SRE - Site Reliability Engineer
 
 Systems Platforms | Scripting & Programming | Monitoring & Alerting | 2D Software | 3D Software
 ------------------|-------------------------|-----------------------|-------------|------------
-• CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)
-• MacOSX | • Python | • Prometheus | • PhotoShop | • Maya 
-• Windows | • Perl | • Grafana | • Kibana | • Tweak RV
-• VMWare ESXi | • C/C++ | • OpenNMS | • Tweak RV | • Houdini
-• Netbackup | • Atlassian (Jira, Confluence, etc.) | • Piranha HD | • Mental Ray
+• CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus | • PhotoShop | • Maya
+• MacOSX | • Python | • Grafana | • Kibana | • Tweak RV
+• Windows | • Perl | • OpenNMS | • Tweak RV | • Houdini
+• VMWare ESXi | • C/C++ | • Atlassian (Jira, Confluence, etc.) | • Piranha HD | • Mental Ray
+
