@@ -57,7 +57,7 @@ SRE - Site Reliability Engineer
     <th align="left">
       Scripting & Programming
     </th>
-    <th>
+    <th align="left">
       Monitoring & Alerting
     </th>
   </tr>
