@@ -131,7 +131,7 @@ code {
 li:before {
 	/*content: "-";*/
 	/*position: relative;*/
-	left: -0.5em;
+	left: 0.5em;
 }
 
 li {
