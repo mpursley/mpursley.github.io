@@ -45,3 +45,27 @@ SRE - Site Reliability Engineer
 * 2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.<br>
 * 1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver<br>
 
+
+## SKILLS AND ABILITIES (in order of experience)
+
+<table width="800">
+  <tr>
+    <th>
+      Systems Platforms
+    </th>
+    <th>
+      Scripting & Programming
+    </th>
+    <td align="right">
+      <li>CentOS,  Fedora, Gentoo
+      <li>MacOSX
+      <li>Windows
+      <li>AWS, GCP, VMWare ESXi
+    </td>
+    <td>
+    <li>Shell Scripting (sh, bash, etc)
+    <li>Python 
+    <li>Perl
+    <li>C/C++
+    </td>
+  </tr>
