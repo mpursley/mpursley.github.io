@@ -129,15 +129,13 @@ code {
 
 
 li:before {
-	/*content: "-";*/
-	content: "*";
+	content: "-";
 	position: relative;
 	left: -0.5em;
 }
 
 li {
 	/*second line indent*/
-	content: "*";
 	padding-left: 2.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
