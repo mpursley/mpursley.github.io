@@ -5,10 +5,10 @@ title: Matt Pursley's CV
 
 Test Matt Pursley
 
-<center><table style="width:60%">
+<center><table style="width:40%">
   <tr>
-    <td valign="middle"><img src="assets/matt pursley resume logo v2 cropped.png" width="200"></td>
-    <td valign="middle" align="left"><b>Matt Pursley</b>, RHCE, PSM<br>Systems and Service Reliability Engineer</td>
+    <td valign="middle"><img src="assets/matt pursley resume logo v2 cropped.png" width="300"></td>
+    <td valign="middle" align="left"><b>Matt Pursley</b>, RHCE PSM<br>Systems and Service Reliability Engineer</td>
   </tr>
 </table>
 </center>
