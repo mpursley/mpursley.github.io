@@ -42,9 +42,9 @@ SRE - Site Reliability Engineer
 
 ## Education
 
-* 2018 • PSM (Professional Scrum Master), Scrum.org<br>
-* 2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.<br>
-* 1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver<br>
+* 2018 • PSM (Professional Scrum Master), Scrum.org
+* 2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.
+* 1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver
 
 
 ## SKILLS AND ABILITIES (in order of experience)
@@ -63,10 +63,10 @@ SRE - Site Reliability Engineer
   </tr>
   <tr>
     <td>
-      <li>CentOS,  Fedora, Gentoo
-      <li>MacOSX
-      <li>Windows
-      <li>AWS, GCP, VMWare ESXi
+      * CentOS,  Fedora, Gentoo
+      * MacOSX
+      * Windows
+      * AWS, GCP, VMWare ESXi
     </td>
     <td>
       <li>Shell Scripting (sh, bash, etc)
