@@ -57,6 +57,9 @@ SRE - Site Reliability Engineer
     <th align="left">
       Scripting & Programming
     </th>
+    <th>
+      Monitoring & Alerting
+    </th>
   </tr>
   <tr>
     <td>
@@ -70,6 +73,13 @@ SRE - Site Reliability Engineer
       <li>Python 
       <li>Perl
       <li>C/C++
+    </td>
+    <td>
+      <li>Prometheus
+      <li>Grafana
+      <li>Kibana
+      <li>OpenNMS
+      <li>Atlassian (Jira, Confluence, etc.)
     </td>
   </tr>
   </tr>
