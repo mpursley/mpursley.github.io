@@ -82,4 +82,4 @@ SRE - Site Reliability Engineer
       <li>Atlassian (Jira, Confluence, etc.)
     </td>
   </tr>
-
+ </table>
