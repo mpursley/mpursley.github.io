@@ -13,8 +13,8 @@ title: Matt Pursley's CV
       Systems and Service Reliability Engineer<br>
       <div id="webaddress">
         <i class="fi-mail"></i> 
-        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a>
-        <i class="fi-telephone"></i>772-226-0559<br>
+        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br>
+        <i class="fi-telephone"></i>772-226-0559
       </div> 
     </td>
   </tr>
