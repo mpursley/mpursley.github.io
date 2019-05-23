@@ -16,12 +16,12 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+	/*margin: 0;*/
+	/*padding: 0;*/
+	/*border: 0;*/
+	/*font-size: 100%;*/
+	/*font: inherit;*/
+	/*vertical-align: baseline;*/
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	/*list-style: none;*/
 }
 blockquote, q {
 	quotes: none;
@@ -42,20 +42,35 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+
+#contact_table table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-family: "Times New Roman",serif;
+	font-size: 120%;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	/*font-family: "Times New Roman",serif;*/
+	/*font-size: 120%;*/
+}
+
+th {
+	text-align: left;
 }
 
 /* end of reset */
 
 body {
-	font: normal normal 400;
-	font-size: 11pt;
-	line-height: 1.5em;
+	/*font: normal normal 400;*/
+	/*font-size: 120%;*/
+	/*line-height: 1.5em;*/
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: "Helvetica",sans-serif;
-	/* margin: 0.5in 0.5in 0.5in 0.5in */
+	/*font-family: "Times New Roman",serif;*/
+	margin: 0.5in 0.5in 0.5in 0.5in
 	/* margin-top: 1em;
 	margin-left: 1em; */
 }
@@ -76,7 +91,8 @@ em {
 h1 {
 	font-family: "Avenir Next",sans-serif;
 	text-align: center;
-	font-size: 50pt;
+	/* font-size: 50pt; */
+	font-size: 600%;
 	font-weight: lighter;
 	position: relative;
 	line-height: 1.2em;
@@ -92,7 +108,8 @@ h1 strong {
 /* Section headers */
 h2 {
 	font-family: "Avenir Next",sans-serif;
-	font-size: 20pt;
+	/* font-size: 20pt; */
+	font-size: 200%;
 	text-align: center;
 	font-weight: normal;
 	display: flex;
@@ -101,6 +118,7 @@ h2 {
 	margin-bottom: 0.5em;
 	width: 100%;
 }
+
 h2:after {
   /*border-bottom: 1.7px dashed #D3D3D3;*/
   /* height: 0.8em; */
@@ -121,37 +139,35 @@ h3 {
 code {
 	font-family: "Palatino";
 	font-style: italic;
-	float: right;
+	/*float: right;*/
 }
 
 
 li:before {
-	content: "-";
+	/*content: "-";*/
 	position: relative;
-	left: -0.5em;
+	/*left: 1.5em;*/
+	padding-left: 1.25em;
+	text-indent: 1.25em;
+
 }
 
 li {
 	/*second line indent*/
-	padding-left: 2.25em;
+	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
 }
 
 #webaddress {
-	text-align: center;
-	position: relative;
-	font-weight: lighter;
+	/*text-align: center;*/
+	/*position: relative;*/
+	/*font-weight: lighter;*/
 	color: #ccc;
 	/* font-family: Menlo,monospace,sans-serif; */
+	font-size: 80%;
 }
 
 #webaddress a {
 	text-decoration: none;
-}
-
-@media print {
-    p {page-break-inside: avoid;}
-	h2 {page-break-after: avoid;}
-	h3 {page-break-after: avoid;}
 }
