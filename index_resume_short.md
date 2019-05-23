@@ -3,8 +3,6 @@ layout: cv
 title: Matt Pursley's CV
 ---
 
-Test Matt Pursley
-
 <center><table style="width:40%">
   <tr>
     <td valign="middle"><img src="assets/matt pursley resume logo v2 cropped.png" width="300"></td>
@@ -12,8 +10,6 @@ Test Matt Pursley
   </tr>
 </table>
 </center>
-
-Test Matt Pursley
 
 <div id="webaddress">
 <i class="fi-telephone"></i>
