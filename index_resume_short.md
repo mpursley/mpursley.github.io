@@ -30,24 +30,27 @@ title: Matt Pursley's CV
 <table width="800">
   <tr>
     <td align="right">
-      _Nov 2016 - Present_ 
+      <i>Nov 2016 - Present</i>
     </td>
     <td>
-      __Sony Interactive Entertainment, Playstation__
+      <br>Sony Interactive Entertainment, Playstation</b>
     </td>
   </tr>
   <tr>
     <td>
     </td>
     <td>
-      SRE - Site Reliability Engineer
-      Systems and Service Monitoring and Reliability
-         sub item1
-         sub item2
-      Systems and Infrastructure Deployment
-         test mobile edit
-      Team and Project Management
-          test2 mobile edit
+      <ul>
+        <li>SRE - Site Reliability Engineer 
+          <ul><li>Systems and Service Monitoring and Reliability
+             <li>sub item1
+             <li>sub item2
+          </ul>
+      <li>Systems and Infrastructure Deployment
+         <ul><li>test mobile edit
+        </ul>
+      <li>Team and Project Management
+          <ul><li>test2 mobile edit
     </td>
   </tr>
 </table>
