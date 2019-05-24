@@ -45,8 +45,22 @@ title: Matt Pursley's CV
       <i>SRE - Site Reliability Engineer</i>
       <br><br>
       Systems and Service Monitoring and Reliability
-        <li>sub item1</li>
-        <li>sub item2</li>
+        <li>Incident Management, Troubleshoot/Breakfix, Escalation, Root Cause Analysis, Midigition Planning</li>
+        <li>Perform RCA and mitigiton planning</li>
+        <li>Define and validate KPIs, SLOs, SLIs, and SLAs</li>
+        <li>Lead CrossTeam arcitecture and design</li>
+        <li>Provide CrossTeam arcitecture consulting </li>
+        <li>Help to source, review, screen, interview potential candidates</li>
+        <li>Train and mentor new Team Members</li>
+        <li>Document, communicate and advocate for SRE Best Practices throughout the Org</li>
+        <li>Maintan up-to-date understanding of infrastrure and service arcitecture and updates</li>
+        <li>Preform operational tasks to unblock Team members, where automation is not yet in place</li>
+        <li>Configure and maintain Amazon Web Services (AWS) and Google Cloud Platform (GCP) cloud computing environments</li>
+        <li>Design, build and impliment tools to improve:</li>
+        <ul><li>observibility and monitoring</li>
+            <li>alerting for actionaly SLA breaches</li>
+            <li>log and metrics collection, storage, querey and vizualization</li>
+        </ul>
       <br>
       Systems and Infrastructure Deployment
         <li>test mobile edit</li>
