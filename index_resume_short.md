@@ -34,24 +34,30 @@ title: Matt Pursley's CV
     </td>
     <td>
       <b>Sony Interactive Entertainment, Playstation</b>
+      SRE - Site Reliability Engineer<br>
+      Systems and Service Monitoring and Reliability
+          <li>sub item1</li>
+          <li>sub item2</li>
+      Systems and Infrastructure Deployment
+          <li>test mobile edit</li>
+      Team and Project Management 
+          <li>test2 mobile edit</li>
     </td>
   </tr>
   <tr>
     <td>
+      Jan 2010 - Oct 2012
     </td>
     <td>
-      SRE - Site Reliability Engineer
-      <ul><li>Systems and Service Monitoring and Reliability</li>
-          <ul><li>sub item1</li>
-              <li>sub item2</li>
-          </ul>
-      <li>Systems and Infrastructure Deployment</li>
-          <ul><li>test mobile edit</li>
-          </ul>
-      <li>Team and Project Management</li>
-          <ul><li>test2 mobile edit</li>
-          </ul>
-      </ul>
+      Digital Domain - Vancouver, BC and Port St Lucie, FL
+      Sr. Systems Admin and Sr. Systems Engineer
+      Show Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3,
+      Tron Legacy, Thor, etc.
+      <br>
+      Systems and Infrastructure
+      <li> Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios.     
+           Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise
+           class Storage, and high performance Brocade switching environment.</li>
     </td>
   </tr>
 </table>
