@@ -27,18 +27,30 @@ title: Matt Pursley's CV
 
 ## Work Experience
 
-_Nov 2016 - Present_ | __Sony Interactive Entertainment, Playstation__
----------------------|------------------------------------------------
-&nbsp; | SRE - Site Reliability Engineer
-&nbsp; | 
-&nbsp; | <div><li> Systems and Service Monitoring and Reliability</div>
-&nbsp; | <div><ul><li> sub item1</div>
-&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ sub item2
-&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ sub item3
-&nbsp; | <li> Systems and Infrastructure Deployment
-&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ test mobile edit
-&nbsp; | <li> Team and Project Management
-&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ test2 mobile edit
+<table width="800">
+  <tr>
+    <td align="right">
+      _Nov 2016 - Present_ 
+    </td>
+    <td>
+      __Sony Interactive Entertainment, Playstation__
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+      SRE - Site Reliability Engineer
+      Systems and Service Monitoring and Reliability
+         sub item1
+         sub item2
+      Systems and Infrastructure Deployment
+         test mobile edit
+      Team and Project Management
+          test2 mobile edit
+    </td>
+  </tr>
+</table>
   
 
 ## Education
