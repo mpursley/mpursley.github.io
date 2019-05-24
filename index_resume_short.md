@@ -48,10 +48,6 @@ title: Matt Pursley's CV
         <ul><li>Incident Management, Troubleshoot/Breakfix, Escalation, Root Cause Analysis, Midigition Planning</li>
         <li>Perform RCA and mitigiton planning</li>
         <li>Define and validate KPIs, SLOs, SLIs, and SLAs</li>
-        <li>Lead CrossTeam arcitecture and design</li>
-        <li>Provide CrossTeam arcitecture consulting </li>
-        <li>Help to source, review, screen, interview potential candidates</li>
-        <li>Train and mentor new Team Members</li>
         <li>Document, communicate and advocate for SRE Best Practices throughout the Org</li>
         <li>Maintan up-to-date understanding of infrastrure and service arcitecture and updates</li>
         <li>Preform operational tasks to unblock Team members, where automation is not yet in place</li>
@@ -67,7 +63,12 @@ title: Matt Pursley's CV
         <li>test mobile edit</li>
       <br>
       Team and Project Management 
-        <li>test2 mobile edit</li>
+        <li>Help to build and scale out an effective and proactive SRE Team, at a global scale</li>
+        <li>Develop, maintain and update candidate screening and interview procedures and processes</li>
+        <li>Lead CrossTeam arcitecture and design</li>
+        <li>Provide CrossTeam arcitecture consulting </li>
+        <li>Train and mentor new Team Members</li>
+
       <br>
     </td>
   </tr>
