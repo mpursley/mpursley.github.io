@@ -35,7 +35,10 @@ title: Matt Pursley's CV
     <td>
       <b>Sony Interactive Entertainment, Playstation</b>
     </td>
-    <td>
+    <tr>
+      <td>
+      </td>
+      <td>
       <i>SRE - Site Reliability Engineer</i><br>
       Systems and Service Monitoring and Reliability
           <li>sub item1</li>
@@ -44,7 +47,8 @@ title: Matt Pursley's CV
           <li>test mobile edit</li>
       Team and Project Management 
           <li>test2 mobile edit</li>
-    </td>
+      </td>
+    </tr>
   </tr>
   <tr>
     <td>
