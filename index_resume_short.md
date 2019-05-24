@@ -29,7 +29,7 @@ title: Matt Pursley's CV
 
 ## Work Experience
 
-<table width="800">
+<table>
   <tr>
     <td width="200">
       Nov 2016 - Present
