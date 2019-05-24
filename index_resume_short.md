@@ -52,6 +52,7 @@ title: Matt Pursley's CV
         <li>Maintan up-to-date understanding of infrastrure and service arcitecture and updates</li>
         <li>Preform operational tasks to unblock Team members, where automation is not yet in place</li>
         <li>Configure and maintain Amazon Web Services (AWS) and Google Cloud Platform (GCP) cloud computing environments</li>
+        <li>Build and maintance SDLC/CDCI systems and infrastructure
         <li>Design, build and impliment tools to improve:</li>
           <ul><li>observibility and monitoring</li>
             <li>alerting for actionaly SLA breaches</li>
