@@ -47,10 +47,13 @@ title: Matt Pursley's CV
       Systems and Service Monitoring and Reliability
         <li>sub item1</li>
         <li>sub item2</li>
+      <br>
       Systems and Infrastructure Deployment
         <li>test mobile edit</li>
+      <br>
       Team and Project Management 
         <li>test2 mobile edit</li>
+      <br>
     </td>
   </tr>
   <tr>
