@@ -59,9 +59,6 @@ title: Matt Pursley's CV
           </ul>
         </ul>
       <br>
-      Systems and Infrastructure Deployment
-        <li>test mobile edit</li>
-      <br>
       Team and Project Management 
         <li>Help to build and scale out an effective and proactive SRE Team, at a global scale</li>
         <li>Develop, maintain and update candidate screening and interview procedures and processes</li>
