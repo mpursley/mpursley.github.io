@@ -56,6 +56,11 @@ title: Matt Pursley's CV
     </td>
     <td>
       <b>Digital Domain - Vancouver, BC and Port St Lucie, FL</b>
+    </td>
+  <tr>
+    <td>
+    </td>
+    <td>
       <i>Sr. Systems Admin and Sr. Systems Engineer</i><br>
       Show Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor, etc.
       <br><br>
