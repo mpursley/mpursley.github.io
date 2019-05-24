@@ -34,7 +34,7 @@ title: Matt Pursley's CV
     </td>
     <td>
       <b>Sony Interactive Entertainment, Playstation</b>
-      SRE - Site Reliability Engineer<br>
+      <i>SRE - Site Reliability Engineer</i><br>
       Systems and Service Monitoring and Reliability
           <li>sub item1</li>
           <li>sub item2</li>
@@ -49,8 +49,8 @@ title: Matt Pursley's CV
       Jan 2010 - Oct 2012
     </td>
     <td>
-      Digital Domain - Vancouver, BC and Port St Lucie, FL
-      Sr. Systems Admin and Sr. Systems Engineer
+      <b>Digital Domain - Vancouver, BC and Port St Lucie, FL</b>
+      <i>Sr. Systems Admin and Sr. Systems Engineer</i>
       Show Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3,
       Tron Legacy, Thor, etc.
       <br>
