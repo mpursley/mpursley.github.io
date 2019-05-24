@@ -32,7 +32,7 @@ title: Matt Pursley's CV
 <table width="800">
   <tr>
     <td width="200">
-      <i>Nov 2016 - Present</i>
+      Nov 2016 - Present
     </td>
     <td>
       <b>Sony Interactive Entertainment, Playstation</b>
@@ -85,6 +85,7 @@ title: Matt Pursley's CV
 * 1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver
 
 <hr>
+
 
 ## SKILLS AND ABILITIES (in order of experience)
 
