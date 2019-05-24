@@ -29,7 +29,7 @@ title: Matt Pursley's CV
 
 <table width="800">
   <tr>
-    <td align="right">
+    <td align="right" width="100">
       <i>Nov 2016 - Present</i>
     </td>
     <td>
