@@ -25,6 +25,8 @@ title: Matt Pursley's CV
 </table></div>
 </center>
 
+<hr>
+
 ## Work Experience
 
 <table width="800">
@@ -76,6 +78,7 @@ title: Matt Pursley's CV
            
 
 
+<hr>
 
 ## Education
 
@@ -83,6 +86,7 @@ title: Matt Pursley's CV
 * 2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.
 * 1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver
 
+<hr>
 
 ## SKILLS AND ABILITIES (in order of experience)
 
