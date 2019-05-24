@@ -116,7 +116,7 @@ title: Matt Pursley's CV
 ## SKILLS AND ABILITIES (in order of experience)
 
 Systems Platforms | Scripting & Programming | Monitoring & Alerting | 2D Software | 3D Software
-------------------|-------------------------|-----------------------|-------------|------------
+-----------------------|-----------------------|-----------------------|-----------------------|-----------------------
 • CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus | • PhotoShop | • Maya
 • MacOSX | • Python | • Grafana | • Kibana | • Tweak RV
 • Windows | • Perl | • OpenNMS | • Tweak RV | • Houdini
