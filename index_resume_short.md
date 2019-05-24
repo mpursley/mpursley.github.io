@@ -41,16 +41,16 @@ title: Matt Pursley's CV
     </td>
     <td>
       <ul>
-        <li>SRE - Site Reliability Engineer 
-          <ul><li>Systems and Service Monitoring and Reliability
-             <li>sub item1
-             <li>sub item2
+        <li>SRE - Site Reliability Engineer</li>
+          <ul><li>Systems and Service Monitoring and Reliability</li>
+             <li>sub item1</li>
+             <li>sub item2</li>
           </ul>
-      <li>Systems and Infrastructure Deployment
-         <ul><li>test mobile edit
+      <li>Systems and Infrastructure Deployment</li>
+         <ul><li>test mobile edit</li>
         </ul>
-      <li>Team and Project Management
-          <ul><li>test2 mobile edit
+      <li>Team and Project Management</li>
+          <ul><li>test2 mobile edit</li>
           </ul>
     </td>
   </tr>
