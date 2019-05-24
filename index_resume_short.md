@@ -65,7 +65,6 @@ title: Matt Pursley's CV
         <li>Lead CrossTeam arcitecture and design</li>
         <li>Provide CrossTeam arcitecture consulting </li>
         <li>Train and mentor new Team Members</li>
-
       <br>
     </td>
   </tr>
