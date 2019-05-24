@@ -33,7 +33,7 @@ title: Matt Pursley's CV
       <i>Nov 2016 - Present</i>
     </td>
     <td>
-      <br>Sony Interactive Entertainment, Playstation</b>
+      <b>Sony Interactive Entertainment, Playstation</b>
     </td>
   </tr>
   <tr>
