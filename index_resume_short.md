@@ -63,9 +63,9 @@ title: Matt Pursley's CV
       Team and Project Management 
         <ul><li>Help to build and scale out an effective and proactive SRE Team, at a global scale</li>
         <li>Develop, maintain and update candidate screening and interview procedures and processes</li>
+        <li>Train and mentor new Team Members</li>
         <li>Lead CrossTeam arcitecture and design</li>
         <li>Provide CrossTeam arcitecture consulting </li>
-        <li>Train and mentor new Team Members</li>
         </ul>
       <br>
     </td>
