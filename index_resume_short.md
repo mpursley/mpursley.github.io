@@ -28,7 +28,7 @@ title: Matt Pursley's CV
 ## Work Experience
 
 <table width="800">
-  <tr>
+  <tr style="vertical-align:top">
     <td width="200">
       <i>Nov 2016 - Present</i>
     </td>
@@ -50,10 +50,9 @@ title: Matt Pursley's CV
     </td>
     <td>
       <b>Digital Domain - Vancouver, BC and Port St Lucie, FL</b>
-      <i>Sr. Systems Admin and Sr. Systems Engineer</i>
-      Show Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3,
-      Tron Legacy, Thor, etc.
-      <br>
+      <i>Sr. Systems Admin and Sr. Systems Engineer</i><br>
+      Show Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor, etc.
+      <br><br>
       Systems and Infrastructure
       <li> Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios.     
            Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise
