@@ -51,6 +51,7 @@ title: Matt Pursley's CV
         </ul>
       <li>Team and Project Management
           <ul><li>test2 mobile edit
+          </ul>
     </td>
   </tr>
 </table>
