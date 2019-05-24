@@ -31,8 +31,8 @@ _Nov 2016 - Present_ | __Sony Interactive Entertainment, Playstation__
 ---------------------|------------------------------------------------
 &nbsp; | SRE - Site Reliability Engineer
 &nbsp; | 
-&nbsp; | <li> Systems and Service Monitoring and Reliability
-&nbsp; | <ul><li> sub item1
+&nbsp; | <div><li> Systems and Service Monitoring and Reliability</div>
+&nbsp; | <div><ul><li> sub item1</div>
 &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ sub item2
 &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ sub item3
 &nbsp; | <li> Systems and Infrastructure Deployment
