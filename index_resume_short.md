@@ -57,6 +57,7 @@ title: Matt Pursley's CV
     <td>
       <b>Digital Domain - Vancouver, BC and Port St Lucie, FL</b>
     </td>
+  </tr>
   <tr>
     <td>
     </td>
