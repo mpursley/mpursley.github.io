@@ -31,20 +31,20 @@ _Nov 2016 - Present_ | __Sony Interactive Entertainment, Playstation__
 ---------------------|------------------------------------------------
 &nbsp; | SRE - Site Reliability Engineer
 &nbsp; | 
-&nbsp; | • Systems and Service Monitoring and Reliability
+&nbsp; | ∙ Systems and Service Monitoring and Reliability
 &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ sub item1
 &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ sub item2
-&nbsp; | • Systems and Infrastructure Deployment
+&nbsp; | ∙ Systems and Infrastructure Deployment
 &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ test mobile edit
-&nbsp; | • Team and Project Management
+&nbsp; | ∙ Team and Project Management
 &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  ◦ test2 mobile edit
   
 
 ## Education
 
 * 2018 • PSM (Professional Scrum Master), Scrum.org
-  * 2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.
-  * 1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver
+* 2005 • RHCE (RedHat Certified Engineer), Redhat, Inc.
+* 1996 - 1998 • Digital Arts/3D Animation, The Art Institute of Vancouver
 
 
 ## SKILLS AND ABILITIES (in order of experience)
