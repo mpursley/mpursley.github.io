@@ -76,24 +76,24 @@ title: Matt Pursley's CV
   
 ## Work Experience
 
-&nbsp;              | &nbsp;
---------------------|--------------------------------------------
-Nov 2012 - Present  | <b>Sony Interactive Entertainment, Playstation</b>
-&nbsp;              | <i>SRE - Site Reliability Engineer</i>
-&nbsp;              | Systems and Service Monitoring and Reliability
-&nbsp;              | • sub item1
-&nbsp;              | • sub item2
-&nbsp;              | Systems and Infrastructure Deployment
-&nbsp;              | • test mobile edit
-&nbsp;              | Team and Project Management
-&nbsp;              | • test2 mobile edit
-Jan 2010 - Oct 2012 | <b>Digital Domain - Vancouver, BC and Port St Lucie, FL</b>
-&nbsp;              | <i>Sr. Systems Admin and Sr. Systems Engineer</i><br>
-&nbsp;              | Show Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor, etc.
-&nbsp;              | 
-&nbsp;              | Systems and Infrastructure
-&nbsp;              |  • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
-&nbsp;              | &nbsp;              
+&nbsp;                | &nbsp;
+----------------------|--------------------------------------------
+"Nov 2012 - Present"  | <b>Sony Interactive Entertainment, Playstation</b>
+&nbsp;                | <i>SRE - Site Reliability Engineer</i>
+&nbsp;                | Systems and Service Monitoring and Reliability
+&nbsp;                | • sub item1
+&nbsp;                | • sub item2
+&nbsp;                | Systems and Infrastructure Deployment
+&nbsp;                | • test mobile edit
+&nbsp;                | Team and Project Management
+&nbsp;                | • test2 mobile edit
+"Jan 2010 - Oct 2012" | <b>Digital Domain - Vancouver, BC and Port St Lucie, FL</b>
+&nbsp;                | <i>Sr. Systems Admin and Sr. Systems Engineer</i><br>
+&nbsp;                | Show Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor, etc.
+&nbsp;                | 
+&nbsp;                | Systems and Infrastructure
+&nbsp;                |  • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
+&nbsp;                | &nbsp;              
 
 
 
