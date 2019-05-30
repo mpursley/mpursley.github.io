@@ -129,9 +129,9 @@ title: Matt Pursley's CV
 
 &nbsp;             |   &nbsp;
 -------------------|--------------------------------------------
-2018	             |  • PSM (Professional Scrum Master), Scrum.org
+2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  • PSM (Professional Scrum Master), Scrum.org
 2005	             |  • RHCE (RedHat Certified Engineer), Redhat, Inc.
-1996 - 1998        |  • Digital Arts/3D Animation, The Art Institute of Vancouver
+1996 - 1998|  • Digital Arts/3D Animation, The Art Institute of Vancouver
 
 ## SKILLS AND ABILITIES (in order of experience)
 
