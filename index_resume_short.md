@@ -29,6 +29,18 @@ title: Matt Pursley's CV
 
 ## Work Experience
 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
+|---                                          	|---
+|Nov 2016 - Present  | **Sony Interactive Entertainment, Playstation**
+| &nbsp;             | *SRE - Site Reliability Engineer*
+| &nbsp;             | &nbsp;
+| &nbsp;             | Systems and Service Monitoring and Reliability
+| &nbsp;             | &nbsp;
+| &nbsp;             | • Incident Management, Troubleshoot/Breakfix, Escalation, Root Cause Analysis, Midigition Planning
+| &nbsp;             | • Perform RCA and mitigiton planning
+
+
+
 <table>
   <tr>
     <td width="200">
