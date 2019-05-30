@@ -97,36 +97,6 @@ title: Matt Pursley's CV
 <hr>
 
 ## Education
-<table width="800">
-  <tr>
-    <td width="200">
-      2018
-    </td>
-    <td>
-      <li>PSM (Professional Scrum Master), Scrum.org</li>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      2005
-    </td>
-    <td>
-      <li>RHCE (RedHat Certified Engineer), Redhat, Inc.</li>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      1996 - 1998
-    </td>
-    <td>
-      <li>Digital Arts/3D Animation, The Art Institute of Vancouver</li>
-    </td>
-  </tr>
-</table>
-
-<br><br><br><br>
-<hr>
-
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---	
 |2018  |  • PSM (Professional Scrum Master), Scrum.org
@@ -134,6 +104,8 @@ title: Matt Pursley's CV
 |2005	             |  • RHCE (RedHat Certified Engineer), Redhat, Inc. 
 |&nbsp;	             |  • Line2 |
 |1996 - 1998|  • Digital Arts/3D Animation, The Art Institute of Vancouver 
+<hr>
+
 
 ## SKILLS AND ABILITIES (in order of experience)
 
