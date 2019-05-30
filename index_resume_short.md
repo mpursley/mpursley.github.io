@@ -39,7 +39,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Incident Management, Troubleshoot/Breakfix, Escalation, Root Cause Analysis, Midigition Planning
 | &nbsp;             | • Perform RCA and mitigiton planning
 
-<br>
+<hr>
 
 <table>
   <tr>
