@@ -104,6 +104,8 @@ title: Matt Pursley's CV
 |2005	             |  • RHCE (RedHat Certified Engineer), Redhat, Inc. 
 |1996 - 1998  |  • Digital Arts/3D Animation, The Art Institute of Vancouver 
 
+<br><br><br><br>
+
 <hr>
 
 
