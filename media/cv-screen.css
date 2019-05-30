@@ -50,12 +50,12 @@ q:before, q:after {
 	font-size: 120%;
 }
 
-table {
-	/*border-collapse: collapse;*/
-	/*border-spacing: 0;*/
-	/*font-family: "Times New Roman",serif;*/
-	/*font-size: 120%;*/
-}
+/*table {
+	/*border-collapse: collapse;
+	/*border-spacing: 0;
+	/*font-family: "Times New Roman",serif;
+	/*font-size: 120%;
+}*/
 
 th {
 	text-align: left;
