@@ -127,6 +127,7 @@ title: Matt Pursley's CV
 <br><br><br><br>
 <hr>
 
+&nbsp;       |   &nbsp;
 -------------|--------------------------------------------
 2018	       |  • PSM (Professional Scrum Master), Scrum.org
 2005	       |  • RHCE (RedHat Certified Engineer), Redhat, Inc.
@@ -134,10 +135,10 @@ title: Matt Pursley's CV
 
 ## SKILLS AND ABILITIES (in order of experience)
 
-Systems Platforms | Scripting & Programming | Monitoring & Alerting | 2D Software | 3D Software
------------------------|-----------------------|-----------------------|-----------------------|-----------------------
-• CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus | • PhotoShop | • Maya
-• MacOSX | • Python | • Grafana | • Kibana | • Tweak RV
-• Windows | • Perl | • OpenNMS | • Tweak RV | • Houdini
-• VMWare ESXi | • C/C++ | • Atlassian (Jira, Confluence, etc.) | • Piranha HD | • Mental Ray
+Systems Platforms        | Scripting & Programming          | Monitoring & Alerting   | 2D Software  | 3D Software
+-------------------------|----------------------------------|-------------------------|--------------|-----------------
+• CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus            | • PhotoShop  | • Maya
+• MacOSX                 | • Python                         | • Grafana               | • Kibana     | • Tweak RV
+• Windows                | • Perl                           | • OpenNMS               | • Tweak RV   | • Houdini
+• VMWare ESXi            | • C/C++                          | • Atlassian (Jira, etc.)| • Piranha HD | • Mental Ray
 
