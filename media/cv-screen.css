@@ -51,8 +51,8 @@ q:before, q:after {
 }
 
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+	/*border-collapse: collapse;*/
+	/*border-spacing: 0;*/
 	/*font-family: "Times New Roman",serif;*/
 	/*font-size: 120%;*/
 }
