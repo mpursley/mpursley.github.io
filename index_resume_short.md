@@ -49,6 +49,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • alerting for actionaly SLA breaches
 | &nbsp;             | • log and metrics collection, storage, querey and vizualization
 | &nbsp;             | &nbsp;
+| &nbsp;             | • log
 
 
 <hr>
