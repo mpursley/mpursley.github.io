@@ -36,12 +36,12 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | &nbsp;             | Systems and Service Monitoring and Reliability
 | &nbsp;             | &nbsp;
-| &nbsp;             | • Incident Management, Troubleshoot/Breakfix, Escalation, Root Cause Analysis, Midigition Planning
-| &nbsp;             | • Perform RCA and mitigiton planning
-| &nbsp;             | • Define and validate KPIs, SLOs, SLIs, and SLAs
-| &nbsp;             | • Document, communicate and advocate for SRE Best Practices throughout the Org
-| &nbsp;             | • Maintan up-to-date understanding of infrastrure and service arcitecture and updates
-| &nbsp;             | • Preform operational tasks to unblock Team members, where automation is not yet in place
+| &nbsp;             | <li> Incident Management, Troubleshoot/Breakfix, Escalation, Root Cause Analysis, Midigition Planning</li>
+| &nbsp;             | <li> Perform RCA and mitigiton planning </li>
+| &nbsp;             | * Define and validate KPIs, SLOs, SLIs, and SLAs
+| &nbsp;             | * Document, communicate and advocate for SRE Best Practices throughout the Org
+| &nbsp;             |     * Maintan up-to-date understanding of infrastrure and service arcitecture and updates
+| &nbsp;             |     * Preform operational tasks to unblock Team members, where automation is not yet in place
 | &nbsp;             | • Configure and maintain Amazon Web Services (AWS) and Google Cloud Platform (GCP) cloud computing environments
 | &nbsp;             | • Build and maintance SDLC/CDCI systems and infrastructure
 | &nbsp;             | • Design, build and impliment tools to improve:
