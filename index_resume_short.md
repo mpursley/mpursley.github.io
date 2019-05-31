@@ -56,6 +56,18 @@ title: Matt Pursley's CV
 | &nbsp;             | • Train and mentor new Team Members
 | &nbsp;             | • Lead CrossTeam arcitecture and design
 | &nbsp;             | • Provide CrossTeam arcitecture consulting
+| &nbsp;             | &nbsp;
+| &nbsp;             | &nbsp;
+|Jan 2010 - Oct 2012  | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
+| &nbsp;             | &nbsp;
+| &nbsp;             | Sr. Systems Admin and Sr. Systems Engineer
+| &nbsp;             | Film Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
+| &nbsp;             | &nbsp;
+| &nbsp;             | Systems and Infrastructure
+| &nbsp;             | &nbsp;
+| &nbsp;             | • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
+| &nbsp;             | &nbsp;
+
 
 
 
