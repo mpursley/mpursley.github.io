@@ -49,7 +49,14 @@ title: Matt Pursley's CV
 | &nbsp;             | • alerting for actionaly SLA breaches
 | &nbsp;             | • log and metrics collection, storage, querey and vizualization
 | &nbsp;             | &nbsp;
-| &nbsp;             | • log
+| &nbsp;             | Team and Project Management
+| &nbsp;             | &nbsp;
+| &nbsp;             | • Help to build and scale out an effective and proactive SRE Team, at a global scale</li>
+| &nbsp;             | • Develop, maintain and update candidate screening and interview procedures and processes
+| &nbsp;             | • Train and mentor new Team Members
+| &nbsp;             | • Lead CrossTeam arcitecture and design
+| &nbsp;             | • Provide CrossTeam arcitecture consulting
+
 
 
 <hr>
@@ -81,7 +88,12 @@ title: Matt Pursley's CV
         <li>Design, build and impliment tools to improve:</li>
           <ul><li>observibility and monitoring</li>
             <li>alerting for actionaly SLA breaches</li>
-            <li>log and metrics collection, storage, querey and vizualization</li>
+            <li>
+              
+              
+              
+              
+              collection, storage, querey and vizualization</li>
           </ul>
         </ul>
       <br>
