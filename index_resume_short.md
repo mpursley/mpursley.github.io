@@ -60,8 +60,8 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 |Jan 2010 - Oct 2012  | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | &nbsp;
-| &nbsp;             | Sr. Systems Admin and Sr. Systems Engineer
-| &nbsp;             | Film Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
+| &nbsp;             | *Sr. Systems Admin and Sr. Systems Engineer*
+| &nbsp;             | *Film Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor*
 | &nbsp;             | &nbsp;
 | &nbsp;             | Systems and Infrastructure
 | &nbsp;             | &nbsp;
