@@ -29,12 +29,12 @@ title: Matt Pursley's CV
 
 ## SKILLS
 
-Systems Platforms        | Scripting & Programming          | Monitoring & Alerting
--------------------------|----------------------------------|-------------------------
-• CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus
-• MacOSX                 | • Python                         | • Grafana
-• Windows                | • Perl                           | • OpenNMS
-• VMWare ESXi            | • C/C++                          | • Atlassian (Jira, etc.)
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Programming          | Monitoring & Alerting
+| &nbsp;             | -------------------------|----------------------------------|-------------------------
+| &nbsp;             | • CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus
+| &nbsp;             | • MacOSX                 | • Python                         | • Grafana
+| &nbsp;             | • Windows                | • Perl                           | • OpenNMS
+| &nbsp;             | • VMWare ESXi            | • C/C++                          | • Atlassian (Jira, etc.)
 
 <hr>
 
