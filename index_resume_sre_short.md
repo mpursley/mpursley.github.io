@@ -27,6 +27,17 @@ title: Matt Pursley's CV
 <br><br><br>
 <hr>
 
+## SKILLS
+
+Systems Platforms        | Scripting & Programming          | Monitoring & Alerting
+-------------------------|----------------------------------|-------------------------
+• CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus
+• MacOSX                 | • Python                         | • Grafana
+• Windows                | • Perl                           | • OpenNMS
+• VMWare ESXi            | • C/C++                          | • Atlassian (Jira, etc.)
+
+<hr>
+
 ## Work Experience
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
@@ -156,14 +167,4 @@ title: Matt Pursley's CV
 <br><br><br><br>
 
 <hr>
-
-
-## SKILLS AND ABILITIES (in order of experience)
-
-Systems Platforms        | Scripting & Programming          | Monitoring & Alerting   | 2D Software  | 3D Software
--------------------------|----------------------------------|-------------------------|--------------|-----------------
-• CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus            | • PhotoShop  | • Maya
-• MacOSX                 | • Python                         | • Grafana               | • Kibana     | • Tweak RV
-• Windows                | • Perl                           | • OpenNMS               | • Tweak RV   | • Houdini
-• VMWare ESXi            | • C/C++                          | • Atlassian (Jira, etc.)| • Piranha HD | • Mental Ray
 
