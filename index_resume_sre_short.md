@@ -27,7 +27,7 @@ title: Matt Pursley's CV
 <br><br><br>
 <hr>
 
-## SKILLS
+## Skills
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Programming          | Monitoring & Alerting
 | :---               | :------------------------|:---------------------------------|:------------------------
@@ -35,7 +35,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • MacOSX                 | • Python                         | • Grafana
 | &nbsp;             | • Windows                | • Perl                           | • OpenNMS
 | &nbsp;             | • VMWare ESXi            | • C/C++                          | • Atlassian (Jira, etc.)
-
+<br><br><br>
 <hr>
 
 ## Work Experience
