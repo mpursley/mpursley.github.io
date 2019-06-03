@@ -81,7 +81,8 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 
 
-
+<br><br><br>
+<hr>
 
 ## Education
 
