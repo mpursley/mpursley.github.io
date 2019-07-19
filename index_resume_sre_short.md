@@ -99,7 +99,6 @@ Systems and Infrastructure
 | &nbsp;             | • Developed a clone-able dual-boot MacOSX and Fedora Core Linux system install for the studio's 25 MacPro Workstations.
 | &nbsp;             | • Developed a clone-able Fedora Core Linux based system install for the Studio's 100 Render nodes, using Render Management through PipelineFX's Qube.
 | &nbsp;             | • Manage and Support the Studio's Renderfarm with 100 Linux 1U RenderNodes and 25 MacPro workstations.
-
 | &nbsp;             | Render and Color Pipeline
 | &nbsp;             | • Worked with the CG Supervisor to help develop an AOV based render work-flow for workstations and renderfarm using Mental Ray 3.6.
 | &nbsp;             | • Developed a LUT to translate between the 10Bit Log Panasonic Genesis Camera format to linear, and back within Shake 4.1.
