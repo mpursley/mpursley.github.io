@@ -91,7 +91,29 @@ title: Matt Pursley's CV
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed Documentation and Training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | &nbsp;             | • Developed, tested and deployed Unix Shell or Python scripts and scheduled automation to resolve commonly occurring issues.
+| &nbsp;             | &nbsp;
+| &nbsp;             | &nbsp;
 
+| Mar 2008 - Dec 2009 | **Keystone Pictures**
+| &nbsp;             | &nbsp;
+| &nbsp;             | Show Title : The "Buddies" Series
+| &nbsp;             | (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
+| &nbsp;             | Distributed by : Disney Home Entertainment
+| &nbsp;             | Release Format : 1080p BlueRay and DVD
+| &nbsp;             | On-Screen Credits : Visual Effects, Lead Technical Director, Technical Supervisor
+| &nbsp;             | &nbsp;
+Systems and Infrastructure
+| &nbsp;             | • Worked with several hardware and software vendors to install and configure a 100 SGI 1U render nodes, 25 MacPro Workstations, and a 40TB SGI Raid Storage Server, connected through a new HP ProCurve Gigabyte network.
+| &nbsp;             | • Developed a clone-able dual-boot MacOSX and Fedora Core Linux system install for the studio's 25 MacPro Workstations.
+| &nbsp;             | • Developed a clone-able Fedora Core Linux based system install for the Studio's 100 Render nodes, using Render Management through PipelineFX's Qube.
+| &nbsp;             | • Manage and Support the Studio's Renderfarm with 100 Linux 1U RenderNodes and 25 MacPro workstations.
+
+| &nbsp;             | **Render and Color Pipeline**
+| &nbsp;             | • Worked with the CG Supervisor to help develop an AOV based render work-flow for workstations and renderfarm using Mental Ray 3.6.
+| &nbsp;             | • Developed a LUT to translate between the 10Bit Log Panasonic Genesis Camera format to linear, and back within Shake 4.1.
+| &nbsp;             | **Character Lighting and Fluid FX**
+| &nbsp;             | • Finaled the Lighting and Rendering of 65 animated face replacement shots.
+| &nbsp;             | • Finaled all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 
 
 <br><br><br>
