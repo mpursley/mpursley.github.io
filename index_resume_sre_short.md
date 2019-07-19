@@ -68,10 +68,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Train and mentor new Team Members
 | &nbsp;             | • Lead CrossTeam arcitecture and design
 | &nbsp;             | • Provide CrossTeam arcitecture consulting
-| &nbsp;             | &nbsp;
-| &nbsp;             | &nbsp;
 | Jan 2010 - Oct 2012 | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
-| &nbsp;             | &nbsp;
 | &nbsp;             | *Sr. Systems Admin and Sr. Systems Engineer*
 | &nbsp;             | *Film Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor*
 | &nbsp;             | &nbsp;
@@ -91,7 +88,6 @@ title: Matt Pursley's CV
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed Documentation and Training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | Mar 2008 - Dec 2009 | **Keystone Pictures**
-| &nbsp;             | &nbsp;
 | &nbsp;             | Show Title : The "Buddies" Series
 | &nbsp;             | (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
 | &nbsp;             | Distributed by : Disney Home Entertainment
