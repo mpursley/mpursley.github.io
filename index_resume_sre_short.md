@@ -79,6 +79,12 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | &nbsp;             | • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
 | &nbsp;             | &nbsp;
+| &nbsp;             | • Setup, configure, and maintain OS and Software installation and configuration management systems (like Redhat Kickstart, Onesis, Puppet, CFEngine, etc).
+| &nbsp;             | • Worked with sister companies in US and Canada to integrate VFX Pipeline and Software synchronization.  Including CentOS Linux operating system updates and changes, site specific software package installations and deployments, etc.
+| &nbsp;             | • Worked with Linux Kickstart, Onesis and Puppet to setup fully automated bare metal installs for CentOS Linux Operating systems, custom packages, connections to shared storage, custom CG Pipeline and Toolset, etc.
+| &nbsp;             | • Worked to develop scripts and procedures to bind CentOS Linux and MacOSX workstations and servers to Windows Server 2008 via LDAP with Kerberos encryption.
+| &nbsp;             | • Acted as Lead Support for all Render Queueing and Job Management, including automation and scripting.
+| &nbsp;             | • Handled large scale file system sorting, cleanup, transfers, and digital delivery packaging.
 
 
 <br><br><br>
