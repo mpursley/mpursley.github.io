@@ -93,7 +93,7 @@ title: Matt Pursley's CV
 | &nbsp;             | Release Format : 1080p BlueRay and DVD
 | &nbsp;             | On-Screen Credits : Visual Effects, Lead Technical Director, Technical Supervisor
 | &nbsp;             | &nbsp;
-Systems and Infrastructure
+| &nbsp;             | Systems and Infrastructure
 | &nbsp;             | • Worked with several hardware and software vendors to install and configure a 100 SGI 1U render nodes, 25 MacPro Workstations, and a 40TB SGI Raid Storage Server, connected through a new HP ProCurve Gigabyte network.
 | &nbsp;             | • Developed a clone-able dual-boot MacOSX and Fedora Core Linux system install for the studio's 25 MacPro Workstations.
 | &nbsp;             | • Developed a clone-able Fedora Core Linux based system install for the Studio's 100 Render nodes, using Render Management through PipelineFX's Qube.
