@@ -43,7 +43,7 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
-|Nov 2016 - Present  | **Sony Interactive Entertainment, Playstation**
+| Nov 2016 - Present | **Sony Interactive Entertainment, Playstation**
 | &nbsp;             | *SRE - Site Reliability Engineer*
 | &nbsp;             | &nbsp;
 | &nbsp;             | Systems and Service Monitoring and Reliability
@@ -70,7 +70,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Provide CrossTeam arcitecture consulting
 | &nbsp;             | &nbsp;
 | &nbsp;             | &nbsp;
-|Jan 2010 - Oct 2012  | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
+| Jan 2010 - Oct 2012 | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | &nbsp;
 | &nbsp;             | *Sr. Systems Admin and Sr. Systems Engineer*
 | &nbsp;             | *Film Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor*
@@ -90,8 +90,6 @@ title: Matt Pursley's CV
 | &nbsp;             | • Setup and maintain Monitoring and Alerting systems for all Storage, Networking, Servers and Workstations for the Studios.
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed Documentation and Training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
-| &nbsp;             | &nbsp;
-| &nbsp;             | &nbsp;
 | Mar 2008 - Dec 2009 | **Keystone Pictures**
 | &nbsp;             | &nbsp;
 | &nbsp;             | Show Title : The "Buddies" Series
@@ -106,10 +104,10 @@ Systems and Infrastructure
 | &nbsp;             | • Developed a clone-able Fedora Core Linux based system install for the Studio's 100 Render nodes, using Render Management through PipelineFX's Qube.
 | &nbsp;             | • Manage and Support the Studio's Renderfarm with 100 Linux 1U RenderNodes and 25 MacPro workstations.
 
-| &nbsp;             | **Render and Color Pipeline**
+| &nbsp;             | Render and Color Pipeline
 | &nbsp;             | • Worked with the CG Supervisor to help develop an AOV based render work-flow for workstations and renderfarm using Mental Ray 3.6.
 | &nbsp;             | • Developed a LUT to translate between the 10Bit Log Panasonic Genesis Camera format to linear, and back within Shake 4.1.
-| &nbsp;             | **Character Lighting and Fluid FX**
+| &nbsp;             | Character Lighting and Fluid FX
 | &nbsp;             | • Finaled the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • Finaled all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 
