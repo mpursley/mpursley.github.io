@@ -85,6 +85,13 @@ title: Matt Pursley's CV
 | &nbsp;             | • Worked to develop scripts and procedures to bind CentOS Linux and MacOSX workstations and servers to Windows Server 2008 via LDAP with Kerberos encryption.
 | &nbsp;             | • Acted as Lead Support for all Render Queueing and Job Management, including automation and scripting.
 | &nbsp;             | • Handled large scale file system sorting, cleanup, transfers, and digital delivery packaging.
+| &nbsp;             | • Worked with Symantec Netbackup to run daily, weekly and monthly backups.  As well as final show archiving, removals and restorations.
+| &nbsp;             | • Worked with VMWare ESXi Server to deploy, maintain and balance several key server VMs.
+| &nbsp;             | • Setup and maintain Monitoring and Alerting systems for all Storage, Networking, Servers and Workstations for the Studios.
+| &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
+| &nbsp;             | • Provided detailed Documentation and Training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
+| &nbsp;             | • Developed, tested and deployed Unix Shell or Python scripts and scheduled automation to resolve commonly occurring issues.
+
 
 
 <br><br><br>
