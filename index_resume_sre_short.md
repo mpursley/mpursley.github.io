@@ -90,10 +90,8 @@ title: Matt Pursley's CV
 | &nbsp;             | • Setup and maintain Monitoring and Alerting systems for all Storage, Networking, Servers and Workstations for the Studios.
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed Documentation and Training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
-| &nbsp;             | • Developed, tested and deployed Unix Shell or Python scripts and scheduled automation to resolve commonly occurring issues.
 | &nbsp;             | &nbsp;
 | &nbsp;             | &nbsp;
-
 | Mar 2008 - Dec 2009 | **Keystone Pictures**
 | &nbsp;             | &nbsp;
 | &nbsp;             | Show Title : The "Buddies" Series
