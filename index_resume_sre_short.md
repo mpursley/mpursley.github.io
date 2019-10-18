@@ -108,7 +108,9 @@ title: Matt Pursley's CV
 | &nbsp;             | Character Lighting and Fluid FX
 | &nbsp;             | • Finaled the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • Finaled all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
-
+| Mar 2008 - Dec 2009 | **Keystone Pictures**
+| &nbsp;             | &nbsp;
+| &nbsp;             | Show Title : The "Buddies" Series
 
 <br><br><br>
 <hr>
