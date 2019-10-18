@@ -111,7 +111,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | 2000 - 2006        | **American Museum of Natural History (AMNH)** 
 | &nbsp;             | &nbsp;
-| &nbsp;             | Show Title : The "Buddies" Series
+| &nbsp;             | Technical Director/Unix Systems Administrator : Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
 
 <br><br><br>
 <hr>
