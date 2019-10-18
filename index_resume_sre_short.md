@@ -108,7 +108,9 @@ title: Matt Pursley's CV
 | &nbsp;             | Character Lighting and Fluid FX
 | &nbsp;             | • Finaled the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • Finaled all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
-| Mar 2008 - Dec 2009 | **Keystone Pictures**
+| &nbsp;             | &nbsp;
+| 2000 - 2006 | **American Museum of Natural History (AMNH)** : http://www.amnh.org/rose 
+Technical Director/Unix Systems Administrator : Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
 | &nbsp;             | &nbsp;
 | &nbsp;             | Show Title : The "Buddies" Series
 
