@@ -110,7 +110,6 @@ title: Matt Pursley's CV
 | &nbsp;             | • Finaled all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 | &nbsp;             | &nbsp;
 | 2000 - 2006        | **American Museum of Natural History (AMNH)** 
-| &nbsp;             | &nbsp;
 | &nbsp;             | Technical Director/Unix Systems Administrator : Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
 
 <br><br><br>
