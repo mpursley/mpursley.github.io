@@ -113,7 +113,7 @@ title: Matt Pursley's CV
 | &nbsp;             | Technical Director/Unix Systems Administrator : Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
 | 1999 - 2000        | **New York Institute of Technology : http://www.nyit.edu** 
 | &nbsp;             | SGI Unix Systems Admin : Advanced Computer Graphics Department
-• Maintained and supported graphics software and hardware. Such as Silicon Graphics Workstations, Avid Video Editor and Softimage3D.
+| &nbsp;             | • Maintained and supported graphics software and hardware. Such as Silicon Graphics Workstations, Avid Video Editor and Softimage3D.
 
 
 
