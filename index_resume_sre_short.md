@@ -33,8 +33,8 @@ title: Matt Pursley's CV
 | :---               | :------------------------|:---------------------------------|:------------------------
 | &nbsp;             | • CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus
 | &nbsp;             | • MacOSX                 | • Python                         | • Grafana
-| &nbsp;             | • Windows                | • Perl                           | • OpenNMS
-| &nbsp;             | • VMWare ESXi            | • C/C++                          | • Atlassian (Jira, etc.)
+| &nbsp;             | • Windows                | • Golang                         | • Elk (Elasticsearch, Logstash, Kibana)
+| &nbsp;             | • VMWare ESXi            | • Perl                           | • Atlassian (Jira, etc.)
 
 <br><br><br>
 <hr>
