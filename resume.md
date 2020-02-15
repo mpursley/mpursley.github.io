@@ -34,7 +34,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc)| • Prometheus
 | &nbsp;             | • MacOSX                 | • Python                         | • Grafana
 | &nbsp;             | • Windows                | • Perl                           | • OpenNMS
-| &nbsp;             | • VMWare ESXi            | • C/C++                          | • Atlassian (Jira, etc.)
+| &nbsp;             | • VMWare ESXi            | • Golang                         | • Atlassian (Jira, etc.)
 
 <br><br><br>
 <hr>
@@ -74,7 +74,7 @@ title: Matt Pursley's CV
 | &nbsp;             | Sr. Systems Admin and Sr. Systems Engineer
 | &nbsp;             | Film Titles: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
 | &nbsp;             | &nbsp;
-| &nbsp;             | Systems and Infrastructure
+| &nbsp;             | Systems and Infrastructure:
 | &nbsp;             | • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
 | &nbsp;             | &nbsp;
 | &nbsp;             | • Setup, configure, and maintain OS and Software installation and configuration management systems (like Redhat Kickstart, Onesis, Puppet, CFEngine, etc).
@@ -97,12 +97,13 @@ title: Matt Pursley's CV
 | &nbsp;             | Release Format : 1080p BlueRay and DVD
 | &nbsp;             | On-Screen Credits : Visual Effects, Lead Technical Director, Technical Supervisor
 | &nbsp;             | &nbsp;
-| &nbsp;             | Systems and Infrastructure
+| &nbsp;             | Systems and Infrastructure:
 | &nbsp;             | • Worked with several hardware and software vendors to install and configure a 100 SGI 1U render nodes, 25 MacPro Workstations, and a 40TB SGI Raid Storage Server, connected through a new HP ProCurve Gigabyte network.
 | &nbsp;             | • Developed a clone-able dual-boot MacOSX and Fedora Core Linux system install for the studio's 25 MacPro Workstations.
 | &nbsp;             | • Developed a clone-able Fedora Core Linux based system install for the Studio's 100 Render nodes, using Render Management through PipelineFX's Qube.
 | &nbsp;             | • Manage and Support the Studio's Renderfarm with 100 Linux 1U RenderNodes and 25 MacPro workstations.
-| &nbsp;             | Render and Color Pipeline
+| &nbsp;             | &nbsp;
+| &nbsp;             | Render and Color Pipeline:
 | &nbsp;             | • Worked with the CG Supervisor to help develop an AOV based render work-flow for workstations and renderfarm using Mental Ray 3.6.
 | &nbsp;             | • Developed a LUT to translate between the 10Bit Log Panasonic Genesis Camera format to linear, and back within Shake 4.1.
 | &nbsp;             | Character Lighting and Fluid FX
