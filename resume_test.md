@@ -48,7 +48,7 @@ title: Matt Pursley's CV
 | &nbsp;             | SRE, Site Reliability Engineer
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
-| &nbsp;             | • Worked directly with Onsite DC and "Remote Hands" Engineers to deploy thousands of new servers to dozens of datacenters and POPs in countries around the world
+| &nbsp;             | • Worked directly with Onsite DC and "Remote Hands" Engineers to deploy thousands of new servers and network hardware to dozens of datacenters and POPs in countries around the world
 | &nbsp;             | • Define and update KPIs, SLOs, SLIs, SLAs, metrics and alerting
 | &nbsp;             | • Design and develop solutions to collect, search and visualize metrics and fire alerts and notifications to appropriate Teams based on KPI and SLA breaches. (Prometheus, Grafana, Ansible, Opsgenie, Kubernetes, Gitlab CDCI, Fluentd, Rsyslog, etc.)
 | &nbsp;             | • Design and develop solutions to collect, search and visualize logs and events and fire alerts and notifications to appropriate Teams based on application errors, logs and KPI breaches. (Elasticsearch, Kibana, Prometheus, Grafana, Ansible, Opsgenie, Kubernetes, Gitlab CDCI, Fluentd, Rsyslog, etc.)
@@ -58,7 +58,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Perform operational tasks to mitigate major (business or customer impacting) incidents, or unblock Team members, where automation is not yet in place.
 | &nbsp;             | • Develop operational tooling, for "one off" updates and playbook automation
 | &nbsp;             | • Improve automation for systems inventory updates and configuration management
-| &nbsp;             | • Optimize and improve SDLC/CDCI pipeline, processes and infrastructure.
+| &nbsp;             | • Optimize and improve SDLC/CDCI pipeline, processes and infrastructure
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Solutions Architecture**
 | &nbsp;             | • Perform requirements gathering and resource planning for new projects
