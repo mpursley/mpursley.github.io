@@ -14,8 +14,16 @@ title: Matt Pursley's CV
       Systems and Service Reliability Engineer<br>
       Technical Project Lead<br>
       <div id="webaddress">
+        <i class="fi-page"></i> 
+        <a href="http://mattpursley.com">http://mattpursley.com</a><br>
+      </div>
+      <div id="emailaddress">
         <i class="fi-mail"></i> 
         <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br>
+      </div>
+      <div id="pdf">
+        <i class="fi-page-pdf"></i> 
+        <a href="Matt_Pursley_Resume.pdf">Resume PDF</a><br>
       </div>
       <div id="webaddress">
         <i class="fi-telephone"></i> 772-226-0559 
@@ -31,9 +39,9 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Programming          | Monitoring & Alerting
 | :---               | :------------------------|:---------------------------------|:------------------------
-| &nbsp;             | • CentOS, Fedora, Gentoo | • Shell Scripting (sh, bash, etc.)| • Prometheus
+| &nbsp;             | • CentOS, Fedora, Ubuntu | • Shell Script                   | • Prometheus
 | &nbsp;             | • MacOSX                 | • Python                         | • Grafana
-| &nbsp;             | • Windows                | • Golang                         | • OpenNMS
+| &nbsp;             | • Windows                | • Golang                         | • CDCI (Gitlab, Kubernetes)
 | &nbsp;             | • VMWare ESXi            | • Perl                           | • Atlassian (Jira, Confluence, etc.)
 
 <br><br><br>
