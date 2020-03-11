@@ -13,13 +13,13 @@ title: Matt Pursley's CV
       <b>Matt Pursley</b>, RHCE PSM<br>
       Systems and Service Reliability Engineer<br>
       Technical Project Lead<br>
-      <div id="webaddress">
-        <i class="fi-page"></i> 
-        <a href="http://mattpursley.com">http://mattpursley.com</a><br>
-      </div>
       <div id="emailaddress">
         <i class="fi-mail"></i> 
         <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br>
+      </div>
+      <div id="webaddress">
+        <i class="fi-page"></i> 
+        <a href="http://mattpursley.com">http://mattpursley.com</a><br>
       </div>
       <div id="pdf">
         <i class="fi-page-pdf"></i> 
