@@ -18,16 +18,14 @@ title: Matt Pursley's CV
         <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br>
       </div>
       <div id="webaddress">
+        <i class="fi-telephone"></i> 772-226-0559 
+      </div> 
+      <div id="webaddress">
         <i class="fi-page"></i> 
         <a href="http://mattpursley.com">http://mattpursley.com</a><br>
-      </div>
-      <div id="pdf">
         <i class="fi-page-pdf"></i> 
         <a href="Matt_Pursley_Resume.pdf">Resume PDF</a><br>
       </div>
-      <div id="webaddress">
-        <i class="fi-telephone"></i> 772-226-0559 
-      </div> 
     </td>
   </tr>
 </table></div>
