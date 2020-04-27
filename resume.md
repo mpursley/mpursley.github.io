@@ -91,7 +91,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Participate in Oncall Rotation
 | &nbsp;             | • Develop and Maintain Incident Management and Review Processes
 | &nbsp;             | • Develop and communicate RCA and issue mitigation plans
-| &nbsp;             | • Refine and improve KPIs, SLOs, SLIs, SLAs, metrics and alerting, based on incidents and discovered observibility gaps
+| &nbsp;             | • Refine and improve KPIs, SLOs, SLIs, SLAs, metrics and alerting, based on incidents and discovered observability gaps
 | &nbsp;             | • Perform and report RCA and Postmortem findings
 | &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
