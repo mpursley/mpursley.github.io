@@ -22,7 +22,7 @@ title: Matt Pursley's CV
       </div> 
       <div id="webaddress">
         <i class="fi-page"></i> 
-        <a href="http://mattpursley.com">http://mattpursley.com</a><br>
+        <a href="http://mattpursley.com/resume">Resume</a><br>
         <i class="fi-page"></i> 
         <a href="Matt_Pursley_Resume.pdf">Resume PDF</a><br>
         <i class="fi-page"></i> 
@@ -36,6 +36,7 @@ title: Matt Pursley's CV
 </center>
 <br><br><br>
 <hr>
+
 
 ## Skills
 
