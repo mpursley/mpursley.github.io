@@ -27,6 +27,8 @@ title: Matt Pursley's CV
         <a href="Matt_Pursley_Resume.pdf">Resume PDF</a><br>
         <i class="fi-page"></i> 
         <a href="https://github.com/mpursley/mpursley.github.io">Resume Code</a><br>
+        <i class="fi-page"></i> 
+        <a href="http://blog.mattpursley.com">Tech Blog</a><br>
       </div>
     </td>
   </tr>
