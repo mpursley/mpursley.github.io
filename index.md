@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Matt Pursley's CV
+title: Matt Pursley
 ---
 <br><br>
 <center><div id="contact_table">
