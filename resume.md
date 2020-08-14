@@ -54,8 +54,12 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
-| Nov 2012 - Present | **Sony Interactive Entertainment, Playstation**
-| &nbsp;             | Playstation Now, game streaming platform
+| March 2019 - Present | **Sage Inc.**
+| &nbsp;             | Sage Intacct, Inc. Financial management and services
+| &nbsp;             | Sr SRE, Sr Site Reliability Engineer
+| &nbsp;             | &nbsp;
+| Nov 2012 - March 2019 | **Sony Interactive Entertainment, Playstation**
+| &nbsp;             | Playstation Now.  Game streaming platform
 | &nbsp;             | SRE, Site Reliability Engineer
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
