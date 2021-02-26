@@ -58,8 +58,23 @@ title: Matt Pursley's CV
 | &nbsp;             | Sage Intacct, Inc. Financial management and services
 | &nbsp;             | Sr SRE, Sr Site Reliability Engineer
 | &nbsp;             | &nbsp;
+| &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
+| &nbsp;             | • 
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Automation and Hands-on Operations**
+| &nbsp;             | • 
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Solutions Architecture**
+| &nbsp;             | • 
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Technical Lead and Project Management**
+| &nbsp;             | •  
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Incident Management Process and Reporting**
+| &nbsp;             | •  
+| &nbsp;             | &nbsp;
 | 2012 - 2019 | **Sony Interactive Entertainment, Playstation**
-| &nbsp;             | Playstation Now.  Game streaming platform
+| &nbsp;             | Playstation Now.  Custom game streaming platform
 | &nbsp;             | SRE, Site Reliability Engineer
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
