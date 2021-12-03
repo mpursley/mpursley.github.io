@@ -55,7 +55,7 @@ title: Matt Pursley's CV
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
 | May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
-| &nbsp;             | British multinational company focusing on metaverse, virtual worlds/Events and gaming technology
+| &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | Sr LiveOps Engineer
 | &nbsp;             | &nbsp;
 | March 2019 - May 2021 | **[Sage Inc.](https://www.sage.com/)**
