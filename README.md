@@ -3,7 +3,7 @@ mpursley-markdown-cv
 
 This is my code/markdown driven resume. Which is built, updated and hosted by [GitHub pages](https://pages.github.com/) for me (for free)!  :D 
 
-- The full rendered html version is available at https://mpursley.github.io -> http://mattpursley.com
+- The full rendered html version is available at https://mpursley.github.io -> https://mattpursley.com
 - A PDF version is available at... https://github.com/mpursley/mpursley.github.io/blob/master/Matt_Pursley_Resume.pdf
 - All code is opensource (via MIT License) and available here... https://github.com/mpursley/mpursley.github.io
 
