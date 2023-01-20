@@ -45,7 +45,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Prometheus, Alerts, Exporters
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Grafana, Kibana, Elasticsearch
 | &nbsp;             | • MacOS                  | • Golang                         | • CDCI (Github, Kubernetes)
-| &nbsp;             | • Windows, WSL           | • javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
+| &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
 
 <br><br><br>
 <hr>
