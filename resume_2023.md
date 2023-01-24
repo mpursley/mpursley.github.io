@@ -148,7 +148,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | 2000 - 2006        | **American Museum of Natural History (https://www.amnh.org/)** 
 | &nbsp;             | Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
-| &nbsp;             | Technical Director/Unix Systems Administrator
+| &nbsp;             | _Technical Director/Unix Systems Administrator_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Began working with Engineering and Productions, which is a group of about 15 VisualFX Artists, System Administrators, Video Engineers, and Production Staff responsible for developing, maintaining and upgrading all Computers, Video Systems and Video Content for the Digital Dome and Space Shows. This includes two SGI OnyxII Reality Monster Super Computers, several SGI Octanes, O2, Linux and Windows graphics workstations, and 7xHDTV and 4xHDTV Projector Theaters.
@@ -160,7 +160,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | 1999 - 2000        | **New York Institute of Technology (https://www.nyit.edu)**
 | &nbsp;             | Advanced Computer Graphics Department
-| &nbsp;             | SGI/Unix Systems Admin
+| &nbsp;             | _SGI/Unix Systems Admin_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Maintained and supported graphics software and hardware for Computer Graphics Labs in Manhattan, NY.  Including Silicon Graphics (Unix) Workstations, Avid Video Editor, Softimage3D, Alias Wavefront, etc.
@@ -172,8 +172,8 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---	
-|2018  |  • PSM (Professional Scrum Master), Scrum.org
-|2005	             |  • RHCE (RedHat Certified Engineer), Redhat, Inc. 
+|2018         |  • PSM (Professional Scrum Master), Scrum.org
+|2005         |  • RHCE (RedHat Certified Engineer), Redhat, Inc. 
 |1996 - 1998  |  • Digital Arts/3D Animation, The Art Institute of Vancouver 
 
 <br><br><br><br>
