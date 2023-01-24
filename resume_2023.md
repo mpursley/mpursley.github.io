@@ -159,6 +159,7 @@ title: Matt Pursley's CV
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Maintained and supported graphics software and hardware for Computer Graphics Labs in Manhattan, NY.  Including Silicon Graphics (Unix) Workstations, Avid Video Editor, Softimage3D, Alias Wavefront, etc.
 
+
 ## Personal Projects
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
@@ -170,9 +171,7 @@ title: Matt Pursley's CV
 | &nbsp;             | _Founder, Lead Game Dev/Contributor_
 | &nbsp;             | &nbsp;
 
-
-
-<br><br><br>
+<br><br><br><br>
 <hr>
 
 ## Education
@@ -184,5 +183,4 @@ title: Matt Pursley's CV
 |1996 - 1998  |  • Digital Arts/3D Animation, The Art Institute of Vancouver 
 
 <br><br><br><br>
-
 <hr>
