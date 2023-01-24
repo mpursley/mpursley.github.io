@@ -56,19 +56,19 @@ title: Matt Pursley's CV
 | &nbsp;             | An open world "Sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.1 and 
 | &nbsp;             | Lyra starter project/game, along with a customized CD/CI backend to provide a free-to-play open space 
 | &nbsp;             | environment that Players/Users can use to chat, communicate, show and share ideas.
-| &nbsp;             | Founder
+| &nbsp;             | _Founder_
 | &nbsp;             | &nbsp;
 | May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
-| &nbsp;             | Sr LiveOps Engineer
+| &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
 | March 2019 - May 2021 | **[Sage Inc.](https://www.sage.com/)**
 | &nbsp;             | British software company focusing on financial services and management
-| &nbsp;             | Sr SRE, Sr Site Reliability Engineer
+| &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | 2012 - 2019 | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
-| &nbsp;             | SRE, Site Reliability Engineer
+| &nbsp;             | _SRE, Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Worked directly with Onsite DC and "Remote Hands" Engineers to deploy thousands of new servers and network hardware to dozens of datacenters and POPs in countries around the world
@@ -111,7 +111,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
 | Jan 2010 - Oct 2012 | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
-| &nbsp;             | Sr. Systems Admin and Sr. Systems Engineer
+| &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
@@ -129,7 +129,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Provided detailed documentation and training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | &nbsp;             | &nbsp;
 | Mar 2008 - Dec 2009 | **Keystone Pictures**
-| &nbsp;             | Visual Effects, Lead Technical Director, Technical Supervisor
+| &nbsp;             | _Visual Effects, Lead Technical Director, Technical Supervisor_
 | &nbsp;             | Onscreen Credits : The "Buddies" Series (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
