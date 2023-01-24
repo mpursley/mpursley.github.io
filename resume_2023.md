@@ -52,12 +52,6 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
-| Oct 2022 - Present | **[OpenWorldGame.io](https://openworldgame.io/)**
-| &nbsp;             | An open world "Sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.1 and 
-| &nbsp;             | Lyra starter project/game, along with a customized CD/CI backend to provide a free-to-play open space 
-| &nbsp;             | environment that Players/Users can use to chat, communicate, show and share ideas.
-| &nbsp;             | _Founder_
-| &nbsp;             | &nbsp;
 | May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
@@ -165,6 +159,18 @@ title: Matt Pursley's CV
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Maintained and supported graphics software and hardware for Computer Graphics Labs in Manhattan, NY.  Including Silicon Graphics (Unix) Workstations, Avid Video Editor, Softimage3D, Alias Wavefront, etc.
 
+<br><br><br><br>
+<hr>
+
+## Personal Projects
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
+|---                                          	|---	
+| Oct 2022 - Present | **[OpenWorldGame.io](https://openworldgame.io/), [https://github.com/OpenWorldGame-Io](https://github.com/OpenWorldGame-Io)**
+| &nbsp;             | "Open World" is a open "sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.1 and Lyra starter project/game, along with a customized CD/CI backend to provide a free-to-play open space environment that Players/Users can use to chat, communicate, show and share ideas.
+| &nbsp;             | _Founder, Lead Game Dev/Contributor_
+
+<br><br><br><br>
 <br><br><br>
 <hr>
 
@@ -177,5 +183,4 @@ title: Matt Pursley's CV
 |1996 - 1998  |  • Digital Arts/3D Animation, The Art Institute of Vancouver 
 
 <br><br><br><br>
-
 <hr>
