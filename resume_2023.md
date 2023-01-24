@@ -27,8 +27,6 @@ title: Matt Pursley's CV
         <a href="Matt_Pursley_Resume.pdf">Resume PDF</a><br>
         <i class="fi-page"></i> 
         <a href="https://github.com/mpursley/mpursley.github.io">Resume Code</a><br>
-        <i class="fi-page"></i> 
-        <a href="http://blog.mattpursley.com">Tech Blog</a><br>
       </div>
     </td>
   </tr>
@@ -54,6 +52,12 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
+| Oct 2022 - Present | **[OpenWorldGame.io](https://openworldgame.io/)**
+| &nbsp;             | An open world "Sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.1 and 
+| &nbsp;             | Lyra started project/game, along with a customized CD/CI backend to provide a free-to-play open space 
+| &nbsp;             | environment that Players/Users can use to chat, communicate, show and share ideas.
+| &nbsp;             | Founder
+| &nbsp;             | &nbsp;
 | May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | Sr LiveOps Engineer
