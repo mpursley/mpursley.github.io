@@ -38,6 +38,19 @@ title: Matt Pursley's CV
 
 ## Skills
 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;   
+|---                                          	|---
+| &nbsp;             | LiveOps/DevOPs/Site Reliability Engineer
+| &nbsp;             | Team/Technical Project Lead
+| &nbsp;             | • Architect and plan product solutions using large Cloud Providers (AWS, GCP) and Microservices running Kubernetes (EKS, GKE), Terraform, Vault, Prometheus/Grafana, ELK, NoSQL, etc.
+| &nbsp;             | • Directly develop and/or update segmented parts of backend infrastructure and user facing applications, along with a full Team of Engineers, QA, Project Managers, etc.
+| &nbsp;             | • Mentor to help other Engineers to be more productive and achieve Company and Personal goals
+| &nbsp;             | • Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly
+| &nbsp;             | • Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
+| &nbsp;             | • Develop and present SLI, SLI, SLO metrics for products, to make sure they are delivering value to Internal Teams and External Customers
+| &nbsp;             | • Operate as First Responder, Tech Engineer and Incident Manager, to help to resolve issues quickly
+| &nbsp;             | • Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
+
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting
 | :---               | :------------------------|:---------------------------------|:------------------------
 | &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Prometheus, Alerts, Exporters
