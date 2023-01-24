@@ -27,8 +27,6 @@ title: Matt Pursley's CV
         <a href="Matt_Pursley_Resume.pdf">Resume PDF</a><br>
         <i class="fi-page"></i> 
         <a href="https://github.com/mpursley/mpursley.github.io">Resume Code</a><br>
-        <i class="fi-page"></i> 
-        <a href="http://blog.mattpursley.com">Tech Blog</a><br>
       </div>
     </td>
   </tr>
@@ -56,15 +54,15 @@ title: Matt Pursley's CV
 |---                                          	|---
 | May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
-| &nbsp;             | Sr LiveOps Engineer
+| &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
 | March 2019 - May 2021 | **[Sage Inc.](https://www.sage.com/)**
 | &nbsp;             | British software company focusing on financial services and management
-| &nbsp;             | Sr SRE, Sr Site Reliability Engineer
+| &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | 2012 - 2019 | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
-| &nbsp;             | SRE, Site Reliability Engineer
+| &nbsp;             | _SRE, Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Worked directly with Onsite DC and "Remote Hands" Engineers to deploy thousands of new servers and network hardware to dozens of datacenters and POPs in countries around the world
@@ -107,7 +105,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
 | Jan 2010 - Oct 2012 | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
-| &nbsp;             | Sr. Systems Admin and Sr. Systems Engineer
+| &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
@@ -125,7 +123,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Provided detailed documentation and training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | &nbsp;             | &nbsp;
 | Mar 2008 - Dec 2009 | **Keystone Pictures**
-| &nbsp;             | Visual Effects, Lead Technical Director, Technical Supervisor
+| &nbsp;             | _Visual Effects, Lead Technical Director, Technical Supervisor_
 | &nbsp;             | Onscreen Credits : The "Buddies" Series (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
@@ -144,7 +142,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | 2000 - 2006        | **American Museum of Natural History (https://www.amnh.org/)** 
 | &nbsp;             | Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
-| &nbsp;             | Technical Director/Unix Systems Administrator
+| &nbsp;             | _Technical Director/Unix Systems Administrator_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Began working with Engineering and Productions, which is a group of about 15 VisualFX Artists, System Administrators, Video Engineers, and Production Staff responsible for developing, maintaining and upgrading all Computers, Video Systems and Video Content for the Digital Dome and Space Shows. This includes two SGI OnyxII Reality Monster Super Computers, several SGI Octanes, O2, Linux and Windows graphics workstations, and 7xHDTV and 4xHDTV Projector Theaters.
@@ -156,11 +154,23 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | 1999 - 2000        | **New York Institute of Technology (https://www.nyit.edu)**
 | &nbsp;             | Advanced Computer Graphics Department
-| &nbsp;             | SGI/Unix Systems Admin
+| &nbsp;             | _SGI/Unix Systems Admin_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Maintained and supported graphics software and hardware for Computer Graphics Labs in Manhattan, NY.  Including Silicon Graphics (Unix) Workstations, Avid Video Editor, Softimage3D, Alias Wavefront, etc.
 
+<br><br><br><br>
+<hr>
+
+## Personal Projects
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
+|---                                          	|---	
+| Oct 2022 - Present | **[OpenWorldGame.io](https://openworldgame.io/), [https://github.com/OpenWorldGame-Io](https://github.com/OpenWorldGame-Io)**
+| &nbsp;             | "Open World" is an open "sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.1 and Lyra starter project/game, along with a customized CD/CI backend to provide a free-to-play open space environment that Players/Users can use to chat, communicate, show and share ideas.
+| &nbsp;             | _Founder, Lead Game Dev/Contributor_
+
+<br><br><br><br>
 <br><br><br>
 <hr>
 
@@ -168,10 +178,9 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---	
-|2018  |  • PSM (Professional Scrum Master), Scrum.org
-|2005	             |  • RHCE (RedHat Certified Engineer), Redhat, Inc. 
+|2018         |  • PSM (Professional Scrum Master), Scrum.org
+|2005         |  • RHCE (RedHat Certified Engineer), Redhat, Inc. 
 |1996 - 1998  |  • Digital Arts/3D Animation, The Art Institute of Vancouver 
 
 <br><br><br><br>
-
 <hr>
