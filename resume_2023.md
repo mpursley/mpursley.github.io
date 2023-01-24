@@ -167,7 +167,7 @@ title: Matt Pursley's CV
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---	
 | Oct 2022 - Present | **[OpenWorldGame.io](https://openworldgame.io/), [https://github.com/OpenWorldGame-Io](https://github.com/OpenWorldGame-Io)**
-| &nbsp;             | "Open World" is a open "sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.1 and Lyra starter project/game, along with a customized CD/CI backend to provide a free-to-play open space environment that Players/Users can use to chat, communicate, show and share ideas.
+| &nbsp;             | "Open World" is an open "sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.1 and Lyra starter project/game, along with a customized CD/CI backend to provide a free-to-play open space environment that Players/Users can use to chat, communicate, show and share ideas.
 | &nbsp;             | _Founder, Lead Game Dev/Contributor_
 
 <br><br><br><br>
