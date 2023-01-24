@@ -49,7 +49,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Operate as First Responder, Tech Engineer and Incident Manager, to help to resolve issues quickly
 | &nbsp;             | • Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
 
-<br><br>
+<br>
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting
 | :---               | :------------------------|:---------------------------------|:------------------------
