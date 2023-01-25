@@ -45,9 +45,10 @@ title: Matt Pursley's CV
 | &nbsp;             | • Mentor to help other Engineers to be more productive and achieve Company and Personal goals
 | &nbsp;             | • Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly
 | &nbsp;             | • Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
-| &nbsp;             | • Develop and present SLI, SLI, SLO metrics for products, to make sure they are delivering value to Internal Teams and External Customers
+| &nbsp;             | • Develop and present SLI, SLA, SLO metrics for products, to make sure they are delivering value to Internal Teams and External Customers
 | &nbsp;             | • Operate as First Responder, Tech Engineer and Incident Manager, to help to resolve issues quickly
 | &nbsp;             | • Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
+| &nbsp;             | • Work cross-functionally with a variety of teams to ensure that deployed applications meet SLOs and SLAs
 
 <br>
 
