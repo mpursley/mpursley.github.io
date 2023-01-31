@@ -40,8 +40,8 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|LiveOps/DevOPs/Site Reliability Engineering<br>Team/Technical Project Lead
 | :------------------------ | :------------------------
-| &nbsp;             | • Architect and plan product solutions using large Cloud Providers (AWS, GCP) and Microservices running Kubernetes (EKS, GKE), Terraform, Vault, Prometheus/Grafana, ELK, NoSQL, etc.
-| &nbsp;             | • Directly develop and/or update segmented parts of backend infrastructure and user facing applications, along with a full Team of Engineers, QA, Project Managers, etc.
+| &nbsp;             | • Design, plan and deploy product solutions using large Cloud Providers (AWS, GCP) and Microservices running Kubernetes (EKS, GKE), Terraform, Helm, Vault, Prometheus/Grafana, ELK and other OpenSource tools.
+| &nbsp;             | • Directly develop and/or update segmented parts of backend infrastructure and applications, along with a full Team of Engineers, QA, Project Managers, etc.
 | &nbsp;             | • Mentor to help other Engineers to be more productive and achieve Company and Personal goals
 | &nbsp;             | • Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly
 | &nbsp;             | • Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
