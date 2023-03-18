@@ -84,11 +84,9 @@ title: Matt Pursley's CV
 | &nbsp;             | • Collect feedback from various stack-holder Teams and individuals about scoring values for viable alterative.
 | &nbsp;             | • Architect an project plan to deploy and migrate to the new solution, scaling back and retiring the legacy system.
 | &nbsp;             | &nbsp;
-| 2012 - 2019 | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
+| 2012 - 2019        | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
 | &nbsp;             | _SRE, Site Reliability Engineer_
-| &nbsp;             | &nbsp;
-
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Worked directly with Onsite DC and "Remote Hands" Engineers to deploy thousands of new servers and network hardware to dozens of datacenters and POPs in countries around the world
