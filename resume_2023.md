@@ -70,13 +70,20 @@ title: Matt Pursley's CV
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
+| &nbsp;             | Summary
+| &nbsp;             | • Working with the LiveOps, DevOps and Dev Team to build, test and deploy scalable application and infrastructre Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
+| &nbsp;             | &nbsp;
 | March 2019 - May 2021 | **[Sage Inc.](https://www.sage.com/)**
 | &nbsp;             | British software company focusing on financial services and management
 | &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
+
+| &nbsp;             | &nbsp;
 | 2012 - 2019 | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
 | &nbsp;             | _SRE, Site Reliability Engineer_
+| &nbsp;             | &nbsp;
+
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Worked directly with Onsite DC and "Remote Hands" Engineers to deploy thousands of new servers and network hardware to dozens of datacenters and POPs in countries around the world
