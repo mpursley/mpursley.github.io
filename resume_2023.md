@@ -71,17 +71,17 @@ title: Matt Pursley's CV
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Summary**
-| &nbsp;             | • Work closely with the LiveOps, DevOps and Dev Team to build, test and deploy scalable application and infrastructre Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
+| &nbsp;             | • Work closely with the LiveOps, DevOps and Dev Team to build, test and deploy scalable application and infrastructure Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
 | &nbsp;             | &nbsp;
 | March 2019 - May 2021 | **[Sage Inc.](https://www.sage.com/)**
 | &nbsp;             | British software company focusing on financial services and management
 | &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Summary**
-| &nbsp;             | • Work closely with the SRE, Cloud Ops and DBA teams to build, test and deploy scalable application and infrastructre Tech stacks based on custom Python, Bash and Config Management Tools.
-| &nbsp;             | • Complete a deep-dive reveiew existing Metrics Collection, Storage and Vizualations infrastructure.
-| &nbsp;             | • Complete full evaluation and scoring for several modern industry standard alertnitves againts existing requirements and desires for a complete revamp/replacement.
-| &nbsp;             | • Collect feedback from various stack-holder Teams and individuals about scoring values for viable alterative.
+| &nbsp;             | • Work closely with the SRE, Cloud Ops and DBA teams to build, test and deploy scalable application and infrastructure Tech stacks based on custom Python, Bash and Config Management Tools.
+| &nbsp;             | • Complete a deep-dive review existing Metrics Collection, Storage and Visualizations infrastructure.
+| &nbsp;             | • Complete full evaluation and scoring for several modern industry standard alternatives against existing requirements and desires for a complete revamp/replacement.
+| &nbsp;             | • Collect feedback from various stack-holder Teams and individuals about scoring values for viable alternatives.
 | &nbsp;             | • Architect an project plan to deploy and migrate to the new solution, scaling back and retiring the legacy system.
 | &nbsp;             | &nbsp;
 | 2012 - 2019 | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
