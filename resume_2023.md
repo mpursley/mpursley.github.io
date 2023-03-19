@@ -70,19 +70,21 @@ title: Matt Pursley's CV
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
-| &nbsp;             | **Summary**
-| &nbsp;             | • Work closely with the LiveOps, DevOps and Dev Team to build, test and deploy scalable application and infrastructure Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
+| &nbsp;             | **Infrastructure and Application Deployment and Management**
+| &nbsp;             | • Work closely with the LiveOps, DevOps and Dev Teams to build, test and deploy scalable application and infrastructure Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
+| &nbsp;             | • Plan, Develop, Test and Deploy large-scale system upgrades, with additional HA redundacy and monitoring to reduce the risk of Customer or User impact.
+| &nbsp;             | • Develop and upgrade dashboards and alerts using SLOs, SLAs, KPI metrics and logs.
 | &nbsp;             | &nbsp;
 | March 2019 - May 2021 | **[Sage Inc.](https://www.sage.com/)**
 | &nbsp;             | British software company focusing on financial services and management
 | &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
-| &nbsp;             | **Summary**
+| &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Work closely with the SRE, Cloud Ops and DBA teams to build, test and deploy scalable application and infrastructure Tech stacks based on custom Python, Bash and Config Management Tools.
-| &nbsp;             | • Complete a deep-dive review existing Metrics Collection, Storage and Visualizations infrastructure.
+| &nbsp;             | • Complete a deep-dive review of the existing Metrics Collection, Storage and Visualizations infrastructure.
 | &nbsp;             | • Complete full evaluation and scoring for several modern industry standard alternatives against existing requirements and desires for a complete revamp/replacement.
-| &nbsp;             | • Collect feedback from various stack-holder Teams and individuals about scoring values for viable alternatives.
-| &nbsp;             | • Architect an project plan to deploy and migrate to the new solution, scaling back and retiring the legacy system.
+| &nbsp;             | • Collect feedback from various stake-holder Teams and individuals about scoring values for viable alternatives.
+| &nbsp;             | • Architect a full project plan to deploy and migrate to a newly developed metrics collection and storage solution, while carefully scaling back and retiring the legacy system.
 | &nbsp;             | &nbsp;
 | 2012 - 2019 | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
