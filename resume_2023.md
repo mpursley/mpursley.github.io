@@ -66,6 +66,16 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
+
+| Oct 2022 - Present | **[Open Worlds Tech](https://www.openworldtech.io/)**
+| &nbsp;             | A Technology Consulting company, focusing on automation, scalability, serverless using Public Clouds (AWS, GCP, etc) and Open Source Tech and Tools
+| &nbsp;             | _Co-Founder_
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Cloud and Serverless Tech Development and Consulting**
+| &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions
+| &nbsp;             | • Focusing on Open Source software, tool sets and integrations
+| &nbsp;             | • Developing software server and deployment stacks for Web, Mobile, API, Dedicated Game Server and Pixel Streaming solutions
+| &nbsp;             | &nbsp;
 | May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
