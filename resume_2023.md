@@ -74,7 +74,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
 | &nbsp;             | • Focusing on Open Source software, tool sets and integrations
 | &nbsp;             | &nbsp;
-| May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
+| May 2021 - March 2023 | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
