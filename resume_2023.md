@@ -156,7 +156,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed documentation and training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | &nbsp;             | &nbsp;
-| 2008 - 2009        | **Keystone Pictures**
+| 2007 - 2009        | **Keystone Pictures**
 | &nbsp;             | _Visual Effects, Lead Technical Director, Technical Supervisor_
 | &nbsp;             | Onscreen Credits : The "Buddies" Series (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
 | &nbsp;             | &nbsp;
@@ -174,7 +174,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • "Finaled" the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • "Finaled" all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 | &nbsp;             | &nbsp;
-| 2000 - 2006        | **American Museum of Natural History (https://www.amnh.org/)** 
+| 2000 - 2007        | **American Museum of Natural History (https://www.amnh.org/)** 
 | &nbsp;             | Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
 | &nbsp;             | _Technical Director/Unix Systems Administrator_
 | &nbsp;             | &nbsp;
