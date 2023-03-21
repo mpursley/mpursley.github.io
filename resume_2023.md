@@ -74,7 +74,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
 | &nbsp;             | • Focusing on Open Source software, tool sets and integrations
 | &nbsp;             | &nbsp;
-| 2021 - 2023 | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
+| 2021 - 2023 | **[Improbable Worlds](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
@@ -83,7 +83,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Plan, Develop, Test and Deploy large-scale system upgrades, with additional HA redundacy and monitoring to reduce the risk of Customer or User impact.
 | &nbsp;             | • Develop and upgrade dashboards and alerts using SLOs, SLAs, KPI metrics and logs.
 | &nbsp;             | &nbsp;
-| 2019 - 2021 | **[Sage Inc.](https://www.sage.com/)**
+| 2019 - 2021 | **[Sage Intacct](https://www.sageintacct.com/)**
 | &nbsp;             | British software company focusing on financial services and management
 | &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
