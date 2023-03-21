@@ -71,9 +71,8 @@ title: Matt Pursley's CV
 | &nbsp;             | _Co-Founder_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Cloud and Serverless Tech Development and Consulting**
-| &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions
+| &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
 | &nbsp;             | • Focusing on Open Source software, tool sets and integrations
-| &nbsp;             | • Developing software server and deployment stacks for Web, Mobile, API, Dedicated Game Server and Pixel Streaming solutions
 | &nbsp;             | &nbsp;
 | May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
