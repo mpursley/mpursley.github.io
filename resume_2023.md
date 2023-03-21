@@ -74,7 +74,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
 | &nbsp;             | • Focusing on Open Source software, tool sets and integrations
 | &nbsp;             | &nbsp;
-| 2021 - 2023 | **[Improbable Worlds](https://www.improbable.io/)**
+| 2021 - 2023        | **[Improbable Worlds](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
@@ -83,7 +83,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Plan, Develop, Test and Deploy large-scale system upgrades, with additional HA redundacy and monitoring to reduce the risk of Customer or User impact.
 | &nbsp;             | • Develop and upgrade dashboards and alerts using SLOs, SLAs, KPI metrics and logs.
 | &nbsp;             | &nbsp;
-| 2019 - 2021 | **[Sage Intacct](https://www.sageintacct.com/)**
+| 2019 - 2021        | **[Sage Intacct](https://www.sageintacct.com/)**
 | &nbsp;             | British software company focusing on financial services and management
 | &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
@@ -94,7 +94,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Collect feedback from various stake-holder Teams and individuals about scoring values for viable alternatives.
 | &nbsp;             | • Architect a full project plan to deploy and migrate to a newly developed metrics collection and storage solution, while carefully scaling back and retiring the legacy system.
 | &nbsp;             | &nbsp;
-| 2012 - 2019 | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
+| 2012 - 2019        | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
 | &nbsp;             | _SRE, Site Reliability Engineer_
 | &nbsp;             | &nbsp;
@@ -138,7 +138,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Perform and report RCA and Postmortem findings
 | &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
-| Jan 2010 - Oct 2012 | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
+| 2010 - 2012        | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
 | &nbsp;             | &nbsp;
@@ -156,7 +156,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed documentation and training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | &nbsp;             | &nbsp;
-| Mar 2008 - Dec 2009 | **Keystone Pictures**
+| 2008 - 2009        | **Keystone Pictures**
 | &nbsp;             | _Visual Effects, Lead Technical Director, Technical Supervisor_
 | &nbsp;             | Onscreen Credits : The "Buddies" Series (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
 | &nbsp;             | &nbsp;
