@@ -66,7 +66,15 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
-| May 2021 - Present | **[Improbable Worlds Ltd.](https://www.improbable.io/)**
+| 2021 - Present | **[Open World Tech](https://www.openworldtech.io/)**
+| &nbsp;             | B2B Technology Consulting company, focusing on automation, scalability, serverless using Public Clouds (AWS, GCP, etc) and GitOps based CD/CI, using Open Source Tech and Tools
+| &nbsp;             | _Co-Founder_
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Cloud and Serverless Tech Development and Consulting**
+| &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
+| &nbsp;             | • Focusing on Open Source software, tool sets and integrations
+| &nbsp;             | &nbsp;
+| 2021 - 2023        | **[Improbable Worlds](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
@@ -75,7 +83,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Plan, Develop, Test and Deploy large-scale system upgrades, with additional HA redundacy and monitoring to reduce the risk of Customer or User impact.
 | &nbsp;             | • Develop and upgrade dashboards and alerts using SLOs, SLAs, KPI metrics and logs.
 | &nbsp;             | &nbsp;
-| March 2019 - May 2021 | **[Sage Inc.](https://www.sage.com/)**
+| 2019 - 2021        | **[Sage Intacct](https://www.sageintacct.com/)**
 | &nbsp;             | British software company focusing on financial services and management
 | &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
@@ -86,7 +94,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Collect feedback from various stake-holder Teams and individuals about scoring values for viable alternatives.
 | &nbsp;             | • Architect a full project plan to deploy and migrate to a newly developed metrics collection and storage solution, while carefully scaling back and retiring the legacy system.
 | &nbsp;             | &nbsp;
-| 2012 - 2019 | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
+| 2012 - 2019        | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
 | &nbsp;             | _SRE, Site Reliability Engineer_
 | &nbsp;             | &nbsp;
@@ -130,7 +138,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Perform and report RCA and Postmortem findings
 | &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
-| Jan 2010 - Oct 2012 | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
+| 2010 - 2012        | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
 | &nbsp;             | &nbsp;
@@ -148,7 +156,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed documentation and training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | &nbsp;             | &nbsp;
-| Mar 2008 - Dec 2009 | **Keystone Pictures**
+| 2007 - 2009        | **Keystone Pictures**
 | &nbsp;             | _Visual Effects, Lead Technical Director, Technical Supervisor_
 | &nbsp;             | Onscreen Credits : The "Buddies" Series (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
 | &nbsp;             | &nbsp;
@@ -166,7 +174,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • "Finaled" the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • "Finaled" all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 | &nbsp;             | &nbsp;
-| 2000 - 2006        | **American Museum of Natural History (https://www.amnh.org/)** 
+| 2000 - 2007        | **American Museum of Natural History (https://www.amnh.org/)** 
 | &nbsp;             | Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
 | &nbsp;             | _Technical Director/Unix Systems Administrator_
 | &nbsp;             | &nbsp;
@@ -186,18 +194,6 @@ title: Matt Pursley's CV
 | &nbsp;             | • Maintained and supported graphics software and hardware for Computer Graphics Labs in Manhattan, NY.  Including Silicon Graphics (Unix) Workstations, Avid Video Editor, Softimage3D, Alias Wavefront, etc.
 
 <br><br><br><br>
-<hr>
-
-## Personal Projects
-
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
-|---                                          	|---	
-| Oct 2022 - Present | **[OpenWorldGame.io](https://openworldgame.io/), [https://github.com/OpenWorldGame-Io](https://github.com/OpenWorldGame-Io)**
-| &nbsp;             | "Open World" is an open "sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.1 and Lyra starter project/game, along with a customized CD/CI backend to provide a free-to-play open space environment that Players/Users can use to chat, communicate, show and share ideas.
-| &nbsp;             | _Founder, Lead Game Dev/Contributor_
-
-<br><br><br><br>
-<br><br><br>
 <hr>
 
 ## Education
