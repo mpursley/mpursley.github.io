@@ -193,6 +193,16 @@ title: Matt Pursley's CV
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Maintained and supported graphics software and hardware for Computer Graphics Labs in Manhattan, NY.  Including Silicon Graphics (Unix) Workstations, Avid Video Editor, Softimage3D, Alias Wavefront, etc.
 
+
+
+## Personal Projects and Research
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
+|---                                          	|---	
+| Oct 2022 - Present | **[OpenWorldGame.io](https://openworldgame.io/), [https://github.com/OpenWorldGame-Io](https://github.com/OpenWorldGame-Io)**
+| &nbsp;             | _Co-Founder, Lead Game Dev/Contributor_
+| &nbsp;             | "Open World" is an open "sandbox" project that leverages Epic Game's free and open-source Unreal Engine 5.x and Lyra starter project/game, along with a customized code and content delivery backend, to provide a free-to-play open space environment that Players/Users can use to chat, communicate, show and share ideas.  While also working to incorporate Infrastructure, Metrics and other types of Data Visualization.  E.g [https://github.com/mpursley/UnrealEngine-Example_BluePrints_Using_Rest_APIs](https://github.com/mpursley/UnrealEngine-Example_BluePrints_Using_Rest_APIs).  As well as including some modern updates and customizations to scale the active/concurrent User/Player count beyond what is available from a single backend dedicated gameserver.  More information on this project will be released as Prototype, Alpha and Beta releases are developed and deployed.
+
 <br><br><br><br>
 <hr>
 
