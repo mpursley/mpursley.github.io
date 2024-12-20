@@ -138,7 +138,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Perform and report RCA and Postmortem findings
 | &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
-| 2010 - 2012        | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
+| 2010 - 2012        | **[Digital Domain]([url](https://digitaldomain.com/)) - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
 | &nbsp;             | [https://www.imdb.com/name/nm1250137/]([url](https://www.imdb.com/name/nm1250137/))
@@ -157,7 +157,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed documentation and training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | &nbsp;             | &nbsp;
-| 2007 - 2009        | **Keystone Pictures**
+| 2007 - 2009        | **[Keystone Pictures]([url](https://www.linkedin.com/company/keystone-entertainment/?originalSubdomain=ca))**
 | &nbsp;             | _Visual Effects, Lead Technical Director, Technical Supervisor_
 | &nbsp;             | Onscreen Credits : The "Buddies" Series (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
 | &nbsp;             | [https://www.imdb.com/name/nm1250137/]([url](https://www.imdb.com/name/nm1250137/))
