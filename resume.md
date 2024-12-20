@@ -141,6 +141,7 @@ title: Matt Pursley's CV
 | 2010 - 2012        | **Digital Domain - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
+| &nbsp;             | [https://www.imdb.com/name/nm1250137/]([url](https://www.imdb.com/name/nm1250137/))
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
@@ -159,6 +160,7 @@ title: Matt Pursley's CV
 | 2007 - 2009        | **Keystone Pictures**
 | &nbsp;             | _Visual Effects, Lead Technical Director, Technical Supervisor_
 | &nbsp;             | Onscreen Credits : The "Buddies" Series (Space Buddies, Santa Buddies, Adventure Buddies, etc. )
+| &nbsp;             | [https://www.imdb.com/name/nm1250137/]([url](https://www.imdb.com/name/nm1250137/))
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Worked with several hardware and software vendors to install and configure a 100 SGI Linux 1U render nodes, 25 MacPro Workstations, and a 40TB SGI Raid Storage Server, connected through a new HP ProCurve Gigabyte network.
