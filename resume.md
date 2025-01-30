@@ -74,7 +74,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
 | &nbsp;             | • Focusing on Open Source software, tool sets and integrations
 | &nbsp;             | &nbsp;
-| Mar 2023 - Jan 2025    | **[Zepz Pay](https://www.zepzpay/)**
+| Mar 2023 - Jan 2025    | **[Zepz Pay](https://www.zepzpay.io/)**
 | &nbsp;             | British-based global digital cross-border payments platform that enables international money transfers.
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
