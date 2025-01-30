@@ -74,7 +74,14 @@ title: Matt Pursley's CV
 | &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
 | &nbsp;             | • Focusing on Open Source software, tool sets and integrations
 | &nbsp;             | &nbsp;
-| May 2021 - Mar 2023    | **[Improbable Worlds](https://www.improbable.io/)**
+| Mar 2023 - Jan 2025    | **[Zepz Pay](https://www.zepzpay/)**
+| &nbsp;             | British-based global digital cross-border payments platform that enables international money transfers.
+| &nbsp;             | _Sr LiveOps Engineer_
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Sr Site Reliability Engineer**
+| &nbsp;             | • Plan, develop and deploy...
+| &nbsp;             | &nbsp;
+| 2021 - 2023    | **[Improbable Worlds](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
