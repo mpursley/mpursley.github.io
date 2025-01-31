@@ -74,12 +74,20 @@ title: Matt Pursley's CV
 | &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
 | &nbsp;             | • Focusing on Open Source software, tool sets and integrations
 | &nbsp;             | &nbsp;
-| Mar 2023 - Jan 2025    | **[Zepz Pay](https://www.zepzpay.io/)**
+| Mar 2023 - Jan 2025    | **[Zepz Inc](https://zepzpay.com/)**
 | &nbsp;             | British-based global digital cross-border payments platform that enables international money transfers.
-| &nbsp;             | _Sr LiveOps Engineer_
+| &nbsp;             | _Sr. Site Reliability Engineer_
 | &nbsp;             | &nbsp;
-| &nbsp;             | **Sr Site Reliability Engineer**
-| &nbsp;             | • Plan, develop and deploy...
+| &nbsp;             | **Sr. Site Reliability Engineering**
+| &nbsp;             | • Planned, developed, and deployed improvements for observability, synthetic monitoring, and incident management
+| &nbsp;             | • Migrated metrics, logs, dashboards, and alerts into Grafana Cloud and Grafana Oncall from Pagerduty, Datadog, NewRelic, etc.
+| &nbsp;             | • Migrated remote synthetic checks and alerts into Grafana from Site24x7.com and Pingdom
+| &nbsp;             | • Participated in Oncall rotations, managing incidents ranging from company-wide outages to software/infrastructure deployment failures, bugs, and other unexpected issues
+| &nbsp;             | • Worked closely with DBAs to migrate and improve monitoring and alerting for all company databases and related cloud infrastructure.
+| &nbsp;             | • Installed the `cloudflare-exporter` service to collect Cloudflare metrics and integrated them with Grafana's built-in dashboards and alerts.
+| &nbsp;             | • Migrated PGAnalyse alerts to Grafana Oncall
+| &nbsp;             | • Provided fast and effective support for Dev, Operations, and Customer Support teams regarding observability, monitoring, and alerting
+| &nbsp;             | • Participated in cross-functional teams to complete large-scale and complex projects, migrations, deployments, and other deliverables
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
