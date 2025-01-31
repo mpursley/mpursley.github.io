@@ -91,7 +91,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
-| &nbsp;             | _Sr LiveOps Engineer_
+| &nbsp;             | _Sr. LiveOps Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Deployment and Management**
 | &nbsp;             | • Work closely with the LiveOps, DevOps and Dev Teams to build, test and deploy scalable application and infrastructure Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
@@ -100,7 +100,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | 2019 - 2021        | **[Sage Intacct, https://www.sageintacct.com](https://www.sageintacct.com/)**
 | &nbsp;             | British based software company focusing on financial services and management
-| &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
+| &nbsp;             | _Sr. SRE, Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Work closely with the SRE, Cloud Ops and DBA teams to build, test and deploy scalable application and infrastructure Tech stacks based on custom Python, Bash and Config Management Tools.
