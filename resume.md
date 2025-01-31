@@ -80,14 +80,12 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Sr. Site Reliability Engineering**
 | &nbsp;             | • Plan, develop, and deploy improvements for observability, synthetic monitoring, and incident management.
-| &nbsp;             | • Migrate metrics, logs, dashboards, and alerts into Grafana Cloud and Grafana Oncall from Pagerduty, Datadog, NewRelic, etc.
-| &nbsp;             | • Migrate remote synthetic checks and alerts into Grafana from Site24x7.com and Pingdom.
-| &nbsp;             | • Participate in Oncall rotations, managing incidents ranging from company-wide outages to software/infrastructure deployment failures, bugs, and other unexpected issues.
-| &nbsp;             | • Work closely with DBAs to migrate and improve monitoring and alerting for all company databases and related cloud infrastructure.
-| &nbsp;             | • Install the `cloudflare-exporter` service to collect Cloudflare metrics and integrate them with Grafana's built-in dashboards and alerts.
-| &nbsp;             | • Migrate PGAnalyse alerts to Grafana Oncall.
-| &nbsp;             | • Provide fast and effective support for Dev, Operations, and Customer Support teams regarding observability, monitoring, and alerting.
-| &nbsp;             | • Participate in cross-functional teams to complete large-scale and complex projects, migrations, deployments, and other deliverables.
+| &nbsp;             | • Migrate and aggregate all observibility data (metrics, logs, dashboards, alerts, oncall rotations and schedules) into Grafana Cloud and Grafana Oncall from various internal and 3rd party vendors (e.g. Pagerduty, Datadog, NewRelic, PGAnalyze, CloudFlare, AWS Cloudwatch, GCP Monitoring, etc)
+| &nbsp;             | • Migrate remote synthetic checks and alerts into Grafana from various vendors (e.g. Site24x7.com, Pingdom, Amazon CloudWatch Synthetics, etc)
+| &nbsp;             | • Work closely with DBAs and DevOps/Infra Teams to migrate and improve monitoring and alerting for all company databases and related cloud infrastructure.
+| &nbsp;             | • Leverage company-wide knowledge of services and infrastructure to provide fast and effective support for Dev, Operations, and Customer Support teams regarding best-practices, support and requests for all observability, monitoring, and alerting.
+| &nbsp;             | • Participate in Oncall rotations, managing incidents ranging from company-wide outages to software/infrastructure deployment failures, bugs, customer service related problems and other unexpected issues.  Respond quickly and efficiently to maximize9s in all business service uptimes.
+| &nbsp;             | • Participate in cross-functional teams to complete large-scale and complex projects, migrations, deployments, and other impovements and deliverables.
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
