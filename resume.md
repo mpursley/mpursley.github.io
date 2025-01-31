@@ -151,10 +151,10 @@ title: Matt Pursley's CV
 | &nbsp;             | • Perform and report RCA and Postmortem findings
 | &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
-| 2010 - 2012        | **[Digital Domain, https://digitaldomain.com]([url](https://digitaldomain.com/)) - Vancouver, BC and Port St Lucie, FL**
+| 2010 - 2012        | **[Digital Domain, https://digitaldomain.com](https://digitaldomain.com/) - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
-| &nbsp;             | [https://www.imdb.com/name/nm1250137/]([url](https://www.imdb.com/name/nm1250137/))
+| &nbsp;             | [https://www.imdb.com/name/nm1250137/](https://www.imdb.com/name/nm1250137)
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
