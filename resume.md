@@ -66,7 +66,7 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
-| 2021 - Present | **[Open World Tech](https://www.openworldtech.io/)**
+| 2021 - Present | **[Open World Tech, https://www.openworldtech.io](https://www.openworldtech.io/)**
 | &nbsp;             | B2B Technology Consulting company, focusing on automation, scalability, serverless using Public Clouds (AWS, GCP, etc) and GitOps based CD/CI, using Open Source Tech and Tools
 | &nbsp;             | _Co-Founder_
 | &nbsp;             | &nbsp;
@@ -74,17 +74,32 @@ title: Matt Pursley's CV
 | &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
 | &nbsp;             | • Focusing on Open Source software, tool sets and integrations
 | &nbsp;             | &nbsp;
-| May 2021 - Mar 2023    | **[Improbable Worlds](https://www.improbable.io/)**
+| Mar 2023 - Jan 2025    | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com/)**
+| &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
+| &nbsp;             | _Sr. Site Reliability Engineer_
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Sr. Site Reliability Engineering**
+| &nbsp;             | • Plan, develop, and deploy improvements for observability, synthetic monitoring, and incident management.
+| &nbsp;             | • Migrate metrics, logs, dashboards, and alerts into Grafana Cloud and Grafana Oncall from Pagerduty, Datadog, NewRelic, etc.
+| &nbsp;             | • Migrate remote synthetic checks and alerts into Grafana from Site24x7.com and Pingdom.
+| &nbsp;             | • Participate in Oncall rotations, managing incidents ranging from company-wide outages to software/infrastructure deployment failures, bugs, and other unexpected issues.
+| &nbsp;             | • Work closely with DBAs to migrate and improve monitoring and alerting for all company databases and related cloud infrastructure.
+| &nbsp;             | • Install the `cloudflare-exporter` service to collect Cloudflare metrics and integrate them with Grafana's built-in dashboards and alerts.
+| &nbsp;             | • Migrate PGAnalyse alerts to Grafana Oncall.
+| &nbsp;             | • Provide fast and effective support for Dev, Operations, and Customer Support teams regarding observability, monitoring, and alerting.
+| &nbsp;             | • Participate in cross-functional teams to complete large-scale and complex projects, migrations, deployments, and other deliverables.
+| &nbsp;             | &nbsp;
+| 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr LiveOps Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Deployment and Management**
 | &nbsp;             | • Work closely with the LiveOps, DevOps and Dev Teams to build, test and deploy scalable application and infrastructure Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
-| &nbsp;             | • Plan, Develop, Test and Deploy large-scale system upgrades, with additional HA redundacy and monitoring to reduce the risk of Customer or User impact.
+| &nbsp;             | • Plan, Develop, Test and Deploy large-scale system upgrades, with additional HA redundancy and monitoring to reduce the risk of Customer or User impact.
 | &nbsp;             | • Develop and upgrade dashboards and alerts using SLOs, SLAs, KPI metrics and logs.
 | &nbsp;             | &nbsp;
-| 2019 - 2021        | **[Sage Intacct](https://www.sageintacct.com/)**
-| &nbsp;             | British software company focusing on financial services and management
+| 2019 - 2021        | **[Sage Intacct, https://www.sageintacct.com](https://www.sageintacct.com/)**
+| &nbsp;             | British based software company focusing on financial services and management
 | &nbsp;             | _Sr SRE, Sr Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
@@ -94,7 +109,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Collect feedback from various stake-holder Teams and individuals about scoring values for viable alternatives.
 | &nbsp;             | • Architect a full project plan to deploy and migrate to a newly developed metrics collection and storage solution, while carefully scaling back and retiring the legacy system.
 | &nbsp;             | &nbsp;
-| 2012 - 2019        | **[Sony Interactive Entertainment, Playstation](https://www.playstation.com/)**
+| 2012 - 2019        | **[Sony Interactive Entertainment, Playstation, https://www.playstation.com](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
 | &nbsp;             | _SRE, Site Reliability Engineer_
 | &nbsp;             | &nbsp;
@@ -138,7 +153,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Perform and report RCA and Postmortem findings
 | &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
-| 2010 - 2012        | **[Digital Domain]([url](https://digitaldomain.com/)) - Vancouver, BC and Port St Lucie, FL**
+| 2010 - 2012        | **[Digital Domain, https://digitaldomain.com]([url](https://digitaldomain.com/)) - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
 | &nbsp;             | [https://www.imdb.com/name/nm1250137/]([url](https://www.imdb.com/name/nm1250137/))
