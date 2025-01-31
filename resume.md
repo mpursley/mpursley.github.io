@@ -54,8 +54,8 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting
 | :---               | :------------------------|:---------------------------------|:------------------------
-| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Prometheus, Alerts, Exporters
-| &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Grafana, Kibana, Elasticsearch
+| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Kibana, Elasticsearch
+| &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
 | &nbsp;             | • MacOS                  | • Golang                         | • CDCI (Github, Kubernetes)
 | &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
 
