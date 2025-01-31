@@ -85,7 +85,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Work closely with DBAs and DevOps/Infra Teams to migrate and improve monitoring and alerting for all company databases and related cloud infrastructure.
 | &nbsp;             | • Leverage company-wide knowledge of services and infrastructure to provide fast and effective support for Dev, Operations, and Customer Support teams regarding best-practices, support and requests for all observability, monitoring, and alerting.
 | &nbsp;             | • Participate in Oncall rotations, managing incidents ranging from company-wide outages to software/infrastructure deployment failures, bugs, customer service related problems and other unexpected issues.  Respond quickly and efficiently to maximize9s in all business service uptimes.
-| &nbsp;             | • Participate in cross-functional teams to complete large-scale and complex projects, migrations, deployments, and other impovements and deliverables.
+| &nbsp;             | • Participate in cross-functional teams to complete large-scale and complex projects, migrations, deployments, and other improvements and deliverables.
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
