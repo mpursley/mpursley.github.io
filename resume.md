@@ -89,7 +89,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
-| &nbsp;             | _Sr. LiveOps Engineer_
+| &nbsp;             | _Sr. LiveOps, DevOps and Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Deployment and Management**
 | &nbsp;             | • Work closely with the LiveOps, DevOps and Dev Teams to build, test and deploy scalable application and infrastructure Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
