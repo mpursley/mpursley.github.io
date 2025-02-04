@@ -102,7 +102,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Work closely with the SRE, Cloud Ops and DBA teams to build, test and deploy scalable application and infrastructure Tech stacks based on custom Python, Bash and Config Management Tools.
-| &nbsp;             | • Complete a deep-dive review of the existing Metrics Collection, Storage and Visualizations infrastructure. (ELK Stack, Ansible/Chef, Nagios/Zabbix, Pagerduty, etc.)
+| &nbsp;             | • Complete a deep-dive review of the existing Metrics Collection, Storage and Visualizations infrastructure. (ELK Stack, Ansible/Chef, Nagios/Zabbix, Pagerduty, etc)
 | &nbsp;             | • Complete full evaluation and scoring for several modern industry standard alternatives against existing requirements and desires for a complete revamp/replacement.
 | &nbsp;             | • Collect feedback from various stake-holder Teams and individuals about scoring values for viable alternatives.
 | &nbsp;             | • Architect a full project plan to deploy and migrate to a newly developed metrics collection and storage solution, while carefully scaling back and retiring the legacy system.
