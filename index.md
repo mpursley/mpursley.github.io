@@ -11,8 +11,8 @@ title: Matt Pursley
     </td>
     <td align="left">
       <b>Matt Pursley</b>, RHCE PSM<br>
-      Systems and Service Reliability Engineer<br>
-      Team and Technical Project Lead<br>
+      Site Reliability Engineer, DevOps, CloudOps<br>
+      Technical Project Lead<br>
       <div id="emailaddress">
         <i class="fi-mail"></i> 
         <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br>

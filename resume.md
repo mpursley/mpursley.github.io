@@ -11,8 +11,8 @@ title: Matt Pursley's CV
     </td>
     <td align="left">
       <b>Matt Pursley</b>, RHCE PSM<br>
-      Web-Services and Site Reliability Engineer<br>
-      Team and Technical Project Lead<br>
+      Site Reliability Engineer, DevOps, CloudOps<br>
+      Technical Project Lead<br>
       <div id="emailaddress">
         <i class="fi-mail"></i> 
         <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br>
@@ -38,7 +38,7 @@ title: Matt Pursley's CV
 
 ## Skills
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|LiveOps/DevOPs/Site Reliability Engineering<br>Team/Technical Project Lead<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Site Reliability Engineer, DevOps, CloudOps<br>Technical Project Lead<br>
 | :------------------------ | :------------------------
 | &nbsp;             |
 | &nbsp;             | • **Cloud Infrastructure & Deployment**: Design, plan and deploy product solutions using large Cloud Providers (AWS, GCP) and Microservices running Kubernetes (EKS, GKE), Terraform, Helm, Vault, Prometheus/Grafana, ELK and other OpenSource tools.
