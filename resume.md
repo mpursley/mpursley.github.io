@@ -40,6 +40,7 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|LiveOps/DevOPs/Site Reliability Engineering<br>Team/Technical Project Lead<br>
 | :------------------------ | :------------------------
+| &nbsp;             |
 | &nbsp;             | • **Cloud Infrastructure & Deployment**: Design, plan and deploy product solutions using large Cloud Providers (AWS, GCP) and Microservices running Kubernetes (EKS, GKE), Terraform, Helm, Vault, Prometheus/Grafana, ELK and other OpenSource tools.
 | &nbsp;             | • **Backend Development & Collaboration**: Directly develop and/or update segmented parts of backend infrastructure and applications, along with teams of Engineers, QA, Project Managers, etc.
 | &nbsp;             | • **Mentorship & Guidance**:  Mentor to help other Engineers to be more productive and achieve Company and Personal goals
