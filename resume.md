@@ -40,15 +40,15 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|LiveOps/DevOPs/Site Reliability Engineering<br>Team/Technical Project Lead
 | :------------------------ | :------------------------
-| &nbsp;             | **Cloud Infrastructure & Deployment:** <br>• Design, plan and deploy product solutions using large Cloud Providers (AWS, GCP) and Microservices running Kubernetes (EKS, GKE), Terraform, Helm, Vault, Prometheus/Grafana, ELK and other OpenSource tools.
-| &nbsp;             | **Backend Development & Collaboration:** <br>• Directly develop and/or update segmented parts of backend infrastructure and applications, along with teams of Engineers, QA, Project Managers, etc.
-| &nbsp;             | **Mentorship & Guidance:** <br>• Mentor to help other Engineers to be more productive and achieve Company and Personal goals
-| &nbsp;             | **Talent Acquisition & Onboarding:** <br>• Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly
-| &nbsp;             | **Project Management & Reporting:** <br>• Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
-| &nbsp;             | **Data-Driven Decision Making:** <br>• Develop and present SLI, SLA, SLO metrics for products, to make sure they are delivering value to Internal Teams and External Customers
-| &nbsp;             | **Incident Management & Response:** <br>• Operate as First Responder, Tech Engineer and Incident Manager, to help to resolve issues quickly
-| &nbsp;             | **Post-mortem Analysis & Improvement:** <br>• Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
-| &nbsp;             | **Cross-Functional Collaboration:** <br>• Work cross-functionally with a variety of teams to ensure that deployed applications meet SLOs and SLAs
+| &nbsp;             | Cloud Infrastructure & Deployment: <br>• Design, plan and deploy product solutions using large Cloud Providers (AWS, GCP) and Microservices running Kubernetes (EKS, GKE), Terraform, Helm, Vault, Prometheus/Grafana, ELK and other OpenSource tools.
+| &nbsp;             | Backend Development & Collaboration: <br>• Directly develop and/or update segmented parts of backend infrastructure and applications, along with teams of Engineers, QA, Project Managers, etc.
+| &nbsp;             | Mentorship & Guidance: <br>• Mentor to help other Engineers to be more productive and achieve Company and Personal goals
+| &nbsp;             | Talent Acquisition & Onboarding: <br>• Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly
+| &nbsp;             | Project Management & Reporting: <br>• Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
+| &nbsp;             | Data-Driven Decision Making: <br>• Develop and present SLI, SLA, SLO metrics for products, to make sure they are delivering value to Internal Teams and External Customers
+| &nbsp;             | Incident Management & Response: <br>• Operate as First Responder, Tech Engineer and Incident Manager, to help to resolve issues quickly
+| &nbsp;             | Post-mortem Analysis & Improvement: <br>• Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
+| &nbsp;             | Cross-Functional Collaboration: <br>• Work cross-functionally with a variety of teams to ensure that deployed applications meet SLOs and SLAs
 
 <br>
 
