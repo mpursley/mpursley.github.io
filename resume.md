@@ -47,7 +47,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • **Talent Acquisition & Onboarding**: Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly
 | &nbsp;             | • **Project Management & Reporting**: Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
 | &nbsp;             | • **Data-Driven Decision Making**: Develop and present SLI, SLA, SLO metrics for products, to make sure they are delivering value to Internal Teams and External Customers
-| &nbsp;             | • **Incident Management & Response**: Operate as First Responder, Tech Engineer and Incident Manager, to help to resolve issues quickly
+| &nbsp;             | • **Incident Management & Response: Own, develop, and maintain the Incident Management process, operating as First Responder, Tech Engineer, and Incident Manager to ensure rapid issue resolution
 | &nbsp;             | • **Post-mortem Analysis & Improvement**: Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
 | &nbsp;             | • **Cross-Functional Collaboration**: Work cross-functionally with a variety of teams to ensure that deployed applications meet SLOs and SLAs
 
