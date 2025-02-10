@@ -68,7 +68,7 @@ title: Matt Pursley's CV
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
 | 2021 - Present | **[Open World Tech, https://www.openworldtech.io](https://www.openworldtech.io/)**
-| &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using Public Clouds and GitOps based CD/CI pipelines with open-source technologies and tools.
+| &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines with open-source technologies and tools.
 | &nbsp;             | _Co-Founder_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Cloud and Serverless Tech Development and Consulting**
