@@ -68,12 +68,16 @@ title: Matt Pursley's CV
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
 | 2021 - Present | **[Open World Tech, https://www.openworldtech.io](https://www.openworldtech.io/)**
-| &nbsp;             | B2B Technology Consulting company, focusing on automation, scalability, serverless using Public Clouds (AWS, GCP, etc) and GitOps based CD/CI, using Open Source Tech and Tools
+| &nbsp;             | B2B Technology Consulting company, focusing on automation, scalability, serverless using Public Clouds (AWS, GCP, etc) and GitOps based CD/CI using Open Source Tech and Tools
 | &nbsp;             | _Co-Founder_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Cloud and Serverless Tech Development and Consulting**
-| &nbsp;             | • Developing and Deploying Gitops based automated and scalable solutions for Web, Mobile, API, Dedicated Game Server and Pixel Streaming applications
-| &nbsp;             | • Focusing on Open Source software, tool sets and integrations
+| &nbsp;             | • Developing and Deploying GitOps based automated and scalable solutions for Web, Mobile, API, and dedicated Game Servers. Focusing on Open Source software, tool sets and integrations.
+| &nbsp;             | • Game server automation with Kubernetes, deployment, and testing.
+| &nbsp;             | • Incorporating "cloud streaming/pixel streaming" options for games, using remote/cloud graphics cards.
+| &nbsp;             | • Integrating Nvidia Omniverse digital-twin objects, actors and scenes with interactive games and environments, using Unreal Engine 5.
+| &nbsp;             | • Incorporating Web3 protocols for in-game transactions (NFTs).
+| &nbsp;             | • Incorporating LLM APIs to create more life-like and human game character interactions.
 | &nbsp;             | &nbsp;
 | Mar 2023 - Jan 2025    | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com/)**
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
