@@ -43,7 +43,7 @@ title: Matt Pursley's CV
 | &nbsp;             |
 | &nbsp;             | • **Cloud Infrastructure & Observability**: Lead the design, planning, and deployment of product solutions using major cloud providers (AWS, GCP, Azure) and microservices running on Kubernetes, utilizing tools like Terraform, Helm, Vault, Grafana, Prometheus, ELK, and other open-source technologies. Focusing on implementing robust observability for monitoring and troubleshooting.
 | &nbsp;             | • **Cross-Functional Collaboration**: Lead cross-functional collaboration efforts with various teams to ensure that deployed applications consistently meet SLOs and SLAs
-| &nbsp;             | • **Backend Development & Collaboration**: Directly develop and/or update segmented parts of backend infrastructure and applications, along with teams of Engineers, QA, Project Managers, etc.
+| &nbsp;             | • **Backend Development & Collaboration**: Directly develop and/or update segmented parts of backend infrastructure and applications. Collaborating with SME Engineers, QA, Project Managers, etc.
 | &nbsp;             | • **Data-Driven Decision Making**: Take ownership of establishing and tracking SLI, SLA, and SLO metrics to ensure products deliver value to internal and external customers
 | &nbsp;             | • **Incident Management & Response**: Own, develop, and maintain the Incident Management process, operating as First Responder, Tech Engineer, and Incident Manager to ensure rapid issue resolution
 | &nbsp;             | • **Post-mortem Analysis & Improvement**: Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
