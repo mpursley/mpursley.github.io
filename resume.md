@@ -41,15 +41,15 @@ title: Matt Pursley's CV
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Site Reliability Engineer, DevOps, CloudOps<br>Technical Project Lead<br>
 | :------------------------ | :------------------------
 | &nbsp;             |
-| &nbsp;             | • **Cloud Infrastructure & Deployment**: Design, plan and deploy product solutions using large Cloud Providers (AWS, GCP, Azure) and Microservices running Kubernetes (EKS, GKE, AKS), Terraform, Helm, Vault, Prometheus/Grafana, ELK and other OpenSource tools.
+| &nbsp;             | • **Cloud Infrastructure & Observability**: Lead the design, planning, and deployment of product solutions using major cloud providers (AWS, GCP, Azure) and microservices running on Kubernetes, utilizing tools like Terraform, Helm, Vault, Grafana, Prometheus, ELK, and other open-source technologies. Focusing on implementing robust observability for monitoring and troubleshooting.
+| &nbsp;             | • **Cross-Functional Collaboration**: Lead cross-functional collaboration efforts with various teams to ensure that deployed applications consistently meet SLOs and SLAs
 | &nbsp;             | • **Backend Development & Collaboration**: Directly develop and/or update segmented parts of backend infrastructure and applications, along with teams of Engineers, QA, Project Managers, etc.
+| &nbsp;             | • **Data-Driven Decision Making**: Take ownership of establishing and tracking SLI, SLA, and SLO metrics to ensure products deliver value to internal and external customers
+| &nbsp;             | • **Incident Management & Response**: Own, develop, and maintain the Incident Management process, operating as First Responder, Tech Engineer, and Incident Manager to ensure rapid issue resolution
+| &nbsp;             | • **Post-mortem Analysis & Improvement**: Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
+| &nbsp;             | • **Project Management & Reporting**: Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
 | &nbsp;             | • **Mentorship & Guidance**:  Mentor to help other Engineers to be more productive and achieve Company and Personal goals
 | &nbsp;             | • **Talent Acquisition & Onboarding**: Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly
-| &nbsp;             | • **Project Management & Reporting**: Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
-| &nbsp;             | • **Data-Driven Decision Making**: Take ownership of establishing and tracking SLI, SLA, and SLO metrics to ensure products deliver value to internal and external customers
-| &nbsp;             | • **Incident Management & Response: Own, develop, and maintain the Incident Management process, operating as First Responder, Tech Engineer, and Incident Manager to ensure rapid issue resolution
-| &nbsp;             | • **Post-mortem Analysis & Improvement**: Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
-| &nbsp;             | • **Cross-Functional Collaboration**: Lead cross-functional collaboration efforts with various teams to ensure that deployed applications consistently meet SLOs and SLAs
 
 <br>
 
@@ -88,7 +88,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Migrate remote synthetic checks and alerts into Grafana from various vendors (e.g. Site24x7.com, Pingdom, Amazon CloudWatch Synthetics, etc)
 | &nbsp;             | • Work closely with DBAs and DevOps/Infra Teams to migrate and improve monitoring and alerting for all company databases and related cloud infrastructure.
 | &nbsp;             | • Leverage company-wide knowledge of services and infrastructure to provide fast and effective support for Dev, Operations, and Customer Support teams regarding best-practices, support and requests for all observability, monitoring, and alerting.
-| &nbsp;             | • Participate in Oncall rotations, managing incidents ranging from company-wide outages to software/infrastructure deployment failures, bugs, customer service related problems and other unexpected issues.  Respond quickly and efficiently to maximize9s in all business service uptimes.
+| &nbsp;             | • Participate in Oncall rotations, managing incidents ranging from company-wide outages to software/infrastructure deployment failures, bugs, customer service related problems and other unexpected issues.  Respond quickly and efficiently to maximize 9s in all business service uptimes.
 | &nbsp;             | • Participate in cross-functional teams to complete large-scale and complex projects, migrations, deployments, and other improvements and deliverables.
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
@@ -163,7 +163,7 @@ title: Matt Pursley's CV
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
 | &nbsp;             | • Setup, configure, and maintain OS and Software installation and configuration management systems ( Redhat Kickstart, Onesis, Puppet, CFEngine, etc).
-| &nbsp;             | • Worked with sister companies in US and Canada to integrate VFX Pipeline and Software synchronization.  Including CentOS Linux operating system updates and changes, site specific software package installations and deployments, etc.
+| &nbsp;             | • Worked with sister companies in the US and Canada to integrate VFX Pipeline and Software synchronization.  Including CentOS Linux operating system updates and changes, site specific software package installations and deployments, etc.
 | &nbsp;             | • Worked with Linux Kickstart, Onesis and Puppet to setup fully automated bare metal installs for CentOS Linux Operating systems, custom packages, connections to shared storage, custom CG Pipeline and Toolset, etc.
 | &nbsp;             | • Worked to develop scripts and procedures to bind CentOS Linux and MacOSX workstations and servers to Windows Server 2008 via LDAP with Kerberos encryption.
 | &nbsp;             | • Acted as Lead Support for all Render Queueing and Job Management, including automation and scripting.
