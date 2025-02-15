@@ -40,16 +40,16 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Site Reliability Engineer, DevOps, CloudOps<br>Technical Project Lead<br>
 | :------------------------ | :------------------------
-| &nbsp;             |
-| &nbsp;             | • **Cloud Infrastructure & Observability**: Lead the design, planning, and deployment of product solutions using major cloud providers (AWS, GCP, Azure) and microservices running on Kubernetes, utilizing tools like Terraform, Helm, Vault, Grafana, Prometheus, ELK, and other open-source technologies. Focusing on implementing robust observability for monitoring and troubleshooting.
-| &nbsp;             | • **Cross-Functional Collaboration**: Lead cross-functional collaboration efforts with various teams to ensure that deployed applications consistently meet SLOs and SLAs
-| &nbsp;             | • **Backend Development & Collaboration**: Directly develop and/or update segmented parts of backend infrastructure and applications. Collaborating with SME Engineers, QA, Project Managers, etc.
-| &nbsp;             | • **Data-Driven Decision Making**: Take ownership of establishing and tracking SLI, SLA, and SLO metrics to ensure products deliver value to internal and external customers
-| &nbsp;             | • **Incident Management & Response**: Own, develop, and maintain the Incident Management process, operating as First Responder, Tech Engineer, and Incident Manager to ensure rapid issue resolution
-| &nbsp;             | • **Post-mortem Analysis & Improvement**: Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated
-| &nbsp;             | • **Project Management & Reporting**: Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members
-| &nbsp;             | • **Mentorship & Guidance**:  Mentor to help other Engineers to be more productive and achieve Company and Personal goals
-| &nbsp;             | • **Talent Acquisition & Onboarding**: Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly
+| &nbsp;             | • **Cloud Infrastructure & Observability**: Lead the design, planning, and deployment of product solutions using major cloud providers (AWS, GCP, Azure) and microservices running on Kubernetes, utilizing tools like Terraform, Helm, Vault, Grafana, Prometheus, ELK, and other open-source technologies.  Focus on implementing robust observability for monitoring, troubleshooting, and cost optimization.  Experience with vendor and cloud migration and consolidation strategies, to improve efficiency and reduce infrastructure spend.
+| &nbsp;             | • **Resource Planning & Cost Optimization**:  Develop and implement resource planning strategies to ensure efficient utilization of cloud resources, minimizing waste and maximizing cost savings.  Experience analyzing vendor and cloud billing data and identifying opportunities for optimization.  Lead migration and consolidation efforts, to improve infrastructure efficiency and reduce operational costs.
+| &nbsp;             | • **Cross-Functional Collaboration**: Lead cross-functional collaboration efforts with various teams to ensure that deployed applications consistently meet SLOs and SLAs while adhering to budget constraints.
+| &nbsp;             | • **Backend Development & Collaboration**: Directly develop and/or update segmented parts of backend infrastructure and applications. Collaborating with SME Engineers, QA, Project Managers, etc.
+| &nbsp;             | • **Data-Driven Decision Making**: Take ownership of establishing and tracking SLI, SLA, and SLO metrics to ensure products deliver value to internal and external customers.  Utilize data analysis to inform resource planning and cost optimization strategies.
+| &nbsp;             | • **Incident Management & Response**: Own, develop, and maintain the Incident Management process, operating as First Responder, Tech Engineer, and Incident Manager to ensure rapid issue resolution and minimize service disruption.
+| &nbsp;             | • **Post-mortem Analysis & Improvement**: Drive blameless post-mortem processes, to ensure that unexpected issues/incidents are not repeated and inform improvements to infrastructure and processes.
+| &nbsp;             | • **Project Management & Reporting**: Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams and Team Members, including budget and resource utilization reports.
+| &nbsp;             | • **Mentorship & Guidance**:  Mentor to help other Engineers to be more productive and achieve Company and Personal goals.
+| &nbsp;             | • **Talent Acquisition & Onboarding**: Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly.
 
 <br>
 
