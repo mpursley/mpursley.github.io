@@ -22,11 +22,10 @@ title: Matt Pursley's CV
       </div> 
       <div id="webaddress">
         <i class="fi-page"></i> 
-        <a href="http://mattpursley.com/resume">Resume</a><br>
+        Resume: <a href="http://mattpursley.com/resume">HTML</a>, <a href="Matt_Pursley_Resume.pdf">PDF</a> and <a href="https://github.com/mpursley/mpursley.github.io">Code</a><br>
         <i class="fi-page"></i> 
-        <a href="Matt_Pursley_Resume.pdf">Resume PDF</a><br>
-        <i class="fi-page"></i> 
-        <a href="https://github.com/mpursley/mpursley.github.io">Resume Code</a><br>
+        Github: <a href="https://github.com/mpursley/mpursley.github.io">Open-source</a> and <a href="https://github.com/mpursley/mpursley.github.io">Personal</a> Projects
+        <br>
       </div>
     </td>
   </tr>
