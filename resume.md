@@ -14,16 +14,14 @@ title: Matt Pursley's CV
       Site Reliability Engineer, DevOps, CloudOps<br>
       Technical Project Lead<br>
       <div id="emailaddress">
-        <i class="fi-mail"></i> 
-        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br>
+        <i class="fi-mail">
+        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br></i> 
       </div>
       <div id="webaddress">
-        <i class="fi-telephone"></i> 772-226-0559 
+        <i class="fi-telephone"> 772-226-0559 </i>
       </div> 
       <div id="webaddress">
-        <i class="fi-page"></i> 
         Resume: <a href="http://mattpursley.com/resume">HTML</a>, <a href="Matt_Pursley_Resume.pdf">PDF</a>, <a href="https://github.com/mpursley/mpursley.github.io">Code</a><br>
-        <i class="fi-page"></i> 
         Github: <a href="https://github.com/OpenWorldGame-Io">Open-source</a> and <a href="https://github.com/mpursley">Personal</a> Projects
         <br>
       </div>
