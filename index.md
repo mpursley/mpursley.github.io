@@ -22,9 +22,9 @@ title: Matt Pursley's CV
       </div> 
       <div id="webaddress">
         <i class="fi-page"></i>
-        <a href="http://mattpursley.com/resume">Resume: HTML</a>, <a href="Matt_Pursley_Resume.pdf">PDF</a>, <a href="https://github.com/mpursley/mpursley.github.io">Code</a><br>
+        <a href="http://mattpursley.com/resume">Resume</a>, <a href="Matt_Pursley_Resume.pdf"> Resume PDF</a>, <a href="https://github.com/mpursley/mpursley.github.io">Resume Code</a><br>
         <i class="fi-page"></i>
-        <a href="https://github.com/OpenWorldGame-Io">Github: Open-source Projects</a>, <a href="https://github.com/mpursley">Personal Projects</a>
+        <a href="https://github.com/OpenWorldGame-Io">Github Open-source Projects</a>, <a href="https://github.com/mpursley">Personal Projects</a>
         <br>
       </div>
     </td>
