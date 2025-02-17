@@ -25,7 +25,8 @@ title: Matt Pursley's CV
         <i class="fi-page"></i> <a href="Matt_Pursley_Resume.pdf"> Resume PDF</a><br>
         <i class="fi-page"></i> <a href="https://github.com/mpursley/mpursley.github.io">Resume Code</a><br>
         <i class="fi-page"></i>
-        <a href="https://github.com/OpenWorldGame-Io">Github: Open-source Projects</a>, <a href="https://github.com/mpursley">Personal Projects</a>
+        <a href="https://github.com/OpenWorldGame-Io">Github Open-source Projects</a>,
+        <a href="https://github.com/mpursley">Personal Projects</a>
         <br>
       </div>
     </td>
