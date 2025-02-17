@@ -19,16 +19,14 @@ title: Matt Pursley's CV
       </div>
       <div id="webaddress">
         <i class="fi-telephone"></i> 772-226-0559 
-      </div> 
-      <div id="webaddress">
-        <i class="fi-page"></i> <a href="http://mattpursley.com/resume">Resume</a><br>
-        <i class="fi-page"></i> <a href="Matt_Pursley_Resume.pdf"> Resume PDF</a><br>
-        <i class="fi-page"></i> <a href="https://github.com/mpursley/mpursley.github.io">Resume Code</a><br>
-        <i class="fi-page"></i>
-        <a href="https://github.com/OpenWorldGame-Io">Github Open-source Projects</a>,
-        <a href="https://github.com/mpursley">Personal Projects</a>
-        <br>
       </div>
+      <i class="fi-page"></i> <a href="http://mattpursley.com/resume">Resume</a><br>
+      <i class="fi-page"></i> <a href="Matt_Pursley_Resume.pdf"> Resume PDF</a><br>
+      <i class="fi-page"></i> <a href="https://github.com/mpursley/mpursley.github.io">Resume Code</a><br>
+      <i class="fi-page"></i>
+      <a href="https://github.com/OpenWorldGame-Io">Github Open-source Projects</a>,
+      <a href="https://github.com/mpursley">Personal Projects</a>
+      <br>
     </td>
   </tr>
 </table></div>
