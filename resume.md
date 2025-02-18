@@ -82,7 +82,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Sr. Site Reliability Engineering**
 | &nbsp;             | • Plan, develop, and deploy improvements for observability, synthetic monitoring, and incident management.
-| &nbsp;             | • Migrate and aggregate all available observibility data (metrics, logs, dashboards, alerts, oncall rotations and schedules) into Grafana Cloud and Grafana Oncall from various internal and 3rd party vendors (e.g. Pagerduty, Datadog, NewRelic, PGAnalyze, CloudFlare, AWS Cloudwatch, GCP Monitoring, Azure Monitor, etc)
+| &nbsp;             | • Migrate and aggregate all available observibility data (metrics, logs, dashboards, alerts, oncall rotations and schedules) into Grafana Cloud and Grafana Oncall from various internal and 3rd party vendors (e.g. Pagerduty, Datadog, NewRelic, Heroku, PGAnalyze, CloudFlare, AWS Cloudwatch, GCP Monitoring, Azure Monitor, etc)
 | &nbsp;             | • Migrate remote synthetic checks and alerts into Grafana from various vendors (e.g. Site24x7.com, Pingdom, Amazon CloudWatch Synthetics, etc)
 | &nbsp;             | • Work closely with DBAs and DevOps/Infra Teams to migrate and improve monitoring and alerting for all company databases and related cloud infrastructure.
 | &nbsp;             | • Leverage company-wide knowledge of services and infrastructure to provide fast and effective support for Dev, Operations, and Customer Support teams regarding best-practices, support and requests for all observability, monitoring, and alerting.
