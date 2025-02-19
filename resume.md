@@ -116,8 +116,7 @@ title: Matt Pursley's CV
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Worked directly with Onsite DC and "Remote Hands" Engineers to deploy thousands of new servers and network hardware to dozens of datacenters and POPs in countries around the world
 | &nbsp;             | • Define and update KPIs, SLOs, SLIs, SLAs, metrics and alerting
-| &nbsp;             | • Design and develop solutions to collect, search and visualize metrics and fire alerts and notifications to appropriate Teams based on KPI and SLA breaches. (Prometheus, Grafana, Ansible, Opsgenie, Kubernetes, Gitlab CDCI, Fluentd, Rsyslog, SNMP, etc.)
-| &nbsp;             | • Design and develop solutions to collect, search and visualize logs and events and fire alerts and notifications to appropriate Teams based on application errors, logs and KPI breaches. (Elasticsearch, Kibana, Prometheus, Grafana, Ansible, Opsgenie, Kubernetes, Gitlab CDCI, Fluentd, Rsyslog, SNMP, etc.)
+| &nbsp;             | • Design and develop solutions to collect, search and visualize logs and events and fire alerts and notifications to appropriate Teams based on application errors, logs, KPI and SLA breaches. (Elasticsearch, Kibana, Prometheus, Grafana, Ansible, Ceph, Opsgenie, Kubernetes, Gitlab CDCI, Fluentd, Rsyslog, SNMP, etc.)
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Automation and Hands-on Operations**
 | &nbsp;             | • Configure and maintain Amazon Web Services (AWS) and Google Cloud Platform (GCP) cloud computing environments
