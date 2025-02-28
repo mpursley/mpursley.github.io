@@ -11,8 +11,8 @@ title: Matt Pursley's CV
     </td>
     <td align="left">
       <b>Matt Pursley</b>, RHCE PSM<br>
+      Technical Project Leader<br>
       Site Reliability Engineer, DevOps, CloudOps<br>
-      Technical Project Lead<br>
       <div id="emailaddress">
         <i class="fi-mail">
         <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br></i> 
@@ -35,7 +35,7 @@ title: Matt Pursley's CV
 
 ## Skills
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Site Reliability Engineer, DevOps, CloudOps<br>Technical Project Lead<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Technical Project Leader<br>Site Reliability Engineer, DevOps, CloudOps<br>
 | :------------------------ | :------------------------
 | &nbsp;             |
 | &nbsp;             | • **Cloud Infrastructure & Observability**: Lead the design, planning, and deployment of product solutions using major cloud providers (AWS, GCP, Azure) and microservices running on Kubernetes. Using industry standardized tools like Terraform, Helm, Vault, Grafana, Prometheus, ELK, and other CNCF and open-source technologies.  Focus on implementing robust observability for monitoring, troubleshooting, and cost optimization.
