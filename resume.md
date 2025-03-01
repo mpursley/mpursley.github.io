@@ -48,9 +48,6 @@ title: Matt Pursley's CV
 | &nbsp;            | • **Project Management & Executive Reporting**: Manage project deliverables, timelines, and budgets. Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams, including budget and resource utilization reports. Effectively communicate project status, risks, and dependencies.
 | &nbsp;            | • **Mentorship & Team Development**: Lead and mentor a team of Engineers, helping them to be more productive and achieve Company and Personal goals. Focus on developing individual skills and fostering a collaborative team environment.
 | &nbsp;            | • **Talent Acquisition & Onboarding Leadership**: Lead the effort to Recruit, Interview, Validate, Hire and Ramp-up top tier staff members to join the Team and get started delivering fixes and features quickly. Develop and improve the onboarding process for new team members.
-
-
-
 <br>
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting
