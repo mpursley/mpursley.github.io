@@ -11,7 +11,7 @@ title: Matt Pursley's CV
     </td>
     <td align="left">
       <b>Matt Pursley</b>, RHCE PSM<br>
-      Technical Project Leader<br>
+      Technical Team and Project Leader<br>
       Site Reliability Engineer, DevOps, CloudOps<br>
       <div id="emailaddress">
         <i class="fi-mail">
