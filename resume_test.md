@@ -81,7 +81,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Incorporating Web3 protocols for in-game transactions (NFTs).
 | &nbsp;             | • Incorporating LLM APIs to create more life-like and human game character interactions.
 | &nbsp;             | &nbsp;
-| Mar 2023 - Jan 2025    | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
+| Feb 2025 - Present    | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
 | &nbsp;             | US based Cyber Security platform
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
 | &nbsp;             | &nbsp;
