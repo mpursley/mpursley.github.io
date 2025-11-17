@@ -81,6 +81,12 @@ title: Matt Pursley's CV
 | &nbsp;             | • Incorporating Web3 protocols for in-game transactions (NFTs).
 | &nbsp;             | • Incorporating LLM APIs to create more life-like and human game character interactions.
 | &nbsp;             | &nbsp;
+| Mar 2023 - Jan 2025    | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
+| &nbsp;             | US based Cyber Security platform
+| &nbsp;             | _Staff DevOps/Site Reliability Engineer_
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Staff DevOps/Site Reliability Engineering**
+| &nbsp;             | • Plan, develop, and deploy improvements for observability, synthetic monitoring, and incident management.
 | Mar 2023 - Jan 2025    | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com/)**
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
 | &nbsp;             | _Sr. Site Reliability Engineer_
