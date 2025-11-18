@@ -81,11 +81,11 @@ title: Matt Pursley's CV
 | &nbsp;             | • Incorporating Web3 protocols for in-game transactions (NFTs).
 | &nbsp;             | • Incorporating LLM APIs to create more life-like and human game character interactions.
 | &nbsp;             | &nbsp;
-| Feb 2025 - Present    | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
+| Feb 2025 - Nov 2025    | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
 | &nbsp;             | US based Cyber Security company
-| &nbsp;             | _Staff Platform and Site Reliability Engineer_
+| &nbsp;             | _Staff Platform/DevOps and Site Reliability Engineer_
 | &nbsp;             | &nbsp;
-| &nbsp;             | **DevOps Engineering**
+| &nbsp;             | **Platform/DevOps Engineering**
 | &nbsp;             | • Develop and test critical infrastructure updates, hotfixes, and improvements.
 | &nbsp;             | • Plan and coordinate Change Requests (CRs) and stakeholder notifications.
 | &nbsp;             | • Present change plans and obtain approvals from the Change Advisory Board (CAB).
