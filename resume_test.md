@@ -78,8 +78,8 @@ title: Matt Pursley's CV
 | &nbsp;             | • **Game Server Ops:** Developing GitOps based automated solutions for dedicated Game Servers.
 | &nbsp;             | • **AI Integration:** Integrating Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
-| &nbsp;             | **Strategic Direct Placements (Full-Time/W-2)**
-| &nbsp;             | - Selected senior roles held concurrently with OWT leadership
+| &nbsp;             | **Strategic Direct Placements**
+| &nbsp;             | • Selected senior and leadership roles
 | &nbsp;             | &nbsp;
 | Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/SRE)_
 | &nbsp;             | • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
