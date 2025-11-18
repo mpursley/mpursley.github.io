@@ -79,7 +79,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • **AI Integration:** Integrating Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time/W-2)**
-| &nbsp;             | _Selected senior roles held concurrently with OWT leadership_
+| &nbsp;             | - Selected senior roles held concurrently with OWT leadership
 | &nbsp;             | &nbsp;
 | Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/SRE)_
 | &nbsp;             | • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
@@ -88,8 +88,8 @@ title: Matt Pursley's CV
 | Mar 2023 - Jan 2025 | **[Zepz Inc](https://zepzpay.com/)** _(Sr. Site Reliability Engineer)_
 | &nbsp;             | • **Enterprise Observability Migration:** Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
 | &nbsp;             | • **Synthetic Monitoring Strategy:** Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
-| &nbsp;             | [cite_start]• **Cross-Functional Enablement:** Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure[cite: 42].
-| &nbsp;             | [cite_start]• **Incident Resolution Engineering:** Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services[cite: 42].
+| &nbsp;             | • **Cross-Functional Enablement:** Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
+| &nbsp;             | • **Incident Resolution Engineering:** Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
