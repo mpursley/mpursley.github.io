@@ -71,42 +71,25 @@ title: Matt Pursley's CV
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
 |---                                          	|---
 | 2021 - Present | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
-| &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines with open-source technologies and tools.
-| &nbsp;             | _Co-Founder_
+| &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
+| &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
 | &nbsp;             | &nbsp;
-| &nbsp;             | **Cloud and Serverless Tech Development and Consulting**
-| &nbsp;             | • Developing and Deploying GitOps based automated and scalable solutions for Web, Mobile, API, and dedicated Game Servers. Focusing on Kubernetes and other open Source software, tool sets and integrations.
-| &nbsp;             | • Incorporating "cloud streaming/pixel streaming" options for games, using remote/cloud graphics cards.
-| &nbsp;             | • Integrating Nvidia Omniverse digital-twin objects, actors and scenes with interactive games and environments, using Unreal Engine 5.
-| &nbsp;             | • Incorporating Web3 protocols for in-game transactions (NFTs).
-| &nbsp;             | • Incorporating LLM APIs to create more life-like and human game character interactions.
+| &nbsp;             | **Internal Ventures & R&D**
+| &nbsp;             | • **Game Server Ops:** Developing GitOps based automated solutions for dedicated Game Servers.
+| &nbsp;             | • **AI Integration:** Integrating Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
-| Feb 2025 - Nov 2025    | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
-| &nbsp;             | US based Cyber Security company
-| &nbsp;             | _Staff Platform/DevOps and Site Reliability Engineer_
+| &nbsp;             | **Strategic Direct Placements (Full-Time/W-2)**
+| &nbsp;             | _Selected senior roles held concurrently with OWT leadership_
 | &nbsp;             | &nbsp;
-| &nbsp;             | **Platform/DevOps Engineering**
-| &nbsp;             | • Develop and test critical infrastructure updates, hotfixes, and improvements.
-| &nbsp;             | • Plan and coordinate Change Requests (CRs) and stakeholder notifications.
-| &nbsp;             | • Present change plans and obtain approvals from the Change Advisory Board (CAB).
-| &nbsp;             | • Apply approved infrastructure changes and manage updates for change requests.
-| &nbsp;             | **Site Reliability Engineering**
-| &nbsp;             | • Implement and manage metrics and log collection pipelines.
-| &nbsp;             | • Create and maintain dashboards and alerting rules to ensure infrastructure and service health and performance.
-| &nbsp;             | • Establish a "single pane of glass" for observability by integrating Grafana, CloudWatch, and PagerDuty.
+| Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/SRE)_
+| &nbsp;             | • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
+| &nbsp;             | • **Observability Architecture:** Architected a "single pane of glass" observability ecosystem integrating Grafana, CloudWatch, and PagerDuty to unify metrics, logs, and alerting for enhanced operational visibility.
 | &nbsp;             | &nbsp;
-| Mar 2023 - Jan 2025    | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com/)**
-| &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
-| &nbsp;             | _Sr. Site Reliability Engineer_
-| &nbsp;             | &nbsp;
-| &nbsp;             | **Sr. Site Reliability Engineering**
-| &nbsp;             | • Plan, develop, and deploy improvements for observability, synthetic monitoring, and incident management.
-| &nbsp;             | • Migrate and aggregate all available observability data (metrics, logs, dashboards, alerts, oncall rotations and schedules) into Grafana Cloud and Grafana Oncall from various internal and 3rd party vendors (e.g. Pagerduty, Datadog, NewRelic, Heroku, PGAnalyze, CloudFlare, AWS Cloudwatch, GCP Monitoring, Azure Monitor, etc)
-| &nbsp;             | • Migrate remote synthetic checks and alerts into Grafana from various vendors (e.g. Site24x7.com, Pingdom, Amazon CloudWatch Synthetics, etc)
-| &nbsp;             | • Work closely with DBAs and DevOps/Infra Teams to migrate and improve monitoring and alerting for all company databases and related cloud infrastructure.
-| &nbsp;             | • Leverage company-wide knowledge of services and infrastructure to provide fast and effective support for Dev, Operations, and Customer Support teams regarding best-practices, support and requests for all observability, monitoring, and alerting.
-| &nbsp;             | • Participate in Oncall rotations, managing incidents ranging from company-wide outages to software/infrastructure deployment failures, bugs, customer service related problems and other unexpected issues.  Respond quickly and efficiently to maximize 9s in all business service uptimes.
-| &nbsp;             | • Participate in cross-functional teams to complete large-scale and complex projects, migrations, deployments, and other improvements and deliverables.
+| Mar 2023 - Jan 2025 | **[Zepz Inc](https://zepzpay.com/)** _(Sr. Site Reliability Engineer)_
+| &nbsp;             | • **Enterprise Observability Migration:** Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
+| &nbsp;             | • **Synthetic Monitoring Strategy:** Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
+| &nbsp;             | [cite_start]• **Cross-Functional Enablement:** Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure[cite: 42].
+| &nbsp;             | [cite_start]• **Incident Resolution Engineering:** Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services[cite: 42].
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
