@@ -83,7 +83,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | Feb 2025 - Present    | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
 | &nbsp;             | US based Cyber Security company
-| &nbsp;             | _Staff DevOps/Site Reliability Engineer_
+| &nbsp;             | _Staff Platform and Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **DevOps Engineering**
 | &nbsp;             | • Develop and test critical infrastructure updates, hotfixes, and improvements.
