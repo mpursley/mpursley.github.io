@@ -82,11 +82,18 @@ title: Matt Pursley's CV
 | &nbsp;             | • Incorporating LLM APIs to create more life-like and human game character interactions.
 | &nbsp;             | &nbsp;
 | Feb 2025 - Present    | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
-| &nbsp;             | US based Cyber Security platform
+| &nbsp;             | US based Cyber Security company
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
 | &nbsp;             | &nbsp;
-| &nbsp;             | **Staff DevOps/Site Reliability Engineering**
-| &nbsp;             | • Plan, develop, and deploy improvements for observability, synthetic monitoring, and incident management.
+| &nbsp;             | **DevOps Engineering**
+| &nbsp;             | • Develop and test critical infrastructure updates, hotfixes, and improvements.
+| &nbsp;             | • Plan and coordinate Change Requests (CRs) and stakeholder notifications.
+| &nbsp;             | • Present change plans and obtain approvals from the Change Advisory Board (CAB).
+| &nbsp;             | • Apply approved infrastructure changes and manage updates for change requests.
+| &nbsp;             | **Site Reliability Engineering**
+| &nbsp;             | • Implement and manage metrics and log collection pipelines.
+| &nbsp;             | • Create and maintain dashboards and alerting rules to ensure infrastructure and service health and performance.
+| &nbsp;             | • Establish a "single pane of glass" for observability by integrating Grafana, CloudWatch, and PagerDuty.
 | &nbsp;             | &nbsp;
 | Mar 2023 - Jan 2025    | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com/)**
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
