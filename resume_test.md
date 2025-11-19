@@ -105,9 +105,9 @@ title: Matt Pursley's CV
 | &nbsp;             | **Key Consulting Engagements (Contract)**
 | Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** _(Technical Consultant)_
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
-| &nbsp;             | **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
-| &nbsp;             | **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
-| &nbsp;             | **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
+| &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
+| &nbsp;             | • **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
+| &nbsp;             | • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
