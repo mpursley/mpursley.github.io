@@ -93,17 +93,21 @@ title: Matt Pursley's CV
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
 | &nbsp;             | _(Sr. Site Reliability Engineer)_
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
-| &nbsp;             | • **Enterprise Observability Migration:** Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
-| &nbsp;             | • **Synthetic Monitoring Strategy:** Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
-| &nbsp;             | • **Cross-Functional Enablement:** Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
-| &nbsp;             | • **Incident Resolution Engineering:** Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
+| &nbsp;             | **Enterprise Observability Migration** 
+| &nbsp;             | • Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
+| &nbsp;             | **Synthetic Monitoring Strategy** 
+| &nbsp;             | • Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
+| &nbsp;             | **Cross-Functional Enablement** 
+| &nbsp;             | • Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
+| &nbsp;             | **Incident Resolution Engineering** 
+| &nbsp;             | • Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Key Consulting Engagements (Contract)**
 | Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** _(Technical Consultant)_
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
-| &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
-| &nbsp;             | • **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
-| &nbsp;             | • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
+| &nbsp;             | **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
+| &nbsp;             | **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
+| &nbsp;             | **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
