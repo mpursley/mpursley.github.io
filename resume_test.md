@@ -70,6 +70,10 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;                                                                     
 |---                 |---
+| Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/Site Reliability Engineer)_
+| &nbsp;             | • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
+| &nbsp;             | • **Observability Architecture:** Architect and maintain a "single pane of glass" observability ecosystem integrating Grafana, CloudWatch, and PagerDuty to unify metrics, logs, and alerting for enhanced operational visibility.
+| &nbsp;             | &nbsp;
 | 2021 - Present | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
 | &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
 | &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
@@ -79,10 +83,6 @@ title: Matt Pursley's CV
 | &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
-| Feb 2025 - Present | • **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/Site Reliability Engineer)_
-| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
-| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Observability Architecture:** Architect and maintain a "single pane of glass" observability ecosystem integrating Grafana, CloudWatch, and PagerDuty to unify metrics, logs, and alerting for enhanced operational visibility.
-| &nbsp;             | &nbsp;
 | Mar 2023 - Jan 2025 | • **[Zepz Inc](https://zepzpay.com/)** _(Sr. Site Reliability Engineer)_
 | &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Enterprise Observability Migration:** Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
 | &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Synthetic Monitoring Strategy:** Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
