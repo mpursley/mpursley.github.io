@@ -38,20 +38,20 @@ title: Matt Pursley's CV
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Technical Team and Project Leader<br>Site Reliability Engineer, DevOps, CloudOps<br>
 | :------------------------ | :------------------------
 | &nbsp;             |
-| &nbsp;             | • **Project & Team Leadership**: Led and mentored teams of 3-5 engineers, driving project deliverables, timelines, and budgets. Presented project status, risks, and resource utilization reports to Senior ICs, Directors, and C-Level executives. Consistently delivering projects within budget and on schedule.
-| &nbsp;             | • **Cloud Infrastructure Leadership**: Designed, planned, and deployed product solutions on AWS, GCP, and Azure, utilizing Kubernetes for microservices. Acted as Team Lead for infrastructure initiatives supporting billions of request/transactions, across millions of global Users.
-| &nbsp;             | • **Resource Planning, Cost Optimization, & Team Oversight**: Lead migration and consolidation efforts to improve infrastructure observibility and efficiency.  Develop and implement resource planning strategies to ensure efficient utilization of vendor and cloud resources, minimizing waste and maximizing cost savings across multiple projects.  Analyzing vendor and cloud billing data and identifying opportunities for migration and optimization, reducing operational costs by >35%.
-| &nbsp;             | • **Cross-Functional Team Leadership and Collaboration**: Facilitated collaboration between Engineering,ffv QA, Product, and Security teams to ensure applications met SLOs/SLAs and budgetary constraints. Served as the primary point of contact for infrastructure, observability, and production readiness reviews and related issues.
-| &nbsp;             | • **DevOps, Infrastructure as Code & Observability**: Implemented Infrastructure as Code (IaC) using Terraform and Helm. Deployed and managed monitoring, logging, and alerting systems using Grafana, Prometheus, ELK stack, and other CNCF/open-source technologies. Reduced mean time to acknowledge/resolution (MTTA/R) by >30%, through improved observability dashboards and alerting.
-| &nbsp;             | • **Backend Development & Collaboration**: Directly manage and contribute to the development and updates of segmented parts of backend infrastructure and applications. Collaborate with Subject Matter Expert (SME) Engineers, QA, and Project Managers to ensure timely delivery. Improved backend processing efficiency by >25% through resource monitoring and optimization.
+| &nbsp;             | • **Project & Team Leadership**: Lead and mentor teams of 3-5 engineers, driving project deliverables, timelines, and budgets. Present project status, risks, and resource utilization reports to Senior ICs, Directors, and C-Level executives. Consistently deliver projects within budget and on schedule.
+| &nbsp;             | • **Cloud Infrastructure Leadership**: Design, plan, and deploy product solutions on AWS, GCP, and Azure, utilizing Kubernetes for microservices. Act as Team Lead for infrastructure initiatives supporting billions of requests/transactions across millions of global Users.
+| &nbsp;             | • **Resource Planning, Cost Optimization, & Team Oversight**: Lead migration and consolidation efforts to improve infrastructure observability and efficiency. Develop and implement resource planning strategies to ensure efficient utilization of vendor and cloud resources, minimizing waste and maximizing cost savings across multiple projects. Analyze vendor and cloud billing data to identify opportunities for migration and optimization.
+| &nbsp;             | • **Cross-Functional Team Leadership and Collaboration**: Facilitate collaboration between Engineering, QA, Product, and Security teams to ensure applications meet SLOs/SLAs and budgetary constraints. Serve as the primary point of contact for infrastructure, observability, and production readiness reviews and related issues.
+| &nbsp;             | • **DevOps, Infrastructure as Code & Observability**: Implement Infrastructure as Code (IaC) using Terraform and Helm. Deploy and manage monitoring, logging, and alerting systems using Grafana, Prometheus, ELK stack, and other CNCF/open-source technologies.
+| &nbsp;             | • **Backend Development & Collaboration**: Directly manage and contribute to the development and updates of segmented parts of backend infrastructure and applications. Collaborate with Subject Matter Expert (SME) Engineers, QA, and Project Managers to ensure timely delivery. Improve backend processing efficiency through resource monitoring and optimization.
 | &nbsp;             | • **Data-Driven Decision Making & Reporting**: Take ownership of establishing and tracking SLI, SLA, and SLO metrics to ensure products deliver value to internal and external customers. Utilize data analysis to inform resource planning, cost optimization strategies, and provide regular progress reports to stakeholders, including senior management.
-| &nbsp;             | • **Security Best Practices & Compliance**:  Implemented and maintained security best practices for microservice architectures including least privilege access, defense-in-depth strategies, authorization, secrets management, and encryption to accommodate compliance frameworks such as SOC 2, PCI DSS, PSD2, and SCA.
-| &nbsp;             | • **Cloud Security & DDoS Mitigation**: Leveraged Cloud-based Web Security systems (e.g. Cloudflare, Akamai) for DDoS protection, service rate limiting, and WAF (Web Application Firewall) configurations. Utilized AWS IAM, security groups, and Well-Architected Framework best practices to secure cloud infrastructure. Successfully mitigating 100s of of DDoS and BotNet attacks, with minimal service disruption.
-| &nbsp;             | • **Incident Management & Response Leadership**: Own, develop, and maintain the Incident Management process, while also operating as First Responder, Tech Engineer, and Incident Manager, to ensure rapid issue resolution and minimize service disruption. Delegate tasks and coordinate response efforts during critical incidents. Reduced mean time to ack/resolution (MTTA/R) by >30%, resulting in reduced downtime and User facing outages.
-| &nbsp;             | • **Post-Mortem Analysis & Process Improvement**: Led blameless post-mortem analyses, implemented action items, and fostered a culture of continuous learning. Reduced the recurrence of similar incidents by >60%, through postmortem action item review, implementation and validation.
-| &nbsp;             | • **Project Management & Executive Reporting**: Managed project deliverables, timelines, and budgets. Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams, including budget and resource utilization reports. Effectively communicate project status, risks, and dependencies.
+| &nbsp;             | • **Security Best Practices & Compliance**: Implement and maintain security best practices for microservice architectures including least privilege access, defense-in-depth strategies, authorization, secrets management, and encryption to accommodate compliance frameworks such as SOC 2, PCI DSS, PSD2, and SCA.
+| &nbsp;             | • **Cloud Security & DDoS Mitigation**: Leverage Cloud-based Web Security systems (e.g. Cloudflare, Akamai) for DDoS protection, service rate limiting, and WAF (Web Application Firewall) configurations. Utilize AWS IAM, security groups, and Well-Architected Framework best practices to secure cloud infrastructure.
+| &nbsp;             | • **Incident Management & Response Leadership**: Own, develop, and maintain the Incident Management process, while also operating as First Responder, Tech Engineer, and Incident Manager, to ensure rapid issue resolution and minimize service disruption. Delegate tasks and coordinate response efforts during critical incidents.
+| &nbsp;             | • **Post-Mortem Analysis & Process Improvement**: Lead blameless post-mortem analyses, implement action items, and foster a culture of continuous learning to reduce the recurrence of similar incidents.
+| &nbsp;             | • **Project Management & Executive Reporting**: Manage project deliverables, timelines, and budgets. Generate and present project deliverable reports and timelines to Senior ICs, Directors and C-Level Teams, including budget and resource utilization reports. Effectively communicate project status, risks, and dependencies.
 | &nbsp;             | • **Mentorship & Team Development**: Lead and mentor a team of engineers, helping them to be more productive and achieve Company and Personal goals. Focus on developing individual skills and fostering a collaborative team environment.
-| &nbsp;             | • **Talent Acquisition & Development**: Leed the recruitment, interviewing, hiring, and onboarding of high-performing engineers. Improved onboarding process and documentation, reducing team training and ramp-up time by >25%. Mentored team members to achieve company and personal goals.
+| &nbsp;             | • **Talent Acquisition & Development**: Lead the recruitment, interviewing, hiring, and onboarding of high-performing engineers. Improve onboarding processes and documentation to reduce team training and ramp-up time. Mentor team members to achieve company and personal goals.
 
 
 <br>
@@ -75,13 +75,22 @@ title: Matt Pursley's CV
 | &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Internal Ventures & R&D**
-| &nbsp;             | • Game Server Ops: Developing GitOps based automated solutions for scalable dedicated Game Servers, with cloud/pixel streaming options
-| &nbsp;             | • AI Integration: Integrating Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments
-| &nbsp;             | • Key Consulting Engagements (Contract) and Strategic Direct Placements (Embedded): for selected senior and architecture roles
+| &nbsp;             | • **Game Server Ops:** Develop GitOps based automated solutions for dedicated Game Servers.
+| &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Key Consulting Engagements (Contract)**
+| Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** _(Technical Consultant)_
+| &nbsp;             | _Indie Game Dev backed by Polychain, Polygon, Circle, and Sui_
+| &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
+| &nbsp;             | • **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
+| &nbsp;             | • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Strategic Direct Placements (Full-Time/W-2)**
+| &nbsp;             | _Selected senior roles held concurrently with OWT leadership_
 | &nbsp;             | &nbsp;
 | Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/SRE)_
 | &nbsp;             | • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
-| &nbsp;             | • **Observability Architecture:** Architected a "single pane of glass" observability ecosystem integrating Grafana, CloudWatch, and PagerDuty to unify metrics, logs, and alerting for enhanced operational visibility.
+| &nbsp;             | • **Observability Architecture:** Architect and maintain a "single pane of glass" observability ecosystem integrating Grafana, CloudWatch, and PagerDuty to unify metrics, logs, and alerting for enhanced operational visibility.
 | &nbsp;             | &nbsp;
 | Mar 2023 - Jan 2025 | **[Zepz Inc](https://zepzpay.com/)** _(Sr. Site Reliability Engineer)_
 | &nbsp;             | • **Enterprise Observability Migration:** Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
@@ -89,31 +98,25 @@ title: Matt Pursley's CV
 | &nbsp;             | • **Cross-Functional Enablement:** Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
 | &nbsp;             | • **Incident Resolution Engineering:** Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
 | &nbsp;             | &nbsp;
-| Jan 2023 - Feb 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** _(Technical Consultant)_
-| &nbsp;             | _Indie Game Dev backed by Polychain, Polygon, Circle, and Sui_
-| &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
-| &nbsp;             | • **Kubernetes Orchestration:** integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
-| &nbsp;             | • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
-| &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr. LiveOps, DevOps and Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Deployment and Management**
-| &nbsp;             | • Work closely with the LiveOps, DevOps and Dev Teams to build, test and deploy scalable application and infrastructure Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
-| &nbsp;             | • Plan, Develop, Test and Deploy large-scale system upgrades, with additional HA redundancy and monitoring to reduce the risk of Customer or User impact.
-| &nbsp;             | • Develop and upgrade dashboards and alerts using SLOs, SLAs, KPI metrics and logs.
+| &nbsp;             | • Worked closely with the LiveOps, DevOps and Dev Teams to build, test and deploy scalable application and infrastructure Tech stacks based on Terraform, Dockerized Applications, Helm Charts, Kubernetes Clusters, etc.
+| &nbsp;             | • Planned, Developed, Tested and Deployed large-scale system upgrades, with additional HA redundancy and monitoring to reduce the risk of Customer or User impact.
+| &nbsp;             | • Developed and upgraded dashboards and alerts using SLOs, SLAs, KPI metrics and logs.
 | &nbsp;             | &nbsp;
 | 2019 - 2021        | **[Sage Intacct, https://www.sageintacct.com](https://www.sageintacct.com/)**
 | &nbsp;             | British based software company focusing on financial services and management
 | &nbsp;             | _Sr. SRE, Site Reliability Engineer_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
-| &nbsp;             | • Work closely with the SRE, Cloud Ops and DBA teams to build, test and deploy scalable application and infrastructure Tech stacks based on custom Python, Bash and Config Management Tools.
-| &nbsp;             | • Complete a deep-dive review of the existing Metrics Collection, Storage and Visualizations infrastructure. (ELK Stack, Ansible/Chef, Nagios/Zabbix, Pagerduty, etc)
-| &nbsp;             | • Complete full evaluation and scoring for several modern industry standard alternatives against existing requirements and desires for a complete revamp/replacement.
-| &nbsp;             | • Collect feedback from various stake-holder Teams and individuals about scoring values for viable alternatives.
-| &nbsp;             | • Architect a full project plan to deploy and migrate to a newly developed metrics collection and storage solution, while carefully scaling back and retiring the legacy system.
+| &nbsp;             | • Worked closely with the SRE, Cloud Ops and DBA teams to build, test and deploy scalable application and infrastructure Tech stacks based on custom Python, Bash and Config Management Tools.
+| &nbsp;             | • Completed a deep-dive review of the existing Metrics Collection, Storage and Visualizations infrastructure. (ELK Stack, Ansible/Chef, Nagios/Zabbix, Pagerduty, etc)
+| &nbsp;             | • Completed full evaluation and scoring for several modern industry standard alternatives against existing requirements and desires for a complete revamp/replacement.
+| &nbsp;             | • Collected feedback from various stake-holder Teams and individuals about scoring values for viable alternatives.
+| &nbsp;             | • Architected a full project plan to deploy and migrate to a newly developed metrics collection and storage solution, while carefully scaling back and retiring the legacy system.
 | &nbsp;             | &nbsp;
 | 2012 - 2019        | **[Sony Interactive Entertainment, Playstation, https://www.playstation.com](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
@@ -121,42 +124,42 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
 | &nbsp;             | • Worked directly with Onsite DC and "Remote Hands" Engineers to deploy thousands of new servers and network hardware to dozens of datacenters and POPs in countries around the world
-| &nbsp;             | • Define and update KPIs, SLOs, SLIs, SLAs, metrics and alerting
-| &nbsp;             | • Design and develop solutions to collect, search and visualize logs and events and fire alerts and notifications to appropriate Teams based on application errors, logs, KPI and SLA breaches. Utilizing internal and open-source tools and tech like Elasticsearch, Kibana, Prometheus, Grafana, Ansible, Ceph, Opsgenie, Kubernetes, Gitlab CDCI, Fluentd, Rsyslog, SNMP, etc.
+| &nbsp;             | • Defined and updated KPIs, SLOs, SLIs, SLAs, metrics and alerting
+| &nbsp;             | • Designed and developed solutions to collect, search and visualize logs and events and fire alerts and notifications to appropriate Teams based on application errors, logs, KPI and SLA breaches. Utilizing internal and open-source tools and tech like Elasticsearch, Kibana, Prometheus, Grafana, Ansible, Ceph, Opsgenie, Kubernetes, Gitlab CDCI, Fluentd, Rsyslog, SNMP, etc.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Automation and Hands-on Operations**
-| &nbsp;             | • Configure and maintain Amazon Web Services (AWS) and Google Cloud Platform (GCP) cloud computing environments
-| &nbsp;             | • Perform operational tasks to mitigate major (business or customer impacting) incidents, or unblock Team members, where automation is not yet in place.
-| &nbsp;             | • Develop operational tooling, for "one off" updates and playbook automation
-| &nbsp;             | • Improve automation for systems inventory updates and configuration management
-| &nbsp;             | • Optimize and improve SDLC/CDCI pipeline, processes and infrastructure
+| &nbsp;             | • Configured and maintained Amazon Web Services (AWS) and Google Cloud Platform (GCP) cloud computing environments
+| &nbsp;             | • Performed operational tasks to mitigate major (business or customer impacting) incidents, or unblock Team members, where automation is not yet in place.
+| &nbsp;             | • Developed operational tooling, for "one off" updates and playbook automation
+| &nbsp;             | • Improved automation for systems inventory updates and configuration management
+| &nbsp;             | • Optimized and improved SDLC/CDCI pipeline, processes and infrastructure
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Solutions Architecture**
-| &nbsp;             | • Perform requirements gathering and resource planning for new projects
-| &nbsp;             | • Research and evaluate industry standard solutions
-| &nbsp;             | • Evaluate and compare onsite, private, public cloud service options and offerings, including feasibility, compatibility, security, compliance and TCO evaluations
-| &nbsp;             | • Maintain up-to-date understanding of all mission critical infrastructure, service architecture and updates
-| &nbsp;             | • Document, communicate and advocate for SRE best practices throughout the company
+| &nbsp;             | • Performed requirements gathering and resource planning for new projects
+| &nbsp;             | • Researched and evaluated industry standard solutions
+| &nbsp;             | • Evaluated and compared onsite, private, public cloud service options and offerings, including feasibility, compatibility, security, compliance and TCO evaluations
+| &nbsp;             | • Maintained up-to-date understanding of all mission critical infrastructure, service architecture and updates
+| &nbsp;             | • Documented, communicated and advocated for SRE best practices throughout the company
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Technical Lead and Project Management**
-| &nbsp;             | • Manage project timelines, deliverables and resource planning
-| &nbsp;             | • Lead architecture and design sessions for cross team projects
-| &nbsp;             | • Provide cross-team architectural consulting, production readiness review and validation
+| &nbsp;             | • Managed project timelines, deliverables and resource planning
+| &nbsp;             | • Led architecture and design sessions for cross team projects
+| &nbsp;             | • Provided cross-team architectural consulting, production readiness review and validation
 | &nbsp;             | &nbsp;
 | &nbsp;             | **SRE Team Building**
-| &nbsp;             | • Proactively help to build and scale out an effective global SRE Team
-| &nbsp;             | • Review, interview and screen potential SRE candidates
-| &nbsp;             | • Train and mentor team members
-| &nbsp;             | • Develop, maintain and update candidate screening and interview procedures and processes
-| &nbsp;             | • Update and maintain "New SRE" startup and training materials
+| &nbsp;             | • Proactively helped to build and scale out an effective global SRE Team
+| &nbsp;             | • Reviewed, interviewed and screened potential SRE candidates
+| &nbsp;             | • Trained and mentored team members
+| &nbsp;             | • Developed, maintained and updated candidate screening and interview procedures and processes
+| &nbsp;             | • Updated and maintained "New SRE" startup and training materials
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Incident Management Process and Reporting**
-| &nbsp;             | • Participate in Oncall Rotation
-| &nbsp;             | • Develop and Maintain Incident Management and Review Processes
-| &nbsp;             | • Develop and communicate RCA and issue mitigation plans
-| &nbsp;             | • Refine and improve KPIs, SLOs, SLIs, SLAs, metrics and alerting, based on incidents and discovered observability gaps
-| &nbsp;             | • Perform and report RCA and Postmortem findings
-| &nbsp;             | • Troubleshoot/break fix and/or escalate discovered issues to relevant teams or engineers
+| &nbsp;             | • Participated in Oncall Rotation
+| &nbsp;             | • Developed and Maintained Incident Management and Review Processes
+| &nbsp;             | • Developed and communicated RCA and issue mitigation plans
+| &nbsp;             | • Refined and improved KPIs, SLOs, SLIs, SLAs, metrics and alerting, based on incidents and discovered observability gaps
+| &nbsp;             | • Performed and reported RCA and Postmortem findings
+| &nbsp;             | • Troubleshot/break fixed and/or escalated discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
 | 2010 - 2012        | **[Digital Domain, https://digitaldomain.com](https://digitaldomain.com/) - Vancouver, BC and Port St Lucie, FL**
 | &nbsp;             | _Sr. Systems Admin and Sr. Systems Engineer_
@@ -165,7 +168,7 @@ title: Matt Pursley's CV
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Worked to duplicate, setup and integrate Linux environments for new 200 seat and then new 500 seat VFX Studios. Which included 200+ HP Workstations, 1000+ HP High Density Blade Servers and 100+TB of Isilon or NetApp Enterprise class Storage, and high performance Brocade switching environment.
-| &nbsp;             | • Setup, configure, and maintain OS and Software installation and configuration management systems ( Redhat Kickstart, Onesis, Puppet, CFEngine, etc).
+| &nbsp;             | • Setup, configured, and maintained OS and Software installation and configuration management systems ( Redhat Kickstart, Onesis, Puppet, CFEngine, etc).
 | &nbsp;             | • Worked with sister companies in the US and Canada to integrate VFX Pipeline and Software synchronization.  Including CentOS Linux operating system updates and changes, site specific software package installations and deployments, etc.
 | &nbsp;             | • Worked with Linux Kickstart, Onesis and Puppet to setup fully automated bare metal installs for CentOS Linux Operating systems, custom packages, connections to shared storage, custom CG Pipeline and Toolset, etc.
 | &nbsp;             | • Worked to develop scripts and procedures to bind CentOS Linux and MacOSX workstations and servers to Windows Server 2008 via LDAP with Kerberos encryption.
@@ -173,7 +176,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Handled large scale file system sorting, cleanup, transfers, and digital delivery packaging.
 | &nbsp;             | • Configured Symantec Netbackup to run daily, weekly and monthly backups.  As well as final show archiving, removals and restorations.
 | &nbsp;             | • Worked with VMWare ESXi Server to deploy, maintain and balance several key server VMs.
-| &nbsp;             | • Setup and maintain Monitoring and Alerting systems for all Storage, Networking, Servers and Workstations for the Studios.
+| &nbsp;             | • Setup and maintained Monitoring and Alerting systems for all Storage, Networking, Servers and Workstations for the Studios.
 | &nbsp;             | • Acted as Level 2 and 3 technical support for all Linux and Unix based issues with all Workstations and Servers.
 | &nbsp;             | • Provided detailed documentation and training for Level 1 and Level 2 Technical Support to handle commonly occurring issues.
 | &nbsp;             | &nbsp;
@@ -186,7 +189,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Worked with several hardware and software vendors to install and configure a 100 SGI Linux 1U render nodes, 25 MacPro Workstations, and a 40TB SGI Raid Storage Server, connected through a new HP ProCurve Gigabyte network.
 | &nbsp;             | • Developed a clone-able dual-boot MacOSX and Fedora Core Linux system install for the studio's 25 MacPro Workstations.
 | &nbsp;             | • Developed a clone-able Fedora Core Linux based system install for the Studio's 100 Render nodes, using Render Management through PipelineFX's Qube.
-| &nbsp;             | • Manage and Support the Studio's Render-farm with 100 Linux 1U RenderNodes and 25 MacPro workstations.
+| &nbsp;             | • Managed and Supported the Studio's Render-farm with 100 Linux 1U RenderNodes and 25 MacPro workstations.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Render and Color Pipeline:**
 | &nbsp;             | • Worked with the CG Supervisor to help develop an AOV based render work-flow for workstations and renderfarm using Mental Ray 3.6.
@@ -196,8 +199,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • "Finaled" the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • "Finaled" all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 | &nbsp;             | &nbsp;
-| 2000 - 2007        | **American Museum of Natural History (https://www.amnh.org/)** 
-| &nbsp;             | Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
+| 2000 - 2007        | **American Museum of Natural History (https://www.amnh.org/)** | &nbsp;             | Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
 | &nbsp;             | _Technical Director/Unix Systems Administrator_
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Systems and Infrastructure:**
