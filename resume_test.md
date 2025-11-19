@@ -72,7 +72,7 @@ title: Matt Pursley's CV
 |---                 |---
 | Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/Site Reliability Engineer)_
 | &nbsp;             | **Infrastructure Orchestration** 
-| &nbsp;             | • Lead the design and execution of critical infrastructure updates and hotfixes using Pulumi and Terraform driven by GitHub Actions pipelines
+| &nbsp;             | • Lead the design and execution of critical infrastructure updates and hotfixes using Pulumi and Terraform driven by GitHub Actions pipelines, in various AWS EKS Kubernetes clusters.
 | &nbsp;             | • Manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
 | &nbsp;             | **Observability Architecture** 
 | &nbsp;             | • Architect and maintain a "single pane of glass" observability ecosystem using Grafana, Prometheus, and Cribl to unify data streams for enhanced operational visibility.
