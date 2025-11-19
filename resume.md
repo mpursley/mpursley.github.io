@@ -91,7 +91,7 @@ title: Matt Pursley's CV
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
 | Mar 2023 - Jan 2025 | **[Zepz Inc](https://zepzpay.com/)** 
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
-| &nbsp;             | _(Sr. Site Reliability Engineer)_
+| &nbsp;             | (Sr. Site Reliability Engineer)
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
 | &nbsp;             | **Enterprise Observability Migration** 
 | &nbsp;             | • Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
@@ -103,8 +103,9 @@ title: Matt Pursley's CV
 | &nbsp;             | • Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Key Consulting Engagements (Contract)**
-| Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** _(Technical Consultant)_
+| Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** 
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
+| &nbsp;             | (Technical Consultant)
 | &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
 | &nbsp;             | • **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
 | &nbsp;             | • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
