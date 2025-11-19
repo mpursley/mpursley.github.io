@@ -68,8 +68,8 @@ title: Matt Pursley's CV
 
 ## Work Experience
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
-|---                                          	|---
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;                                                                     
+|---                 |---
 | 2021 - Present | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
 | &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
 | &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
@@ -79,22 +79,22 @@ title: Matt Pursley's CV
 | &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
-| Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/Site Reliability Engineer)_
-| &nbsp;             | • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
-| &nbsp;             | • **Observability Architecture:** Architect and maintain a "single pane of glass" observability ecosystem integrating Grafana, CloudWatch, and PagerDuty to unify metrics, logs, and alerting for enhanced operational visibility.
+| Feb 2025 - Present | • **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/Site Reliability Engineer)_
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Observability Architecture:** Architect and maintain a "single pane of glass" observability ecosystem integrating Grafana, CloudWatch, and PagerDuty to unify metrics, logs, and alerting for enhanced operational visibility.
 | &nbsp;             | &nbsp;
-| Mar 2023 - Jan 2025 | **[Zepz Inc](https://zepzpay.com/)** _(Sr. Site Reliability Engineer)_
-| &nbsp;             | • **Enterprise Observability Migration:** Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
-| &nbsp;             | • **Synthetic Monitoring Strategy:** Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
-| &nbsp;             | • **Cross-Functional Enablement:** Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
-| &nbsp;             | • **Incident Resolution Engineering:** Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
+| Mar 2023 - Jan 2025 | • **[Zepz Inc](https://zepzpay.com/)** _(Sr. Site Reliability Engineer)_
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Enterprise Observability Migration:** Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Synthetic Monitoring Strategy:** Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Cross-Functional Enablement:** Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Incident Resolution Engineering:** Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Key Consulting Engagements (Contract)**
-| Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** _(Technical Consultant)_
+| Jan 2023 - Mar 2023 | • **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** _(Technical Consultant)_
 | &nbsp;             | _Indie Game Dev backed by Polychain, Polygon, Circle, and Sui_
-| &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
-| &nbsp;             | • **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
-| &nbsp;             | • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
+| &nbsp;             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **ETHDenver Conference**.
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
