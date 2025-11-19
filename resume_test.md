@@ -71,8 +71,13 @@ title: Matt Pursley's CV
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;                                                                     
 |---                 |---
 | Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/Site Reliability Engineer)_
-| &nbsp;             | • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
-| &nbsp;             | • **Observability Architecture:** Architect and maintain a "single pane of glass" observability ecosystem integrating Grafana, CloudWatch, and PagerDuty to unify metrics, logs, and alerting for enhanced operational visibility.
+| &nbsp;             | **Infrastructure Orchestration** 
+| &nbsp;             | • Lead the design and execution of critical infrastructure updates and hotfixes using Pulumi and Terraform driven by GitHub Actions pipelines
+| &nbsp;             | • Manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
+| &nbsp;             | **Observability Architecture** 
+| &nbsp;             | • Architect and maintain a "single pane of glass" observability ecosystem using Grafana, Prometheus, and Cribl to unify data streams for enhanced operational visibility.
+| &nbsp;             | • Integrate logs, metrics, and alerts from AWS CloudWatch, PagerDuty, and Cribl to ensure comprehensive system monitoring.
+| &nbsp;             | • Ingest and visualize event data from SentinelOne and Torq, alongside operational metrics to correlate security incidents, events, and data drops.
 | &nbsp;             | &nbsp;
 | 2021 - Present | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
 | &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
