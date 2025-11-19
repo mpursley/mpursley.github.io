@@ -199,8 +199,8 @@ title: Matt Pursley's CV
 | &nbsp;             | • "Finaled" the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • "Finaled" all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 | &nbsp;             | &nbsp;
-| 2000 - 2007        | **American Museum of Natural History (https://www.amnh.org/)** 
-| &nbsp;             | Rose Center Engineering (RCE), Rose Center Productions (RCP) and Science Bulletins (SciBul) Departments
+| 2000 - 2007        | **[American Museum of Natural History](https://www.amnh.org/)** 
+| &nbsp;             | Rose Center for Earth and Space and Science Bulletins Departments
 | &nbsp;             | _Technical Director/Unix Systems Administrator_
 | &nbsp;             | **Systems and Infrastructure:**
 | &nbsp;             | • Began working with Engineering and Productions, which is a group of about 15 VisualFX Artists, System Administrators, Video Engineers, and Production Staff responsible for developing, maintaining and upgrading all Computers, Video Systems and Video Content for the Digital Dome and Space Shows. This includes two SGI OnyxII Reality Monster Super Computers, several SGI Octanes, O2, Linux and Windows graphics workstations, and 7xHDTV and 4xHDTV Projector Theaters.
