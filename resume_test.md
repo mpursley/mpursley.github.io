@@ -77,9 +77,7 @@ title: Matt Pursley's CV
 | &nbsp;             | **Internal Ventures & R&D**
 | &nbsp;             | • **Game Server Ops:** Developing GitOps based automated solutions for dedicated Game Servers.
 | &nbsp;             | • **AI Integration:** Integrating Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
-| &nbsp;             | &nbsp;
-| &nbsp;             | **Strategic Direct Placements**
-| &nbsp;             | • Selected senior and leadership roles
+| &nbsp;             | • **Key Consulting Engagements (Contract)** and **Strategic Direct Placements (Embedded)** for selected senior and architecture roles
 | &nbsp;             | &nbsp;
 | Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** _(Staff DevOps/SRE)_
 | &nbsp;             | • **Infrastructure Orchestration:** Lead the design and execution of critical infrastructure updates and hotfixes; manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
@@ -90,6 +88,12 @@ title: Matt Pursley's CV
 | &nbsp;             | • **Synthetic Monitoring Strategy:** Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
 | &nbsp;             | • **Cross-Functional Enablement:** Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
 | &nbsp;             | • **Incident Resolution Engineering:** Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
+| &nbsp;             | &nbsp;
+| Jan 2023 - Feb 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** _(Technical Consultant)_
+| &nbsp;             | _Indie Game Dev backed by Polychain, Polygon, Circle, and Sui_
+| &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
+| &nbsp;             | • **Kubernetes Orchestration:** integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
+| &nbsp;             | • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the **Eth Denver Conference**.
 | &nbsp;             | &nbsp;
 | 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
