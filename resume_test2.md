@@ -35,9 +35,9 @@ title: Matt Pursley's CV
 
 ## Skills
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Technical Team and Project Leader<br>Site Reliability Engineer, DevOps, CloudOps<br>
-| :------------------------ | :------------------------
-| &nbsp;             |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Technical Team and Project Leader<br>Site Reliability Engineer, DevOps, CloudOps<br> |
+| :--- | :--- |
+| &nbsp; | |
 | &nbsp;             | • **Project & Team Leadership**: Lead and mentor teams of 3-5 engineers, driving project deliverables, timelines, and budgets. Present project status, risks, and resource utilization reports to Senior ICs, Directors, and C-level executives. Consistently deliver projects within budget and on schedule.
 | &nbsp;             | • **Cloud Infrastructure Leadership**: Design, plan, and deploy product solutions on AWS, GCP, and Azure, utilizing Kubernetes for microservices. Act as Team Lead for infrastructure initiatives supporting billions of requests/transactions across millions of global users.
 | &nbsp;             | • **Resource Planning, Cost Optimization, & Team Oversight**: Lead migration and consolidation efforts to improve infrastructure observability and efficiency. Develop and implement resource planning strategies to ensure efficient utilization of vendor and cloud resources, minimizing waste and maximizing cost savings across multiple projects. Analyze vendor and cloud billing data to identify opportunities for migration and optimization.
@@ -56,8 +56,8 @@ title: Matt Pursley's CV
 
 <br>
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting
-| :---               | :------------------------|:---------------------------------|:------------------------
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Systems Platforms | Scripting & Coding | Monitoring & Alerting |
+| :--- | :--- | :--- | :--- |
 | &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Kibana, Elasticsearch
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
 | &nbsp;             | • MacOS                  | • Golang                         | • CI/CD (Github, Kubernetes)
@@ -68,8 +68,8 @@ title: Matt Pursley's CV
 
 ## Work Experience
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;                                                                     
-|---                 |---
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp; |
+| :--- | :--- |
 | Feb 2025 - Present | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)** 
 | &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
@@ -220,8 +220,8 @@ title: Matt Pursley's CV
 
 ## Personal Projects and Research
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
-|---                                          	|---	
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp; |
+| :--- | :--- |	
 | Oct 2022 - Present | **[OpenWorldGame.io](https://openworldgame.io/), [https://github.com/OpenWorldGame-Io](https://github.com/OpenWorldGame-Io)**
 | &nbsp;             | _Co-Founder, Lead Game Dev/Contributor_
 | &nbsp;             | • "Open World" is an open "sandbox" project that leverages Epic Games' free and open-source Unreal Engine 5.x and Lyra starter project/game, along with a customized code and content delivery backend, to provide a free-to-play open space environment
@@ -233,8 +233,8 @@ title: Matt Pursley's CV
 
 ## Education
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   &nbsp;                                                                     
-|---                                          	|---	
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp; |
+| :--- | :--- |	
 |2018         |  • PSM (Professional Scrum Master), Scrum.org
 |2005         |  • RHCE (RedHat Certified Engineer), Redhat, Inc. 
 |1996 - 1998  |  • Digital Arts/3D Animation, The Art Institute of Vancouver 
