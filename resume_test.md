@@ -70,7 +70,7 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;                                                                     
 |---                 |---
-| Feb 2025 - Present | **[UltraViolet Cyber](https://uvcyber.com/)** 
+| Feb 2025 - Present | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)** 
 | &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
 | &nbsp;             | **Infrastructure Orchestration** 
@@ -89,7 +89,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
-| Mar 2023 - Jan 2025 | **[Zepz Inc](https://zepzpay.com/)** 
+| Mar 2023 - Jan 2025 | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com)** 
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
 | &nbsp;             | (Sr. Site Reliability Engineer)
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
@@ -199,7 +199,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • "Finaled" the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • "Finaled" all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 | &nbsp;             | &nbsp;
-| 2000 - 2007        | **[American Museum of Natural History](https://www.amnh.org/)** 
+| 2000 - 2007        | **[American Museum of Natural History, https://www.amnh.org](https://www.amnh.org/)** 
 | &nbsp;             | Rose Center for Earth and Space and Science Bulletins Departments
 | &nbsp;             | _Technical Director/Unix Systems Administrator_
 | &nbsp;             | **Systems and Infrastructure:**
@@ -209,7 +209,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Worked with the Art Director to design, model and animate "Feather Dream", which comprises 2 of the 36 Minute Planetarium Music Show entitled "Sonic Vision". Additionally, worked to create several background elements and transitions between other shots within the show. "Feather Dream" was created using Maya6 and Shake3.5.
 | &nbsp;             | • Created two 2.5 minute quarterly news animation sequences for the Science Bulletins Department at AMNH using Partiview, Uniview, Maya7, Shake3.5 and PiranhaHD, which were recorded to HDCam and then encoded to HDTV Mpeg2.  For playback to visitors within AMNH, and distributed to a network of Museums and Educational Institutions around the world via the Internet.
 | &nbsp;             | &nbsp;
-| 1999 - 2000        | **New York Institute of Technology (https://www.nyit.edu)**
+| 1999 - 2000        | **[New York Institute of Technology, https://www.nyit.edu](https://www.nyit.edu)**
 | &nbsp;             | Advanced Computer Graphics Department
 | &nbsp;             | _SGI/Unix Systems Admin_
 | &nbsp;             | **Systems and Infrastructure:**
