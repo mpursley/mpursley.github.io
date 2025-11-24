@@ -70,16 +70,26 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;                                                                     
 |---                 |---
-| Feb 2025 - Present | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)** 
-| &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
+| Feb 2025 - Present | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)** | &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
-| &nbsp;             | **Infrastructure Orchestration** 
-| &nbsp;             | • Lead the design and execution of critical infrastructure updates and hotfixes using Pulumi and Terraform driven by GitHub Actions pipelines, in various AWS EKS Kubernetes clusters.
-| &nbsp;             | • Manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
-| &nbsp;             | **Observability Architecture** 
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Infrastructure Orchestration**
+| &nbsp;             | _Objectives:_
+| &nbsp;             | • Lead the design and execution of critical infrastructure updates and hotfixes using Pulumi and Terraform, driven by GitHub Actions pipelines across various AWS EKS Kubernetes clusters.
+| &nbsp;             | • Manage the full Change Request lifecycle, including strategic presentation and approval from the Change Advisory Board (CAB).
+| &nbsp;             | • Drive cloud usage rightsizing, resource decommissioning, and cost reduction initiatives.
+| &nbsp;             | _Key Results:_
+| &nbsp;             | • Documented clear, tested procedures for IaC management setup, significantly reducing onboarding time for new Platform Team members.
+| &nbsp;             | • Achieved $1000s/month in cloud cost savings by auditing, migrating, and removing legacy services and 30+ dormant infrastructure resources.
+| &nbsp;             | &nbsp;
+| &nbsp;             | **Observability Architecture and Management**
+| &nbsp;             | _Objectives:_
 | &nbsp;             | • Architect and maintain a "single pane of glass" observability ecosystem using Grafana, Prometheus, and Cribl to unify data streams for enhanced operational visibility.
 | &nbsp;             | • Integrate logs, metrics, and alerts from AWS CloudWatch, PagerDuty, and Cribl to ensure comprehensive system monitoring.
-| &nbsp;             | • Ingest and visualize event data from SentinelOne and Torq, alongside operational metrics to correlate security incidents, events, and data drops.
+| &nbsp;             | • Ingest and visualize event data from SentinelOne and Torq, alongside operational metrics, to correlate security incidents, events, and data drops.
+| &nbsp;             | _Key Results:_
+| &nbsp;             | • Organized and labeled alerts by priority, establishing dedicated alert channels and routing.
+| &nbsp;             | • Mitigated alert fatigue by reducing daily firing alerts by >35%, replacing noisy notifications with targeted, actionable alerts linked to specific dashboards and runbooks.
 | &nbsp;             | &nbsp;
 | 2021 - Present     | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)** 
 | &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
