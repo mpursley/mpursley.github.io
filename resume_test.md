@@ -15,7 +15,7 @@ title: Matt Pursley's CV
       Site Reliability Engineer, DevOps, CloudOps<br>
       <div id="emailaddress">
         <i class="fi-mail">
-        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br></i> 
+        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br></i>
       </div>
       <div id="webaddress">
         <i class="fi-telephone"></i> 772-226-0559<br>
@@ -60,7 +60,7 @@ title: Matt Pursley's CV
 | :---               | :------------------------|:---------------------------------|:------------------------
 | &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Kibana, Elasticsearch
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
-| &nbsp;             | • MacOS                  | • Golang                         | • CDCI (Github, Kubernetes)
+| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, GitLab CI
 | &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
 
 <br><br><br>
@@ -68,29 +68,20 @@ title: Matt Pursley's CV
 
 ## Work Experience
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;                                                                     
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;
 |---                 |---
-| Feb 2025 - Present | **UltraViolet Cyber, [https://uvcyber.com](https://uvcyber.com/)** 
+| Feb 2025 - Present | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
 | &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
-| &nbsp;             | &nbsp;
 | &nbsp;             | **Infrastructure Orchestration**
-| &nbsp;             | • Lead the design and execution of critical infrastructure updates and hotfixes using Pulumi and Terraform, driven by GitHub Actions pipelines across various AWS EKS Kubernetes clusters.
-| &nbsp;             | • Manage the full Change Request lifecycle, including strategic presentation and approval from the Change Advisory Board (CAB).
-| &nbsp;             | • Drive cloud usage rightsizing, resource decommissioning, and cost reduction initiatives.
-| &nbsp;             | _Key Results:_
-| &nbsp;             | • Documented clear, tested procedures for IaC management setup, significantly reducing onboarding time for new Platform Team members.
-| &nbsp;             | • Achieved $1000s/month in cloud cost savings by auditing, migrating, and removing legacy services and dormant infrastructure resources.
-| &nbsp;             | &nbsp;
-| &nbsp;             | **Observability Architecture and Management**
+| &nbsp;             | • Lead the design of critical infrastructure updates using Pulumi, Terraform, ArgoCD/Rollouts to drive GitOps-based continuous delivery across various AWS EKS Kubernetes clusters
+| &nbsp;             | • Manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
+| &nbsp;             | **Observability Architecture**
 | &nbsp;             | • Architect and maintain a "single pane of glass" observability ecosystem using Grafana, Prometheus, and Cribl to unify data streams for enhanced operational visibility.
 | &nbsp;             | • Integrate logs, metrics, and alerts from AWS CloudWatch, PagerDuty, and Cribl to ensure comprehensive system monitoring.
-| &nbsp;             | • Ingest and visualize event data from SentinelOne and Torq, alongside operational metrics, to correlate security incidents, events, and data drops.
-| &nbsp;             | _Key Results:_
-| &nbsp;             | • Organized and labeled alerts by priority, establishing dedicated alert channels and routing.
-| &nbsp;             | • Mitigated alert fatigue by reducing daily firing alerts by >35%, replacing noisy notifications with targeted, actionable alerts linked to specific dashboards and runbooks.
+| &nbsp;             | • Ingest and visualize event data from SentinelOne and Torq, alongside operational metrics to correlate security incidents, events, and data drops.
 | &nbsp;             | &nbsp;
-| 2021 - Present     | **Open World Tech, [https://openworldtech.io](https://openworldtech.io/)** 
+| 2021 - Present     | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
 | &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
 | &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
 | &nbsp;             | **Internal Ventures & R&D**
@@ -98,28 +89,28 @@ title: Matt Pursley's CV
 | &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
-| Mar 2023 - Jan 2025 | **Zepz Inc, [https://zepzpay.com](https://zepzpay.com)** 
+| Mar 2023 - Jan 2025 | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com)**
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
 | &nbsp;             | (Sr. Site Reliability Engineer)
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
-| &nbsp;             | **Enterprise Observability Migration** 
+| &nbsp;             | **Enterprise Observability Migration**
 | &nbsp;             | • Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
-| &nbsp;             | **Synthetic Monitoring Strategy** 
+| &nbsp;             | **Synthetic Monitoring Strategy**
 | &nbsp;             | • Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
-| &nbsp;             | **Cross-Functional Enablement** 
+| &nbsp;             | **Cross-Functional Enablement**
 | &nbsp;             | • Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
-| &nbsp;             | **Incident Resolution Engineering** 
+| &nbsp;             | **Incident Resolution Engineering**
 | &nbsp;             | • Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Key Consulting Engagements (Contract)**
-| Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** 
+| Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)**
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
 | &nbsp;             | (Technical Consultant)
 | &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
 | &nbsp;             | • **Kubernetes Orchestration:** Integrated auto-scaling infrastructure for dedicated game servers using Kubernetes clusters and [UnrealContainers](https://github.com/UnrealContainers).
 | &nbsp;             | • **LiveOps & Data:** Optimized user data pipelines, implemented build monitoring, and managed live technical operations for game match demos at the ETHDenver Conference.
 | &nbsp;             | &nbsp;
-| 2021 - 2023    | **Improbable Worlds, [https://www.improbable.io](https://www.improbable.io/)**
+| 2021 - 2023    | **[Improbable Worlds, https://www.improbable.io](https://www.improbable.io/)**
 | &nbsp;             | British multinational company focusing on technology to support large scale games, metaverse, and virtual worlds/events
 | &nbsp;             | _Sr. LiveOps, DevOps and Site Reliability Engineer_
 | &nbsp;             | **Infrastructure and Application Deployment and Management**
@@ -127,7 +118,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Planned, Developed, Tested and Deployed large-scale system upgrades, with additional HA redundancy and monitoring to reduce the risk of Customer or User impact.
 | &nbsp;             | • Developed and upgraded dashboards and alerts using SLOs, SLAs, KPI metrics and logs.
 | &nbsp;             | &nbsp;
-| 2019 - 2021        | **Sage Intacct, [https://www.sageintacct.com](https://www.sageintacct.com/)**
+| 2019 - 2021        | **[Sage Intacct, https://www.sageintacct.com](https://www.sageintacct.com/)**
 | &nbsp;             | British based software company focusing on financial services and management
 | &nbsp;             | _Sr. SRE, Site Reliability Engineer_
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
@@ -137,7 +128,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Collected feedback from various stake-holder Teams and individuals about scoring values for viable alternatives.
 | &nbsp;             | • Architected a full project plan to deploy and migrate to a newly developed metrics collection and storage solution, while carefully scaling back and retiring the legacy system.
 | &nbsp;             | &nbsp;
-| 2012 - 2019        | **Sony Interactive Entertainment, Playstation, [https://www.playstation.com](https://www.playstation.com/)**
+| 2012 - 2019        | **[Sony Interactive Entertainment, Playstation, https://www.playstation.com](https://www.playstation.com/)**
 | &nbsp;             | Playstation Now, a global video game streaming platform
 | &nbsp;             | _SRE, Site Reliability Engineer_
 | &nbsp;             | **Infrastructure and Application Monitoring and Alerting**
@@ -174,7 +165,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Performed and reported RCA and Postmortem findings
 | &nbsp;             | • Troubleshot/break fixed and/or escalated discovered issues to relevant teams or engineers
 | &nbsp;             | &nbsp;
-| 2010 - 2012        | **Digital Domain, [https://digitaldomain.com](https://digitaldomain.com/)** - Vancouver, BC and Port St Lucie, FL
+| 2010 - 2012        | **[Digital Domain, https://digitaldomain.com](https://digitaldomain.com/)** - Vancouver, BC and Port St Lucie, FL
 | &nbsp;             | _Sr. Systems Admin and Engineer_
 | &nbsp;             | On-screen Credits: The Legend of Tembo, Jack the Giant Killer, Transformers 3, Tron Legacy, Thor
 | &nbsp;             | [https://www.imdb.com/name/nm1250137/](https://www.imdb.com/name/nm1250137)
@@ -208,7 +199,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • "Finaled" the Lighting and Rendering of 65 animated face replacement shots.
 | &nbsp;             | • "Finaled" all in-house Fluid FX using Maya 2009 and Houdini Master 10. Including dust, smoke, clouds, rocket thrusters, etc.
 | &nbsp;             | &nbsp;
-| 2000 - 2007        | **American Museum of Natural History, [https://www.amnh.org](https://www.amnh.org/)** 
+| 2000 - 2007        | **[American Museum of Natural History, https://www.amnh.org](https://www.amnh.org/)** 
 | &nbsp;             | Rose Center for Earth and Space and Science Bulletins Departments
 | &nbsp;             | _Technical Director/Unix Systems Administrator_
 | &nbsp;             | **Systems and Infrastructure:**
@@ -218,7 +209,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Worked with the Art Director to design, model and animate "Feather Dream", which comprises 2 of the 36 Minute Planetarium Music Show entitled "Sonic Vision". Additionally, worked to create several background elements and transitions between other shots within the show. "Feather Dream" was created using Maya6 and Shake3.5.
 | &nbsp;             | • Created two 2.5 minute quarterly news animation sequences for the Science Bulletins Department at AMNH using Partiview, Uniview, Maya7, Shake3.5 and PiranhaHD, which were recorded to HDCam and then encoded to HDTV Mpeg2.  For playback to visitors within AMNH, and distributed to a network of Museums and Educational Institutions around the world via the Internet.
 | &nbsp;             | &nbsp;
-| 1999 - 2000        | **New York Institute of Technology, [https://www.nyit.edu](https://www.nyit.edu)**
+| 1999 - 2000        | **[New York Institute of Technology, https://www.nyit.edu](https://www.nyit.edu)**
 | &nbsp;             | Advanced Computer Graphics Department
 | &nbsp;             | _SGI/Unix Systems Admin_
 | &nbsp;             | **Systems and Infrastructure:**
