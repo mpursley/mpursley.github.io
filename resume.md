@@ -15,7 +15,7 @@ title: Matt Pursley's CV
       Site Reliability Engineer, DevOps, CloudOps<br>
       <div id="emailaddress">
         <i class="fi-mail">
-        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br></i> 
+        <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br></i>
       </div>
       <div id="webaddress">
         <i class="fi-telephone"></i> 772-226-0559<br>
@@ -60,7 +60,7 @@ title: Matt Pursley's CV
 | :---               | :------------------------|:---------------------------------|:------------------------
 | &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Kibana, Elasticsearch
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
-| &nbsp;             | • MacOS                  | • Golang                         | • CDCI (Github, Kubernetes)
+| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, GitLab CI
 | &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
 
 <br><br><br>
@@ -68,20 +68,20 @@ title: Matt Pursley's CV
 
 ## Work Experience
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;                                                                     
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;
 |---                 |---
-| Feb 2025 - Present | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)** 
+| Feb 2025 - Present | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
 | &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
-| &nbsp;             | **Infrastructure Orchestration** 
-| &nbsp;             | • Lead the design and execution of critical infrastructure updates and hotfixes using Pulumi and Terraform driven by GitHub Actions pipelines, in various AWS EKS Kubernetes clusters.
+| &nbsp;             | **Infrastructure Orchestration**
+| &nbsp;             | • Lead the design of critical infrastructure updates using Pulumi, Terraform, ArgoCD/Rollouts to drive GitOps-based continuous delivery across various AWS EKS Kubernetes clusters
 | &nbsp;             | • Manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
-| &nbsp;             | **Observability Architecture** 
+| &nbsp;             | **Observability Architecture**
 | &nbsp;             | • Architect and maintain a "single pane of glass" observability ecosystem using Grafana, Prometheus, and Cribl to unify data streams for enhanced operational visibility.
 | &nbsp;             | • Integrate logs, metrics, and alerts from AWS CloudWatch, PagerDuty, and Cribl to ensure comprehensive system monitoring.
 | &nbsp;             | • Ingest and visualize event data from SentinelOne and Torq, alongside operational metrics to correlate security incidents, events, and data drops.
 | &nbsp;             | &nbsp;
-| 2021 - Present     | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)** 
+| 2021 - Present     | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
 | &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
 | &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
 | &nbsp;             | **Internal Ventures & R&D**
@@ -89,21 +89,21 @@ title: Matt Pursley's CV
 | &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
-| Mar 2023 - Jan 2025 | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com)** 
+| Mar 2023 - Jan 2025 | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com)**
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
 | &nbsp;             | (Sr. Site Reliability Engineer)
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
-| &nbsp;             | **Enterprise Observability Migration** 
+| &nbsp;             | **Enterprise Observability Migration**
 | &nbsp;             | • Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
-| &nbsp;             | **Synthetic Monitoring Strategy** 
+| &nbsp;             | **Synthetic Monitoring Strategy**
 | &nbsp;             | • Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
-| &nbsp;             | **Cross-Functional Enablement** 
+| &nbsp;             | **Cross-Functional Enablement**
 | &nbsp;             | • Partnered with DBA and DevOps leadership to modernize monitoring architectures for mission-critical databases and cloud infrastructure.
-| &nbsp;             | **Incident Resolution Engineering** 
+| &nbsp;             | **Incident Resolution Engineering**
 | &nbsp;             | • Engineered and refined incident response protocols, reducing MTTR for company-wide outages and ensuring high availability (9s) for business services.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Key Consulting Engagements (Contract)**
-| Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)** 
+| Jan 2023 - Mar 2023 | **[Worlds Gaming](https://www.linkedin.com/company/worldsgaming)**
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
 | &nbsp;             | (Technical Consultant)
 | &nbsp;             | • **Cloud & Pixel Streaming:** Architected a Proof-of-Concept (POC) for high-fidelity game streaming using Nvidia GPU instances across multi-cloud providers (AWS, CoreWeave, GeForce Now).
