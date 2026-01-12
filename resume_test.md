@@ -62,6 +62,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Cloudflare, AWS Cloudfront/WAF, Google Cloud Armor
 | &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, Terraform, Atlantis
 | &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • PagerDuty, OpsGenie, Slack, Discord
+
 <br><br><br>
 <hr>
 
