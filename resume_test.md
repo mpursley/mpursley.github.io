@@ -58,11 +58,10 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting
 | :---               | :------------------------|:---------------------------------|:------------------------
-| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Kibana, Elasticsearch
-| &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
-| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, GitLab CI
-| &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
-
+| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • LGTM (Loki, Grafana, Tempo, Mimir), Datadog, Elasticsearch/Kibana
+| &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Cloudflare, AWS Cloudfront/WAF, Google Cloud Armor
+| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, Terraform, Atlantis
+| &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • PagerDuty, OpsGenie, Slack, Discord
 <br><br><br>
 <hr>
 
