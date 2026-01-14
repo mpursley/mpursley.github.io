@@ -44,6 +44,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • **Cross-Functional Team Leadership and Collaboration**: Facilitate collaboration between Engineering, QA, Product, and Security teams to ensure applications meet SLOs/SLAs and budgetary constraints. Serve as the primary point of contact for infrastructure, observability, and production readiness reviews and related issues.
 | &nbsp;             | • **DevOps, Infrastructure as Code & Observability**: Implement Infrastructure as Code (IaC) using Terraform and Helm. Deploy and manage monitoring, logging, and alerting systems using Grafana, Prometheus, ELK stack, and other CNCF/open-source technologies.
 | &nbsp;             | • **Backend Development & Collaboration**: Directly manage and contribute to the development and updates of segmented parts of backend infrastructure and applications. Collaborate with Subject Matter Expert (SME) Engineers, QA, and Project Managers to ensure timely delivery. Improve backend processing efficiency through resource monitoring and optimization.
+| &nbsp;             | • **AI/LLM Integration and Automation**:  GitOps and Agent Management, Review, Auditing, Orchestration and Monitoring (OpenAI, Anthropic Claude Code, Gemini CLI, Ollama, etc). Incident Management Integration: Incident.io, FireHydrant, Grafana ML/Sift. Infrastructure/Kubernetes: Gemini Antigravity/CLI, HolmesGPT, Google kubectl-ai.
 | &nbsp;             | • **Data-Driven Decision Making & Reporting**: Take ownership of establishing and tracking SLI, SLA, and SLO metrics to ensure products deliver value to internal and external customers. Utilize data analysis to inform resource planning, cost optimization strategies, and provide regular progress reports to stakeholders, including senior management.
 | &nbsp;             | • **Security Best Practices & Compliance**: Implement and maintain security best practices for microservice architectures including least privilege access, defense-in-depth strategies, authorization, secrets management, and encryption to accommodate compliance frameworks such as SOC 2, PCI DSS, PSD2, and SCA.
 | &nbsp;             | • **Cloud Security & DDoS Mitigation**: Leverage Cloud-based Web Security systems (e.g. Cloudflare, Akamai) for DDoS protection, service rate limiting, and WAF (Web Application Firewall) configurations. Utilize AWS IAM, security groups, and Well-Architected Framework best practices to secure cloud infrastructure.
@@ -241,3 +242,5 @@ title: Matt Pursley's CV
 
 <br><br><br><br>
 <hr>
+
+
