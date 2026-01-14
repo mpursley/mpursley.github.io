@@ -55,7 +55,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • **Talent Acquisition & Development**: Lead the recruitment, interviewing, hiring, and onboarding of high-performing engineers. Improve onboarding processes and documentation to reduce team training and ramp-up time. Mentor team members to achieve company and personal goals.
 
 
-<br>
+<br><br><br><br>
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting   |  AI/LLM Integration and Automation 
 | :---               | :------------------------|:---------------------------------|:----------------------------------|:------------------------
@@ -63,6 +63,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Cloudflare, AWS Cloudfront/WAF, Google Cloud Armor                      | • Models:  Google (Gemini/Vertex AI), Anthropic (Claude Opus), Ollama (On-Prem)
 | &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, Terraform, Atlantis    | • Incident Management Integration: Incident.io, FireHydrant, Grafana ML/Sift
 | &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • PagerDuty, OpsGenie, Slack, Discord                                     | • Infrastructure/Kubernetes: Gemini Antigravity/CLI, HolmesGPT, Google kubectl-ai
+
 <hr>
 
 ## Work Experience
@@ -240,3 +241,4 @@ title: Matt Pursley's CV
 
 <br><br><br><br>
 <hr>
+
