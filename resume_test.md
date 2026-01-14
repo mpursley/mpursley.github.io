@@ -57,21 +57,15 @@ title: Matt Pursley's CV
 
 <br>
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting   |  AI/LLM Integration and Automation
-| :---               | :------------------------|:---------------------------------|:----------------------------------|:------------------------
-| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • LGTM (Loki, Grafana, Tempo, Mimir), Datadog, Elasticsearch/Kibana     | •  GitOps/ChatOps Integration, Agentic Workflows, Automated Telemetry Analysis
-| &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Cloudflare, AWS Cloudfront/WAF, Google Cloud Armor                    | • OpenAI (GPT5), Anthropic (Claude), Google (Gemini/Vertex), Ollama (On-prem)
-| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, Terraform, Atlantis  | • Incident Management Integration: Incident.io, FireHydrant, Rootly, Tines
-| &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • PagerDuty, OpsGenie, Slack, Discord                                   | • Infrastructure/Kubernetes: Gemini CLI, Claude Code, HolmesGPT, kubectl-ai
-
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  |   Systems Platforms      | Scripting & Coding               | Monitoring & Alerting
-| :---               | :------------------------|:---------------------------------|:------------------------
-| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Kibana, Elasticsearch
-| &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
-| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, GitLab CI
-| &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
-
 <br><br><br>
+=======
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting   |  AI/LLM Integration and Automation 
+| :---               | :------------------------|:---------------------------------|:----------------------------------|:------------------------
+| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • LGTM (Loki, Grafana, Tempo, Mimir), Datadog, Elasticsearch/Kibana       | • GitOps/ChatOps Integration, Agentic Workflows, Service Log/Telemetry Analysis
+| &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Cloudflare, AWS Cloudfront/WAF, Google Cloud Armor                      | • Models:  Google (Gemini/Vertex AI), Anthropic (Claude Opus), Ollama (On-Prem)
+| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, Terraform, Atlantis    | • Incident Management Integration: Incident.io, FireHydrant, Grafana ML/Sift
+| &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • PagerDuty, OpsGenie, Slack, Discord                                     | • Infrastructure/Kubernetes: Gemini Antigravity/CLI, HolmesGPT, Google kubectl-ai
+
 <hr>
 
 ## Work Experience
