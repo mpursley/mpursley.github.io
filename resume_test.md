@@ -55,10 +55,8 @@ title: Matt Pursley's CV
 | &nbsp;             | • **Talent Acquisition & Development**: Lead the recruitment, interviewing, hiring, and onboarding of high-performing engineers. Improve onboarding processes and documentation to reduce team training and ramp-up time. Mentor team members to achieve company and personal goals.
 
 
-<br>
+<br><br><br><br>
 
-<br><br><br>
-=======
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting   |  AI/LLM Integration and Automation 
 | :---               | :------------------------|:---------------------------------|:----------------------------------|:------------------------
 | &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • LGTM (Loki, Grafana, Tempo, Mimir), Datadog, Elasticsearch/Kibana       | • GitOps/ChatOps Integration, Agentic Workflows, Service Log/Telemetry Analysis
@@ -243,3 +241,4 @@ title: Matt Pursley's CV
 
 <br><br><br><br>
 <hr>
+
