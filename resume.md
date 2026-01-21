@@ -71,7 +71,14 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;
 |---                 |---
-| Feb 2025 - Present | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
+| 2021 - Present     | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
+| &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
+| &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
+| &nbsp;             | **Internal Ventures & R&D**
+| &nbsp;             | • **Game Server Ops:** Develop GitOps based automated solutions for dedicated Game Servers.
+| &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
+| &nbsp;             | &nbsp;
+| Feb 2025 - Jan 2026 | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
 | &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
 | &nbsp;             | **Infrastructure Orchestration**
@@ -81,13 +88,6 @@ title: Matt Pursley's CV
 | &nbsp;             | • Architect and maintain a "single pane of glass" observability ecosystem using Grafana, Prometheus, and Cribl to unify data streams for enhanced operational visibility.
 | &nbsp;             | • Integrate logs, metrics, and alerts from AWS CloudWatch, PagerDuty, and Cribl to ensure comprehensive system monitoring.
 | &nbsp;             | • Ingest and visualize event data from SentinelOne and Torq, alongside operational metrics to correlate security incidents, events, and data drops.
-| &nbsp;             | &nbsp;
-| 2021 - Present     | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
-| &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
-| &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
-| &nbsp;             | **Internal Ventures & R&D**
-| &nbsp;             | • **Game Server Ops:** Develop GitOps based automated solutions for dedicated Game Servers.
-| &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
 | Mar 2023 - Jan 2025 | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com)**
@@ -242,5 +242,6 @@ title: Matt Pursley's CV
 
 <br><br><br><br>
 <hr>
+
 
 
