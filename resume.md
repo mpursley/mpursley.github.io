@@ -61,7 +61,7 @@ title: Matt Pursley's CV
 | :---               | :------------------------|:---------------------------------|:------------------------
 | &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Kibana, Elasticsearch
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
-| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: GitHub Actions, ArgoCD, Jenkins, GitLab CI
+| &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: Terraform, GitHub Actions, ArgoCD, GitLab CI, Kubernetes
 | &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
 
 <br><br><br>
@@ -78,6 +78,7 @@ title: Matt Pursley's CV
 | &nbsp;             | • **Game Server Ops:** Develop GitOps based automated solutions for dedicated Game Servers.
 | &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
+| &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
 | Feb 2025 - Jan 2026 | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
 | &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
 | &nbsp;             | _Staff DevOps/Site Reliability Engineer_
@@ -89,7 +90,6 @@ title: Matt Pursley's CV
 | &nbsp;             | • Integrate logs, metrics, and alerts from AWS CloudWatch, PagerDuty, and Cribl to ensure comprehensive system monitoring.
 | &nbsp;             | • Ingest and visualize event data from SentinelOne and Torq, alongside operational metrics to correlate security incidents, events, and data drops.
 | &nbsp;             | &nbsp;
-| &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
 | Mar 2023 - Jan 2025 | **[Zepz Inc, https://zepzpay.com](https://zepzpay.com)**
 | &nbsp;             | British based global digital cross-border payments platform that enables international money transfers.
 | &nbsp;             | (Sr. Site Reliability Engineer)
@@ -242,6 +242,8 @@ title: Matt Pursley's CV
 
 <br><br><br><br>
 <hr>
+
+
 
 
 
