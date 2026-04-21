@@ -59,7 +59,7 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting
 | :---               | :------------------------|:---------------------------------|:------------------------
-| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Kibana, Elasticsearch
+| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Datadog, Loki, Elasticsearch
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
 | &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: Terraform, GitHub Actions, ArgoCD, GitLab CI, Kubernetes
 | &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
@@ -95,7 +95,8 @@ title: Matt Pursley's CV
 | &nbsp;             | (Sr. Site Reliability Engineer)
 | &nbsp;             | Indie Game Dev backed by Polychain, Polygon, Circle, and Sui
 | &nbsp;             | **Enterprise Observability Migration**
-| &nbsp;             | • Spearheaded the strategic consolidation of fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
+| &nbsp;             | • Developed, deployed, and refined infrastructure monitoring configurations across Datadog, NewRelic, and AWS CloudWatch to support massive scale and reduce alert fatigue.
+| &nbsp;             | • Spearheaded the strategic consolidation of various fragmented monitoring tools (Datadog, NewRelic, AWS Cloudwatch, etc.) into a unified Grafana Cloud ecosystem, significantly reducing operational overhead.
 | &nbsp;             | **Synthetic Monitoring Strategy**
 | &nbsp;             | • Directed the migration and enhancement of remote synthetic checks from legacy vendors (Site24x7, Pingdom) into a centralized Grafana dashboard.
 | &nbsp;             | **Cross-Functional Enablement**
