@@ -59,7 +59,7 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   |   Systems Platforms        | Scripting & Coding          | Monitoring & Alerting
 | :---               | :------------------------|:---------------------------------|:------------------------
-| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Datadog, Loki, Elasticsearch
+| &nbsp;             | • Amazon EKS, Google GKE | • Shell Script                   | • Grafana, Datadog, New Relic, Loki, Elasticsearch
 | &nbsp;             | • Ubuntu, CentOS, Fedora | • Python                         | • Prometheus, Alerts, Exporters
 | &nbsp;             | • MacOS                  | • Golang                         | • CI/CD & GitOps: Terraform, GitHub Actions, ArgoCD, GitLab CI, Kubernetes
 | &nbsp;             | • Windows, WSL           | • Javascript, Typescript         | • Atlassian (Jira, Confluence, etc.)
