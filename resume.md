@@ -35,7 +35,7 @@ title: Matt Pursley's CV
 
 ## Skills
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Technical Team and Project Leader<br>Site Reliability Engineer, DevOps, CloudOps<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Technical Team and Project Leader<br>Platform, DevOps, Site Reliability Engineer<br>
 | :------------------------ | :------------------------
 | &nbsp;             |
 | &nbsp;             | • **Project & Team Leadership**: Lead and mentor teams of 3-5 engineers, driving project deliverables, timelines, and budgets. Present project status, risks, and resource utilization reports to Senior ICs, Directors, and C-Level executives. Consistently deliver projects within budget and on schedule.
