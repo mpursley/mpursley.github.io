@@ -12,7 +12,7 @@ title: Matt Pursley's CV
     <td align="left">
       <b>Matt Pursley</b>, RHCE PSM<br>
       Technical Team and Project Leader<br>
-      Site Reliability Engineer, DevOps, CloudOps<br>
+      Platform, DevOps, Site Reliability Engineer<br>
       <div id="emailaddress">
         <i class="fi-mail">
         <a href="mailto:mpursley@gmail.com">mpursley@gmail.com</a><br></i>
@@ -71,17 +71,18 @@ title: Matt Pursley's CV
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |   &nbsp;
 |---                 |---
-| 2021 - Present     | **[Open World Tech, https://openworldtech.io](https://openworldtech.io/)**
+| 2021 - Present     | **Stealth Startup**
 | &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
 | &nbsp;             | _Co-Founder & Principal Site Reliability Engineer_
 | &nbsp;             | **Internal Ventures & R&D**
-| &nbsp;             | • **Game Server Ops:** Develop GitOps based automated solutions for dedicated Game Servers.
+| &nbsp;             | • **Cloud Platform and Game Server Ops:** Develop GitOps based automated solutions for dedicated Game Servers.
+| &nbsp;             | **CI/CD Pipeline**: Develop and support fully automated CI/CD pipeline for Web, Desktop and Mobile applications. Apps being built and deployed for Open/Public Users, in both Google Play and Apple MacOS/IOS App stores.
 | &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
 | Feb 2025 - Jan 2026 | **[UltraViolet Cyber, https://uvcyber.com](https://uvcyber.com/)**
 | &nbsp;             | Leading tech-enabled managed security services provider that unifies offensive (red team) and defensive (blue team) cybersecurity operations into a single, comprehensive platform.
-| &nbsp;             | _Staff DevOps/Site Reliability Engineer_
+| &nbsp;             | _Staff Platform/DevOps/Site Reliability Engineer_
 | &nbsp;             | **Infrastructure Orchestration**
 | &nbsp;             | • Lead the design of critical infrastructure updates using Pulumi, Terraform, ArgoCD/Rollouts to drive GitOps-based continuous delivery across various AWS EKS Kubernetes clusters
 | &nbsp;             | • Manage the full Change Request lifecycle including strategic presentation and approval from the Change Advisory Board (CAB).
