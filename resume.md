@@ -76,7 +76,7 @@ title: Matt Pursley's CV
 | &nbsp;             | _Co-Founder & Principal Platform/DevOps/Site Reliability Engineer_
 | &nbsp;             | **Internal Ventures & R&D**
 | &nbsp;             | • **Cloud Platform and Game Server Ops:** Develop GitOps based automated solutions for dedicated Game Servers.
-| &nbsp;             | • **CI/CD Pipeline**: Develop and support fully automated CI/CD pipeline for Web, Desktop and Mobile applications. Apps being built and deployed for Open/Public Users, in both Google Play, Apple MacOS/IOS, Steam and Epic Game/App Stores.
+| &nbsp;             | • **CI/CD Pipeline**: Develop and support fully automated CI/CD pipeline for Web, Desktop and Mobile applications. Apps being built and deployed for Open/Public Users in Google Play, Apple MacOS/IOS, Steam and Epic Game/App Stores.
 | &nbsp;             | • **AI Integration:** Integrate Nvidia Omniverse digital-twin objects using Unreal Engine 5 and LLM APIs for next-gen interactive environments.
 | &nbsp;             | &nbsp;
 | &nbsp;             | **Strategic Direct Placements (Full-Time Embedded)**
