@@ -73,7 +73,7 @@ title: Matt Pursley's CV
 |---                 |---
 | Jan 2026 - Present | **Stealth Startup**
 | &nbsp;             | B2B Technology consulting, focusing on automation, scalability, serverless using large Cloud Providers and GitOps based CD/CI pipelines.
-| &nbsp;             | _Co-Founder & Principal Platform/DevOps/Site Reliability Engineer_
+| &nbsp;             | _Principal Platform/DevOps/Site Reliability Engineer_
 | &nbsp;             | **Internal Ventures & R&D**
 | &nbsp;             | • **Cloud Platform and Game Server Ops:** Develop GitOps based automated solutions for dedicated Game Servers.
 | &nbsp;             | • **CI/CD Pipeline**: Develop and support fully automated CI/CD pipeline for Web, Desktop and Mobile applications. Apps being built and deployed for Open/Public Users in Google Play, Apple MacOS/IOS, Steam and Epic Game/App Stores.
